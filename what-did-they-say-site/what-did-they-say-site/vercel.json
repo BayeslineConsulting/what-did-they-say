@@ -12,6 +12,41 @@
    "source": "/2026-10/list/",
    "destination": "/2026-10/plan/",
    "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-bahaniya-sekahama/",
+   "destination": "/2026-10/talks/elder-vaiangina-sikahema/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-christian-c-chimundo/",
+   "destination": "/2026-10/talks/elder-christian-c-chigbundu/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-patricio-jufra/",
+   "destination": "/2026-10/talks/elder-patricio-m-giuffra/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-hutch-u-folley/",
+   "destination": "/2026-10/talks/elder-hutch-u-fale/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-alfred-kungu/",
+   "destination": "/2026-10/talks/elder-alfred-kyungu/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/elder-cyril-schmeil/",
+   "destination": "/2026-10/talks/elder-ciro-schmeil/",
+   "permanent": true
+  },
+  {
+   "source": "/2026-10/talks/brother-gabriel-w-reed/",
+   "destination": "/2026-10/talks/brother-gabriel-w-reid/",
+   "permanent": true
   }
  ],
  "headers": [
