@@ -37,11 +37,14 @@ for t in TH:
 cap={'christ':'Christ','jesus':'Jesus','god':'God','lord':'Lord','savior':'Savior','father':'Father','holy':'Holy','spirit':'Spirit','book':'Book','mormon':'Mormon','ghost':'Ghost','son':'Son','heavenly':'Heavenly','church':'Church'}
 wf=[[cap.get(w,w),n] for w,n in MET['word_freq'][:60]]
 acts=[dict(theme=t,act=a,unit=u,who=names[u[:3]],q=q) for t,a,u,q in J('actions.json')]
+QUOTING=json.load(open(os.path.join(RUN,'quoting.json'))) if os.path.exists(os.path.join(RUN,'quoting.json')) else {}
 BU=J('bundles.json');IDEAS=json.load(open(os.path.join(RUN,'plan_ideas.json'))) if os.path.exists(os.path.join(RUN,'plan_ideas.json')) else {}
 def rb(b,group):
     its=[dict(unit=u,q=q,role=r,who=names[u[:3]],session=U[u]['session']) for u,q,r in b['items']]
-    return dict(group=group,ideas=IDEAS.get(b['title'],[]) if 'IDEAS' in globals() else [],title=b['title'],area=b.get('area',''),audience=b.get('audience',''),items=its,speakers=list(dict.fromkeys(i['who'] for i in its)))
-others=sorted(BU['others'],key=lambda b:-len({names[u[:3]] for u,q,r in b['items']}))
+    for i in its:
+        if i['unit'] in QUOTING: i['via']=QUOTING[i['unit']]
+    return dict(group=group,key=b.get('key',b['title']),label=b.get('label',''),ideas=IDEAS.get(b.get('key',b['title']),IDEAS.get(b['title'],[])),title=b['title'],area=b.get('area',''),audience=b.get('audience',''),items=its,speakers=list(dict.fromkeys(i['who'] for i in its)))
+others=BU['others']
 bundles=[rb(b,'own') for b in BU['oaks_own']]+[rb(b,'repeated') for b in BU['oaks_repeated']]+[rb(b,'multi' if len({names[u[:3]] for u,q,r in b['items']})>1 and not b.get('audience') else ('audience' if b.get('audience') else 'single')) for b in others]
 VOLMAP=json.load(open(os.path.join(RUN,'scripture_vol.json'))) if os.path.exists(os.path.join(RUN,'scripture_vol.json')) else {}
 vol=Counter()
@@ -74,7 +77,17 @@ for t in [x['talk_id'] for x in segs['talks']]:
     ks={k for u,v in A.items() if u.startswith(t+'.') for k in v};new=ks-seen;seen|=ks;cats|={M[k]['category'] for k in ks}
     sat.append([t,len(new),len(seen),len(cats)])
 cbs=[dict(code=M[k]['code'],method=M[k]['method'],definition=M[k]['definition'],include=M[k]['include'],exclude=M[k]['exclude'],category=M[k]['category'][4:]) for k in RC.get('codebook_sample',[]) if k in M]
-DATA=dict(talks=talks,sessnames=SESN,site=RC.get('site',{}),five=RC.get('five_min',[]),quiz=RC.get('quiz',[]),icons=RC.get('icons',{}),saturation=sat,codebook=cbs,conf=segs['conference'],label=RC['label'],subtitle=RC['subtitle'],lead=RC['lead'],arc=RC['arc'],sessions=SES,
+LESSONS={}
+for t in segs['talks']:
+    f=os.path.join(RUN,'lessons_out',t['talk_id']+'.json')
+    if os.path.exists(f): LESSONS[t['talk_id']]=json.load(open(f))
+for e in themes:
+    for x in e['examples']:
+        if x['unit'] in QUOTING: x['via']=QUOTING[x['unit']]
+for a in acts:
+    if a['unit'] in QUOTING: a['via']=QUOTING[a['unit']]
+COUNSEL=[dict(unit=u,q=q,who=names[u[:3]]) for u,q in BU.get('counsel',[])]
+DATA=dict(lessons=LESSONS,counsel=COUNSEL,quoting=QUOTING,talks=talks,sessnames=SESN,site=RC.get('site',{}),five=RC.get('five_min',[]),quiz=RC.get('quiz',[]),icons=RC.get('icons',{}),saturation=sat,codebook=cbs,conf=segs['conference'],label=RC['label'],subtitle=RC['subtitle'],lead=RC['lead'],arc=RC['arc'],sessions=SES,
   stats=dict(talks=len(segs['talks']),speakers=len({t['speaker'] for t in segs['talks']}),words=words,units=len(U),apps=sum(len(v) for v in A.values()),
              codes=len({k for v in A.values() for k in v}),categories=len({M[k]['category'] for v in A.values() for k in v}),actions=len(acts),scripture=sum(vol.values())),
   themes=themes,actions=acts,bundles=bundles,president=BU['president'],words=wf,facts=RC['fun_facts'],groups=RC['speaker_groups'],groupnote=RC['speaker_note'],

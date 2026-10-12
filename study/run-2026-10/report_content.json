@@ -1,7 +1,7 @@
 {
  "label": "October 2026 General Conference",
  "subtitle": "196th Semiannual General Conference · 4 sessions · coded from the official talk texts, October 11, 2026",
- "lead": "Here is one careful answer: every talk summarized, the patterns we noticed across all 37, and everything we were explicitly asked to do, starting with President Oaks.",
+ "lead": "Here is one careful answer: every talk summarized, the patterns we noticed across all 37, every direct invitation in the speakers' own words, and a lesson to teach for each talk.",
  "arc": "74% of the adversity material fell on Saturday; 86% of the truth-with-love material fell on Sunday.",
  "notes": {
   "TH01": "Covenants are described as acting when the person is not: ancestors' covenants reach a descendant raised in another church, and covenants \"do not 'take a day off'\" (Elder Morgan, quoting President Oaks). The protection runs both ways, for the wandering child and for the faithful spouse, and three talks tie the weekly sacrament to staying on that path.",
@@ -282,18 +282,22 @@
     "Open, axial, and selective coding (Williams & Moser, 2019): codes grouped into 26 categories, then ten themes stated as claims. Constant comparison throughout. Rhetorical moves coded but held out of the themes. Theme count set by the principal investigator."
    ],
    [
-    "Action items",
-    "Pattern search for invitation language across all units, then a full reading of each talk's directive passages. Kept only explicit invitations and direct instructions to listeners (subgroups flagged); promises, wishes, and descriptions excluded; each anchored to a verbatim quote."
+    "Direct invitations",
+    "Pattern search for invitation language across all units, then a full reading of each talk's directive passages. Kept only direct invitations: sentences in which the speaker says “I invite,” “let us,” “please,” “I urge,” “I plead,” “I ask you,” “I call upon,” or names what follows as an invitation. Plain instructions, promises, wishes, and descriptions are excluded. Each invitation is quoted in the speaker's exact words; similar invitations are grouped, and subgroups are flagged."
    ],
    [
     "Metrics",
     "Word counts, word frequencies, Christ-reference density, leader mentions, and recurring phrases produced by deterministic scripts. Talk lengths come from the official video durations. Scripture references are counted from each talk's official footnotes and in-text citations; references to study aids (Guide to the Scriptures, Bible Dictionary, Topical Guide) are not counted."
+   ],
+   [
+    "Lessons",
+    "Three 30-minute lessons per talk (adults, youth, children) were drafted by the same AI model from the official text of each talk, checked by script (timing, exact quotations, scripture references cited at this conference), and then reviewed by a separate pass for fidelity to the talk, doctrine, and suitability for children. They are study aids, not official Church lessons."
    ]
   ],
   "trust": [
    [
     "Credibility",
-    "All 186 excerpts in the invitation list and example tables verified by script to appear word for word in the cited unit of the official text."
+    "All 150 excerpts in the invitation list and example tables, and every quotation in the lessons, verified by script to appear word for word in the cited unit of the official text."
    ],
    [
     "Dependability",
@@ -442,8 +446,8 @@
    "Saturday dwelt on trials (74% of the adversity material); Sunday turned to how we treat each other (86% of the truth-with-love material)."
   ],
   [
-   "What the prophet asked",
-   "President Oaks asked us to focus on developing faith in Christ, hold on to the first article of faith, keep our commandments and covenants, protect ourselves through the sacrament, believe the Book of Mormon's promises, act on and share these truths, and study the talks."
+   "What the prophet invited",
+   "President Oaks extended four direct invitations: keep the commandments and be true to your covenants, believe the Book of Mormon's promises, act on these truths and share them, and study and ponder the conference talks."
   ],
   [
    "The surprise",
