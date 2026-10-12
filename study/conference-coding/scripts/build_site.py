@@ -143,7 +143,12 @@ for tid in ORD:
             segs_h += f'<section class="lseg"><div class="lt"><b>{sg["minutes"]} min</b><span>{clock}–{clock + sg["minutes"]}</span></div><div><h3>{e(sg["name"])}</h3><ol>{steps}</ol>{qs}</div></section>'
             clock += sg['minutes']
         kq = ''.join(f'<div class="qcard"><p>“{qe(q["text"])}”</p><div class="who">{e(t["short"])}’s talk, {para(q["unit"])}</div></div>' for q in l['key_quotes'])
-        inv = ''.join(f'<div class="qcard inv"><p>“{qe(q["text"])}”</p><div class="who">{e(t["short"])}’s talk, {para(q["unit"])}{via({"via": D.get("quoting", {}).get(q["unit"])})}</div></div>' for q in l.get('invitations', []))
+        _n = lambda x: re.sub(r'[^a-z0-9]+', ' ', x.lower()).strip()
+        _cq = [_n(c['q']) for c in D.get('counsel', [])]
+        _isc = lambda q: any(_n(q['text']) in c or c in _n(q['text']) for c in _cq)
+        _card = lambda q: f'<div class="qcard inv"><p>“{qe(q["text"])}”</p><div class="who">{e(t["short"])}’s talk, {para(q["unit"])}{via({"via": D.get("quoting", {}).get(q["unit"])})}</div></div>'
+        _li = [q for q in l.get('invitations', []) if not _isc(q)]; _lc = [q for q in l.get('invitations', []) if _isc(q)]
+        inv = ''.join(_card(q) for q in _li); cns = ''.join(_card(q) for q in _lc)
         aq = ''.join(f'<div class="qcard"><p>“{qe(q["text"])}”</p><div class="who">{aq_who(q)}</div></div>' for q in l['aligned_quotes'])
         sc = ''.join(f'<li><b>{e(x["ref"])}</b> {e(x["use"])}</li>' for x in l['scriptures'])
         ad = l['adapt']
@@ -153,7 +158,7 @@ for tid in ORD:
         else: adh = li(ad)
         mus = f'<div class="lbox"><h3>Music</h3><ul class="plain">{li(l["music"])}</ul></div>' if l.get('music') else ''
         others = ''.join(f'<a class="{"on" if x == a else ""}" href="{B}talks/{t["slug"]}/lessons/{x}/">{xl}</a>' for x, xl, _ in AUD if x in LESS[tid])
-        invh = f'<div class="sec"><h2>The speaker’s direct invitation{"s" if len(l.get("invitations", [])) != 1 else ""}</h2>{inv}</div>' if inv else ''
+        invh = (f'<div class="sec"><h2>The speaker’s direct invitation{"s" if len(_li) != 1 else ""}</h2>{inv}</div>' if inv else '') + (f'<div class="sec"><h2>The speaker’s direct counsel</h2><p class="note">Direct instructions in his exact words. They are not counted among the invitations.</p>{cns}</div>' if cns else '')
         path = f'{B}talks/{t["slug"]}/lessons/{a}/'
         body = (crumb(conf_c, f'<a href="{B}lessons/">Lessons</a>', f'<a href="{B}talks/{t["slug"]}/">{e(t["speaker"])}</a>', lab)
             + f'<div class="wrap lesson" style="max-width:900px;padding-bottom:70px"><header class="ph"><div class="kick">30-minute lesson · {lab} · {e(who)}</div><h1>{e(l["title"])}</h1>'
