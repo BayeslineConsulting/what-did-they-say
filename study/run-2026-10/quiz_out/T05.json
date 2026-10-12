@@ -1,0 +1,184 @@
+{
+ "talk_id": "T05",
+ "easy": [
+  {
+   "q": "What was Elder Hathaway's main message about Jesus Christ?",
+   "options": [
+    "He delivers the righteous from every affliction of mortality",
+    "He keeps the righteous from ever having hard trials",
+    "He wants us to fix our troubles before we ask for help"
+   ],
+   "a": 0,
+   "why": "Elder Hathaway said, “My message today is that Jesus Christ delivers the righteous from these and every other affliction of mortality.” Trials still come, but the Savior delivers.",
+   "unit": "T05.02"
+  },
+  {
+   "q": "What happened to Elder Hathaway's family as they drove to begin serving as mission leaders?",
+   "options": [
+    "A snowstorm closed the freeway for the night",
+    "Large tires from a semitruck struck both of their cars",
+    "Both cars broke down far from the nearest town"
+   ],
+   "a": 1,
+   "why": "In a construction zone, two large tires came loose from a semitruck and hit both cars. The cars were destroyed, yet the family began their mission on time without serious injury.",
+   "unit": "T05.04"
+  },
+  {
+   "q": "While the family was stranded on the roadside, what did the Spirit bring them?",
+   "options": [
+    "A warning to turn around and go back home",
+    "An answer about why the accident had happened",
+    "Peace that everything would be all right"
+   ],
+   "a": 2,
+   "why": "Elder Hathaway said, “In that moment, the Spirit brought us peace: Everything would be all right.” That assurance gave them hope before the trial was over.",
+   "unit": "T05.05"
+  },
+  {
+   "q": "In the scripture story Elder Hathaway told, whose daughter did the Savior deliver from death?",
+   "options": [
+    "The daughter of King Darius",
+    "The daughter of Jairus",
+    "The daughter of Helaman"
+   ],
+   "a": 1,
+   "why": "Jairus held on to the Savior's words, “Be not afraid, only believe,” and watched Him deliver his daughter from death.",
+   "unit": "T05.17"
+  },
+  {
+   "q": "According to Elder Hathaway, when will Jesus Christ deliver us?",
+   "options": [
+    "In His own time and His own way",
+    "As soon as we ask Him in prayer",
+    "Only after this life is over"
+   ],
+   "a": 0,
+   "why": "Elder Hathaway promised, “In His time and way, Jesus Christ will deliver you.” Some miracles come right away, some after long waiting, and some at the Resurrection.",
+   "unit": "T05.19"
+  }
+ ],
+ "medium": [
+  {
+   "q": "According to Elder Hathaway, why does the Savior comprehend our suffering and know how to succor us?",
+   "options": [
+    "He has watched over mortal sorrows from heaven since the beginning",
+    "He was shown every mortal life in vision before He came to earth",
+    "He suffered pains, afflictions, and temptations of every kind",
+    "He learned of mortal suffering from the prophets who served Him"
+   ],
+   "a": 2,
+   "why": "Elder Hathaway taught that Jesus Christ “descended below all things” and suffered afflictions of every kind; therefore He understands, is filled with mercy, and knows how to help us.",
+   "unit": "T05.03"
+  },
+  {
+   "q": "Why did Elder Hathaway tell the story of his family's accident on the freeway?",
+   "options": [
+    "To show that the faithful are shielded from serious accidents",
+    "To illustrate a scriptural pattern of divine deliverance",
+    "To teach that mission leaders must give up their possessions",
+    "To warn that opposition is strongest just before we serve"
+   ],
+   "a": 1,
+   "why": "He said the experience “illustrates a scriptural pattern of divine deliverance”: opposition, sincere seeking, assurances, enabled enduring, and deliverance in the Savior's time and way.",
+   "unit": "T05.06"
+  },
+  {
+   "q": "What did Elder Hathaway say heartrending questions and deep emotions can create?",
+   "options": [
+    "A weakness we must overcome before we can pray sincerely",
+    "A sign that our faith in the Savior has begun to fail",
+    "A burden that keeps the Spirit from bringing us peace",
+    "A sacred space where we choose whether to turn toward Christ"
+   ],
+   "a": 3,
+   "why": "He taught that such questions and emotions “can create a sacred space where agency is activated and we choose whether to turn toward Jesus Christ.”",
+   "unit": "T05.08"
+  },
+  {
+   "q": "Elder Hathaway mentioned Alma's people crying mightily to God and King Darius fasting through the night. What were these examples of?",
+   "options": [
+    "Sincere seeking, which draws us closer to Jesus Christ",
+    "Assurances given before any prayer was offered",
+    "Deliverance that came the moment it was requested",
+    "Opposition that falls on rulers and people alike"
+   ],
+   "a": 0,
+   "why": "Both are examples of sincere seeking: turning toward Heavenly Father and Jesus Christ through prayer, fasting, and scripture study. “Such acts of faith draw us closer to Jesus Christ.”",
+   "unit": "T05.09"
+  },
+  {
+   "q": "According to Elder Hathaway, why might the Lord allow us to wait for deliverance?",
+   "options": [
+    "Waiting shows whether we have earned His help",
+    "Waiting is the consequence of our past mistakes",
+    "Waiting can bring converting growth an earlier rescue might not",
+    "Waiting gives Him time to attend to those in greater need"
+   ],
+   "a": 2,
+   "why": "He testified that the Lord knows “lessons learned while waiting can bring converting growth that an earlier rescue might not produce.” He has not forgotten us.",
+   "unit": "T05.16"
+  }
+ ],
+ "hard": [
+  {
+   "q": "How did Elder Hathaway describe what the grace of Jesus Christ does for us in affliction?",
+   "options": [
+    "It removes the pain once we have done all that we can do",
+    "It gives divine strength beyond our own without removing the pain",
+    "It replaces our effort, so that we need only stand still",
+    "It shortens the affliction in proportion to our faith"
+   ],
+   "a": 1,
+   "why": "He said, “This grace does not remove the pain and difficulty of affliction; it is an enabling power” that lets us receive divine strength beyond our own.",
+   "unit": "T05.13"
+  },
+  {
+   "q": "Elder Hathaway said the Savior's deliverance is certain. For most righteous followers, then, what is the real question?",
+   "options": [
+    "Whether they are righteous enough to be delivered",
+    "Why the affliction was allowed to come at all",
+    "Which afflictions He is willing to deliver them from",
+    "How and when He will deliver them"
+   ],
+   "a": 3,
+   "why": "Because Christ can deliver the righteous from all things, the question “is not if He will deliver but how and when He will do so.”",
+   "unit": "T05.03"
+  },
+  {
+   "q": "A woman praying through a long illness feels peace that all will be well, though she is not yet healed. In Elder Hathaway's pattern, what has she received?",
+   "options": [
+    "An assurance of deliverance",
+    "Deliverance in the Savior's time",
+    "A sign that her seeking may end",
+    "Proof that her trial is over"
+   ],
+   "a": 0,
+   "why": "Elder Hathaway taught that the Savior will visit us in our afflictions and “bring assurances of deliverance.” Such assurance gives peace and hope before deliverance itself comes.",
+   "unit": "T05.10"
+  },
+  {
+   "q": "What did Elder Hathaway say the deliverance of Jairus's daughter shows?",
+   "options": [
+    "Believing without fear brings deliverance before a loss is final",
+    "A parent's faith ensures that a child will be healed",
+    "No mortal timeline can place us beyond Christ's power to deliver",
+    "The greatest miracles are given to those who ask in person"
+   ],
+   "a": 2,
+   "why": "Jairus must have felt the time had passed, yet the Savior delivered his daughter, “showing that no mortal timeline can place us beyond Christ’s power to deliver.”",
+   "unit": "T05.17"
+  },
+  {
+   "q": "Elder Hathaway taught that as we wait upon the Lord, the Savior delivers us from our afflictions and does what else with them?",
+   "options": [
+    "Removes all memory of them",
+    "Consecrates them for our gain",
+    "Keeps them from ever returning",
+    "Uses them to measure our worth"
+   ],
+   "a": 1,
+   "why": "He taught that as growth and spiritual stretching come, the Savior “delivers us from our afflictions and consecrates them for our gain.” Our trials are not wasted.",
+   "unit": "T05.15"
+  }
+ ]
+}

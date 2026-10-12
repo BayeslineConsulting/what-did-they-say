@@ -1,0 +1,330 @@
+{
+ "level": "easy",
+ "questions": [
+  {
+   "q": "Elder Gong opened the conference with a riddle: “Why did the temple workers cross the road?” What was the answer?",
+   "options": [
+    "To reach the temple before it closed",
+    "To help the people on the other side",
+    "To welcome visitors at the front gate"
+   ],
+   "a": 1,
+   "why": "Elder Gong's first answer was simple: “To help the people on the other side.” At the end of his talk he answered again: so God and temple ordinances can bless, heal, and “unite loved ones here and away.”",
+   "kind": "talk",
+   "talk": "T01",
+   "unit": "T01.02"
+  },
+  {
+   "q": "Sister Runia said the gospel is not an umbrella that keeps the rain from falling on us. What did she say it is?",
+   "options": [
+    "The solid rock we stand on during the storm",
+    "A strong roof that keeps every storm away",
+    "A boat that carries us around the storm"
+   ],
+   "a": 0,
+   "why": "Sister Runia said we all get rained on. “The gospel isn’t the umbrella; it’s the solid rock we’re standing on during the storm.”",
+   "kind": "talk",
+   "talk": "T02",
+   "unit": "T02.12"
+  },
+  {
+   "q": "Elder Caussé's niece felt discouraged after bearing a testimony of only two simple sentences. What did her mother tell her?",
+   "options": [
+    "That she should practice so it would be longer",
+    "That she could try again when she was older",
+    "That believing what she said is all that matters"
+   ],
+   "a": 2,
+   "why": "Elder Caussé said her mother was right. A testimony “need not be long, eloquent, or dramatic—it only needs to be true.”",
+   "kind": "talk",
+   "talk": "T03",
+   "unit": "T03.21"
+  },
+  {
+   "q": "Elder Sikahema told how his grandparents sailed through a terrible storm in Tonga. Whom were they traveling so far to hear?",
+   "options": [
+    "A king visiting from another island",
+    "An Apostle of the Lord",
+    "A famous teacher from their village"
+   ],
+   "a": 1,
+   "why": "Elder Sikahema said his grandparents were “sailing toward an Apostle,” Elder Matthew Cowley, who held priesthood keys and would teach them their duty.",
+   "kind": "talk",
+   "talk": "T04",
+   "unit": "T04.09"
+  },
+  {
+   "q": "President Christofferson pleaded with us to stay away from gambling. What did he ask us to use the saved time and money for?",
+   "options": [
+    "Taking more vacations",
+    "Buying nicer things",
+    "Doing good"
+   ],
+   "a": 2,
+   "why": "President Christofferson's plea was “not only to refrain from gambling but to use the time and resources saved thereby for doing good.”",
+   "kind": "talk",
+   "talk": "T08",
+   "unit": "T08.25"
+  },
+  {
+   "q": "In Elder Renlund's story, what did Mr. Martin complain about just days after a new heart saved his life?",
+   "options": [
+    "His oatmeal was not hot",
+    "His room was too noisy",
+    "His doctor came late"
+   ],
+   "a": 0,
+   "why": "Elder Renlund said we can be like Mr. Martin when we focus on the “cold oatmeal” in front of us and lose sight of the bigger picture and God's promises.",
+   "kind": "talk",
+   "talk": "T09",
+   "unit": "T09.03"
+  },
+  {
+   "q": "President Farnes helped a frightened new missionary at the airport. When the missionary finally boarded, where was the only empty seat?",
+   "options": [
+    "In the very front row",
+    "Beside his mission leaders",
+    "Right next to President Farnes"
+   ],
+   "a": 2,
+   "why": "President Farnes said they were amazed at how God had arranged even that small detail. He calls such moments “divine appointments.”",
+   "kind": "talk",
+   "talk": "T10",
+   "unit": "T10.33"
+  },
+  {
+   "q": "Elder Fale showed his children their baby pictures. What did he teach them about their parents' love?",
+   "options": [
+    "They must work each day to keep it",
+    "They did not earn it and cannot lose it",
+    "They will understand it when they are older"
+   ],
+   "a": 1,
+   "why": "Elder Fale told them, “You did not earn it; you cannot lose it. It is yours forever.” He said Heavenly Father's love for us is far greater still.",
+   "kind": "talk",
+   "talk": "T14",
+   "unit": "T14.06"
+  },
+  {
+   "q": "Which speaker told about learning as a teenager to fly a glider, an aircraft with no engine, by finding rising air called “lift”?",
+   "options": [
+    "Elder Cook",
+    "Elder Kearon",
+    "Elder Bednar"
+   ],
+   "a": 1,
+   "why": "It was Elder Kearon, after President Uchtdorf asked him where the aviation was in his talks! He taught that our Savior “loves to lift.”",
+   "kind": "talk",
+   "talk": "T15",
+   "unit": "T15.05"
+  },
+  {
+   "q": "In Elder Dunn's story of a 100-mile race, what did a photograph later show that his friend Ted had quietly been doing?",
+   "options": [
+    "Carrying Elder Dunn's water bottles and pack",
+    "Running ahead to mark the trail for him",
+    "Holding up a sign to cheer him onward"
+   ],
+   "a": 0,
+   "why": "In the photograph Elder Dunn saw that Ted “was carrying two of my water bottles and my pack.” It turned his thoughts to the Savior, who carries our sorrows and helps us keep going.",
+   "kind": "talk",
+   "talk": "T16",
+   "unit": "T16.14"
+  },
+  {
+   "q": "Elder Rasband spoke to those who worry about loved ones who have turned away. What did he say Jesus Christ says to all who grieve?",
+   "options": [
+    "“Wait and see!”",
+    "“Try harder!”",
+    "“I’ve got this!”"
+   ],
+   "a": 2,
+   "why": "Elder Rasband asked us to turn our despair over to Jesus Christ. We cannot change hearts, but He can. “Trust Him. He’s got this!”",
+   "kind": "talk",
+   "talk": "T18",
+   "unit": "T18.10"
+  },
+  {
+   "q": "When President Eyring was a little boy, he asked his mother why life is so hard. What did she tell him?",
+   "options": [
+    "It is supposed to be hard; life is a test",
+    "It gets easy once we are all grown up",
+    "It is only hard when we complain"
+   ],
+   "a": 0,
+   "why": "President Eyring's mother smiled and said, “Hal, of course it’s hard. It’s supposed to be. Life is a test.” She trusted the Lord's promise to be with her.",
+   "kind": "talk",
+   "talk": "T19",
+   "unit": "T19.06"
+  },
+  {
+   "q": "President Chibota taught about the southern African greeting sawubona. What does it mean?",
+   "options": [
+    "“Peace to you”",
+    "“I see you”",
+    "“Welcome home”"
+   ],
+   "a": 1,
+   "why": "President Chibota said sawubona means “I see you.” It tells a person, “I recognize you. I respect you. You matter.”",
+   "kind": "talk",
+   "talk": "T20",
+   "unit": "T20.01"
+  },
+  {
+   "q": "At his daughter's school, Elder Fantone was asked to sign a form. What mistake did he make?",
+   "options": [
+    "He signed on the wrong page",
+    "He went to the wrong school",
+    "He wrote his own name instead of hers"
+   ],
+   "a": 2,
+   "why": "Elder Fantone fixed it by adding “Amanda” in front of his name. He taught that the Savior asks us to take His name upon us, not merely add it to ours.",
+   "kind": "talk",
+   "talk": "T22",
+   "unit": "T22.03"
+  },
+  {
+   "q": "Elder Dube remembered a sign on a mission office gate that said, “Trespassers will be prosecuted.” What did President Oaks ask?",
+   "options": [
+    "That the sign be taken down",
+    "That the sign be made bigger",
+    "That the gate be kept locked"
+   ],
+   "a": 0,
+   "why": "Elder Dube said President Oaks wanted to avoid any feeling that people were shut out, because we invite all to come unto Christ.",
+   "kind": "talk",
+   "talk": "T23",
+   "unit": "T23.03"
+  },
+  {
+   "q": "Elder Kyungu said the converted Lamanites buried their weapons of war. What did he say we can bury for peace?",
+   "options": [
+    "Our worries about the future",
+    "The language of contention",
+    "Our fear of sharing the gospel"
+   ],
+   "a": 1,
+   "why": "Elder Kyungu said that “we too can bury the language of contention for peace,” and use words that uplift, comfort, and bring people together.",
+   "kind": "talk",
+   "talk": "T25",
+   "unit": "T25.14"
+  },
+  {
+   "q": "In his Sunday morning talk, what did President Oaks say is the way to overcome our concerns, questions, or doubts?",
+   "options": [
+    "Search for the answers all by ourselves",
+    "Get closer to our Savior, Jesus Christ",
+    "Set them aside and keep ourselves busy"
+   ],
+   "a": 1,
+   "why": "President Oaks said that whatever our concerns or struggles are, “the way to overcome them is to get closer to our Savior, Jesus Christ.” He is the way.",
+   "kind": "talk",
+   "talk": "T27",
+   "unit": "T27.05"
+  },
+  {
+   "q": "President Uchtdorf was baptized at age eight in a public swimming pool. What was he thinking as he walked into the water?",
+   "options": [
+    "The pool was getting deeper and he couldn't swim",
+    "The water was much colder than he had hoped",
+    "The crowd was far bigger than he had expected"
+   ],
+   "a": 0,
+   "why": "President Uchtdorf remembered thinking, “The pool is getting deeper and deeper, and I can’t swim!” He taught that baptism joins us to a covenant people.",
+   "kind": "talk",
+   "talk": "T28",
+   "unit": "T28.03"
+  },
+  {
+   "q": "Sister Muñoz Spannaus got lost when her phone's GPS did not know where she was. What did she teach young women from this?",
+   "options": [
+    "It is wise to leave home early",
+    "The Lord knows exactly where you are",
+    "Phones should not be trusted"
+   ],
+   "a": 1,
+   "why": "Sister Muñoz Spannaus said, “The Lord knows where you are; He has your exact location and can guide you.”",
+   "kind": "talk",
+   "talk": "T29",
+   "unit": "T29.05"
+  },
+  {
+   "q": "In Elder Bednar's story, why was a traveler not allowed to enter the country he was visiting?",
+   "options": [
+    "He had left his passport at home",
+    "He had arrived on the wrong day",
+    "He had not taken care of his passport"
+   ],
+   "a": 2,
+   "why": "Elder Bednar taught that “the integrity of a passport must be maintained over time.” In a similar way, we need to keep our covenants faithfully.",
+   "kind": "talk",
+   "talk": "T31",
+   "unit": "T31.06"
+  },
+  {
+   "q": "In Elder Sinclair's story, a boy named James got stuck after buttoning his sleeve to his jacket. What did the little girl beside him do?",
+   "options": [
+    "She reached up and unbuttoned it",
+    "She whispered to the teacher",
+    "She covered her eyes and giggled"
+   ],
+   "a": 0,
+   "why": "Elder Sinclair said the little girl taught him that a true disciple of Jesus Christ “is quick to help and slow to judge.”",
+   "kind": "talk",
+   "talk": "T33",
+   "unit": "T33.05"
+  },
+  {
+   "q": "In Elder Stevenson's story, what did a very young Primary boy do when the children were invited to sing “I Am a Child of God”?",
+   "options": [
+    "He hid quietly behind his parents",
+    "He ran up to the stand and sang every word",
+    "He asked to sing a different song"
+   ],
+   "a": 1,
+   "why": "Elder Stevenson said the boy's sweet, loud singing invited the Spirit to testify that we are children of a loving Heavenly Father.",
+   "kind": "talk",
+   "talk": "T34",
+   "unit": "T34.09"
+  },
+  {
+   "q": "Many of Brother Reid's earliest Primary classes were held under a mango tree. What does he remember most about his teachers?",
+   "options": [
+    "The treats they brought",
+    "The songs they taught",
+    "How they loved the children"
+   ],
+   "a": 2,
+   "why": "Brother Reid said his teachers prepared each lesson, “but what I remember most is how they loved us.” He added, “Their love helped us feel the Savior’s love.”",
+   "kind": "talk",
+   "talk": "T35",
+   "unit": "T35.21"
+  },
+  {
+   "q": "In his closing remarks, what did President Oaks invite all of us to do with the talks of this conference?",
+   "options": [
+    "Study and ponder them, then act in faith",
+    "Memorize our favorite before April",
+    "Choose just one and set the rest aside"
+   ],
+   "a": 0,
+   "why": "President Oaks invited all “to study and ponder them prayerfully and to act in faith on the principles they explain.”",
+   "kind": "talk",
+   "talk": "T37",
+   "unit": "T37.02"
+  },
+  {
+   "q": "By this site's count of the conference talks, which of these was said most often?",
+   "options": [
+    "“Temple” or “temples”",
+    "“Love,” “loved,” “loves,” or “loving”",
+    "“Covenant” or “covenants”"
+   ],
+   "a": 1,
+   "why": "This site counted 263 uses of love and its forms across the talks, well ahead of covenant (158) and temple (77). Elder Rasband and others taught that love is at the center of the gospel.",
+   "kind": "fact",
+   "talk": null,
+   "unit": null
+  }
+ ]
+}

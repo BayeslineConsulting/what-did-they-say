@@ -1,0 +1,355 @@
+{
+ "level": "hard",
+ "questions": [
+  {
+   "q": "Elder Gong and Elder Bednar both taught about the Holy Spirit of Promise. On which point did the two talks agree?",
+   "options": [
+    "The Spirit's seal is given once, at the moment an ordinance is performed",
+    "Covenants become binding as we honor them, not simply because an ordinance was received",
+    "The seal applies to temple marriage but not to other ordinances and covenants",
+    "The seal binds family members to a covenant whether or not they choose it"
+   ],
+   "a": 1,
+   "why": "Elder Gong taught that as we honor our covenants the Holy Spirit of Promise seals them. Elder Bednar added that this ratifying seal “typically is not a one-time event” but comes over time through ongoing faithfulness.",
+   "kind": "talk",
+   "talk": "T01",
+   "unit": "T01.15"
+  },
+  {
+   "q": "Sister Runia's brother struggled alone on his sculpture before the instructor ever touched it. Which person best fits what she taught from this about how the Savior's shaping of our souls gets under way?",
+   "options": [
+    "One who humbles himself and asks the Savior to become involved, though pride resists",
+    "One who does his best alone first, so that the Savior need only finish the work",
+    "One who trusts that hard experiences will do the shaping by themselves in time",
+    "One who waits to understand his trial before turning to the Savior for help"
+   ],
+   "a": 0,
+   "why": "Sister Runia said inviting the Savior is hard because “Our pride gets in the way,” and that He “waits for an invitation before He can really go to work.” Her brother struggled alone until he humbled himself and asked.",
+   "kind": "talk",
+   "talk": "T02",
+   "unit": "T02.44"
+  },
+  {
+   "q": "How did Elder Hathaway describe the heartrending questions and deep emotions that opposition stirs in the righteous?",
+   "options": [
+    "They are not sin or weakness; they open a space where we choose whether to turn to Christ",
+    "They are a sign that faith has slipped and needs to be rebuilt before help can come",
+    "They are a stage that faithful covenant keepers eventually stop passing through",
+    "They are feelings to set aside quickly so that assurance is not delayed"
+   ],
+   "a": 0,
+   "why": "Elder Hathaway taught that such questions and emotions “are not sin or weakness”; they can create a sacred space where agency is activated and we choose whether to turn toward Jesus Christ.",
+   "kind": "talk",
+   "talk": "T05",
+   "unit": "T05.08"
+  },
+  {
+   "q": "President Christofferson spoke to the person who feels strong enough that gambling would only ever be casual fun. What was his reply, drawn from the Apostle Paul?",
+   "options": [
+    "No one is that strong; casual play always ends in compulsion",
+    "Small wagers do little harm if they are kept private and rare",
+    "Your example may lead someone weaker into temptation, so abstain anyway",
+    "Strength of character is shown by stopping while you are ahead"
+   ],
+   "a": 2,
+   "why": "President Christofferson allowed that such a person might be right about himself or herself, then applied Paul's warning about becoming a stumbling block: someone newer or weaker in the faith may take license from our example.",
+   "kind": "talk",
+   "talk": "T08",
+   "unit": "T08.21"
+  },
+  {
+   "q": "Elder Renlund quoted Lehi telling Jacob he was redeemed because of the righteousness of his Redeemer. What point did Elder Renlund draw from it?",
+   "options": [
+    "Jacob had lived well enough to be sure of his own reward",
+    "Our hope rests on Christ's faithfulness and righteousness, not on our own",
+    "Redemption is already settled, so our daily choices matter little",
+    "Hope becomes sure once our righteousness comes to match the Savior's"
+   ],
+   "a": 1,
+   "why": "Elder Renlund noted that Jacob was good and faithful, yet his righteousness would not be the source of his redemption. Because our hope rests on the Savior's faithfulness, faith in Him frees us from uncertainty.",
+   "kind": "talk",
+   "talk": "T09",
+   "unit": "T09.11"
+  },
+  {
+   "q": "How did President Farnes connect the sacrament with the encounters he calls divine appointments?",
+   "options": [
+    "Sacrament meeting is itself the divine appointment we must not miss each week",
+    "Ministering during the week is what makes us worthy to partake on Sunday",
+    "Those we help in the week are the people we should bring to sacrament meeting",
+    "We make the covenant on Sunday and keep it daily by ministering to those in our path"
+   ],
+   "a": 3,
+   "why": "President Farnes said we make the covenant during sacred time with God every Sunday, and one way we keep it is by ministering to God's children every day, often when God places someone in our path and we have eyes to see them.",
+   "kind": "talk",
+   "talk": "T10",
+   "unit": "T10.19"
+  },
+  {
+   "q": "Elder Morgan taught that his ancestors' temple covenants reached out after him. How did he relate that to agency?",
+   "options": [
+    "Parents' covenants do not alter a child's agency, yet they have a real effect on posterity",
+    "Ancestors' covenants guarantee that every descendant will one day return",
+    "The effect fades after the generations who knew the covenant makers",
+    "Children feel the effect only after they make covenants of their own"
+   ],
+   "a": 0,
+   "why": "Elder Morgan said parents' covenant faithfulness “does not alter the agency of children or grandchildren,” yet there is “a discernible impact of those covenants on all our posterity.”",
+   "kind": "talk",
+   "talk": "T13",
+   "unit": "T13.14"
+  },
+  {
+   "q": "Elder Fale bore witness of the depth of Heavenly Father's love, then warned of a lie of the adversary that twists that truth. What is the lie?",
+   "options": [
+    "That God's love must be earned by keeping covenants faithfully",
+    "That because God loves us, He will spare us from hard trials",
+    "That because God loves us, we can be saved regardless of our sins",
+    "That God's love is withdrawn from those who wander from Him"
+   ],
+   "a": 2,
+   "why": "Elder Fale warned of the lie that because God loves us we can be saved regardless of pride, rebellion, sin, or rejecting His Son. Receiving Christ through ordinances and covenants, and being faithful to them, is the only way to exaltation.",
+   "kind": "talk",
+   "talk": "T14",
+   "unit": "T14.09"
+  },
+  {
+   "q": "A woman has prayed for weeks about a burden she cannot carry alone. Which response best fits what Elder Matthew J. Eyring taught about how the Lord's comfort and answers come?",
+   "options": [
+    "She declines a friend's help, since true answers come only by the Spirit",
+    "She decides the long wait shows her faith has not been strong enough",
+    "She accepts a friend's offer of help as one way the Lord may be answering",
+    "She resolves to rely on her own resilience until the burden has passed"
+   ],
+   "a": 2,
+   "why": "Elder Matthew J. Eyring said the Lord provides answers “on His timetable,” by various means as guided by the Spirit, “sometimes in the form of tools, resources, and help from other people.” All of us, he said, meet burdens we cannot carry ourselves.",
+   "kind": "talk",
+   "talk": "T17",
+   "unit": "T17.06"
+  },
+  {
+   "q": "Elder Dunn once assumed that because the Savior has carried our sorrows, the trails we travel would become easier. What did he say he learned instead?",
+   "options": [
+    "The Savior takes the whole load once we admit we cannot go on",
+    "The load is lightened only for those who prepared well beforehand",
+    "Relief is kept for the finish line, so the miles are run alone",
+    "The Savior rescues by helping us lengthen our stride, not by shortening the course"
+   ],
+   "a": 3,
+   "why": "Elder Dunn learned that the Savior lifts and uplifts, sometimes unseen, magnifying even our smallest offerings. He rescues “not by shortening our course but by helping us lengthen our stride.”",
+   "kind": "talk",
+   "talk": "T16",
+   "unit": "T16.16"
+  },
+  {
+   "q": "Which response to a loved one who has turned away from the Lord best fits what Elder Rasband taught about love?",
+   "options": [
+    "Stay interested in their life and keep your arms open, without endorsing their choices",
+    "Step back and keep a respectful distance until they choose to return",
+    "Keep sending talks and reminders so they always know where you stand",
+    "Show approval of their decisions so that the relationship stays warm"
+   ],
+   "a": 0,
+   "why": "Elder Rasband taught that love “is not stepping back or sanctioning others’ decisions and actions.” It is being interested in their lives and being there with arms outstretched. He noted that lecturing can widen the rift.",
+   "kind": "talk",
+   "talk": "T18",
+   "unit": "T18.12"
+  },
+  {
+   "q": "President Eyring said trials differ from person to person, yet one thing is being tested in everyone at all times. Which person is meeting that test as he described it?",
+   "options": [
+    "A man in a long illness who bears it without asking anyone for help",
+    "A student who shows she can endure more hardship than those around her",
+    "A woman in a long illness who keeps doing what the Lord asks of her",
+    "A father who works out the reason each of his trials was given to him"
+   ],
+   "a": 2,
+   "why": "President Eyring said what is being tested is the same for every person: “Will we do whatsoever the Lord our God will command us?” The test is whether we obey, not how much we can bear alone or how well we can explain our trials.",
+   "kind": "talk",
+   "talk": "T19",
+   "unit": "T19.10"
+  },
+  {
+   "q": "Elder Cook said President McKay told of the inscription “Whate'er thou art, act well thy part” partly to teach a caution. Which situation best fits that caution?",
+   "options": [
+    "Dishonesty at work slowly dulls a man's desire to pray and to worship",
+    "A woman gives up every pastime, believing recreation is wrong in itself",
+    "A heavy school load keeps a youth from the sports he once enjoyed",
+    "A wholesome hobby slowly fills a man's week until scripture study is gone"
+   ],
+   "a": 3,
+   "why": "Elder Cook said President McKay wished to teach that “some conduct which is not inherently evil can keep us from engaging in spiritual matters that will bless us now and throughout eternity.” The hobby is not wrong; what it crowds out is the concern.",
+   "kind": "talk",
+   "talk": "T24",
+   "unit": "T24.07"
+  },
+  {
+   "q": "Elder Lebethoa said there is no single right way to study the scriptures. Which person best fits what he taught matters most?",
+   "options": [
+    "One who reads for a long stretch whenever a quiet weekend allows",
+    "One who always reads in order, from the first page to the last",
+    "One who studies only by topic, since that method goes deepest",
+    "One who reads sincerely every day, at whatever time suits her"
+   ],
+   "a": 3,
+   "why": "Elder Lebethoa taught that “the method, timing, and length of our scripture study matter less than the consistency and sincerity of our effort.”",
+   "kind": "talk",
+   "talk": "T32",
+   "unit": "T32.15"
+  },
+  {
+   "q": "Elder Schmeil cited Haggai, where Israel sowed much but brought in little. What lesson did he draw for us?",
+   "options": [
+    "Our efforts are magnified when covenant ties with God come first in our lives",
+    "Working less and resting more is what brings the Lord's blessing",
+    "Offerings should grow in step with the size of our harvest",
+    "Our own houses should be in order before we turn to the Lord's"
+   ],
+   "a": 0,
+   "why": "Elder Schmeil said the Lord could not magnify Israel's efforts because His house was not their priority. We are not asked to build a temple but to build a strong relationship with God and His Son through our covenants.",
+   "kind": "talk",
+   "talk": "T26",
+   "unit": "T26.20"
+  },
+  {
+   "q": "President Oaks taught that the Savior died for all and that His grace is for all. Which statement best fits how he said that truth works together with our choices?",
+   "options": [
+    "Grace is offered to all, and so forgiveness comes without conditions",
+    "Grace is offered to all, and forgiveness comes once we overcome every weakness",
+    "Grace is offered to all, and forgiveness comes as we meet His conditions",
+    "Grace is offered to all, and our choices matter only after this life"
+   ],
+   "a": 2,
+   "why": "President Oaks taught that Christ died “for all men,” yet if our sins are to be forgiven “we must comply with the conditions He has prescribed, including faith, repentance, and baptism.” That depends on our desires, choices, and actions.",
+   "kind": "talk",
+   "talk": "T27",
+   "unit": "T27.11"
+  },
+  {
+   "q": "President Oaks named two methods of gaining knowledge, the scientific and the spiritual. Why did he say there is no ultimate conflict between them?",
+   "options": [
+    "They answer separate questions that never truly overlap",
+    "God knows all truth and expects us to learn by both methods",
+    "Scientific findings will in time be replaced by revelation",
+    "The scriptures already contain what science later discovers"
+   ],
+   "a": 1,
+   "why": "President Oaks taught that God, our omnipotent Eternal Father, “knows all truth and expects us to learn by both methods.” He also counseled, “Never let your secular learning limit your spiritual horizons.”",
+   "kind": "talk",
+   "talk": "T27",
+   "unit": "T27.08"
+  },
+  {
+   "q": "President Uchtdorf said we may not achieve perfect Christ-centered unity in this life. What did he conclude from that?",
+   "options": [
+    "Unity is mainly a blessing reserved for the life to come",
+    "We should first seek unity with those who already think as we do",
+    "Small steps count for little until hearts are fully changed",
+    "Now is the time to unify, since unity will not simply appear in the next life"
+   ],
+   "a": 3,
+   "why": "President Uchtdorf said the momentum we build here carries into eternity, and “unity won’t magically happen in the next life if we haven’t earnestly tried to learn it here.” Every step toward unity matters, however small.",
+   "kind": "talk",
+   "talk": "T28",
+   "unit": "T28.25"
+  },
+  {
+   "q": "Sister Muñoz Spannaus drew attention to the order of events when the young man asked Jesus how to gain eternal life. What did she point out?",
+   "options": [
+    "Jesus first looked on him with love, and only then told him what to improve",
+    "Jesus first named what he lacked, and then assured him of His love",
+    "Jesus first asked what he was willing to give up for the kingdom",
+    "Jesus first praised his obedience, and then sent him away to serve"
+   ],
+   "a": 0,
+   "why": "Sister Muñoz Spannaus noted that the Savior's look conveyed only love, and “only after transmitting that love did He tell him what he could do to improve.” Knowing everything about us does not make Him love us less.",
+   "kind": "talk",
+   "talk": "T29",
+   "unit": "T29.07"
+  },
+  {
+   "q": "Elder Giuffra and Elder Villanueva both spoke about tithing. What did both teach about how its promised blessings come?",
+   "options": [
+    "Mainly as greater income and security for those who pay faithfully",
+    "Mostly in the next life, with little to be seen in this one",
+    "In the Lord's own time and way, often not as we expected",
+    "In proportion to how great a sacrifice the tithe required"
+   ],
+   "a": 2,
+   "why": "Elder Villanueva said we sometimes expect blessings as we would wish rather than in the Lord's way and timing. Elder Giuffra likewise testified that the Lord fulfills His promises “in His own time and way,” often in ways we do not expect.",
+   "kind": "talk",
+   "talk": "T30",
+   "unit": "T30.09"
+  },
+  {
+   "q": "Elder Bednar said his parable of the damaged passport has limitations. What difference between a passport and our covenants did he point out?",
+   "options": [
+    "A covenant, once received, needs no further care from us",
+    "Afflictions that come through no fault of our own do not invalidate our covenants",
+    "A passport is checked in this life, but covenants only after it",
+    "A damaged passport can be replaced, but a broken covenant cannot be restored"
+   ],
+   "a": 1,
+   "why": "Elder Bednar said that, unlike damage to a physical passport, the adversities and afflictions “we experience through no fault of our own” do not diminish God's promises to us or invalidate our covenants.",
+   "kind": "talk",
+   "talk": "T31",
+   "unit": "T31.09"
+  },
+  {
+   "q": "According to Elder Bednar, when one spouse violates covenants and does not repent, what does the faithful spouse remain worthy to receive?",
+   "options": [
+    "The marriage sealing unchanged, whatever either spouse chooses",
+    "Blessings in this life only, since eternal ones need both spouses",
+    "Nothing that can be known, because the doctrine is silent on it",
+    "The seal on the tie to God's eternal family, and all individual blessings"
+   ],
+   "a": 3,
+   "why": "Elder Bednar taught that a faithful spouse remains worthy of the ratifying seal for the vertical aspect of the sealing and all associated individual blessings. He could not explain how or when, but he knew the blessings will be received.",
+   "kind": "talk",
+   "talk": "T31",
+   "unit": "T31.26"
+  },
+  {
+   "q": "Elder Sinclair asked whether the woman at the well was widowed, divorced, or abandoned, and answered that we do not know. What was his point?",
+   "options": [
+    "Those are not details we need; the Savior focused on helping her, not on her history",
+    "Her circumstances were probably better than most readers have assumed",
+    "The Savior Himself did not know her past until she told Him of it",
+    "Her story matters little beside the doctrine that Jesus taught there"
+   ],
+   "a": 0,
+   "why": "Elder Sinclair said her story is very important, but “these are not the judgmental details we need to know.” Christ, who knew everything about her, offered living water and “did not hold her hostage to her history.”",
+   "kind": "talk",
+   "talk": "T33",
+   "unit": "T33.09"
+  },
+  {
+   "q": "Someone sums up Elder Gilbert's talk this way: when truth and love seem to pull apart, choose love and say less about God's commandments. What in the talk corrects this?",
+   "options": [
+    "Truth must come first, even when it has to be spoken without much warmth",
+    "Minimizing God's laws separates us from the One who loves that person most",
+    "Love and truth belong to different settings, and wisdom is knowing which",
+    "Love should wait until the other person is ready to accept the truth"
+   ],
+   "a": 1,
+   "why": "Elder Gilbert taught, “When we try to love others by minimizing God’s laws, we separate ourselves from the one person who loves them the very most.” For disciples, he said, “truth and love always walk together.”",
+   "kind": "talk",
+   "talk": "T36",
+   "unit": "T36.17"
+  },
+  {
+   "q": "A pattern this site noticed: Saturday's talks on fasting, fast offerings and tithing stood beside a warning about one other subject. Which one, and what is the contrast?",
+   "options": [
+    "Debt, which borrows from the future instead of trusting the Lord",
+    "Gambling, which seeks something for nothing at the expense of others",
+    "Social media, which takes our attention and gives little back",
+    "Idleness, which wastes the time that could be given in service"
+   ],
+   "a": 1,
+   "why": "This site noticed that Elder Soares on fasting and Elder Giuffra on tithing spoke the same day as President Christofferson, who taught that gambling is built on the desire to get something for nothing, with any gain coming at others' expense.",
+   "kind": "fact",
+   "talk": null,
+   "unit": null
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "talk_id": "T04",
+ "easy": [
+  {
+   "q": "In Elder Sikahema’s story, whom were his grandparents sailing across the ocean to see?",
+   "options": [
+    "The king of Tonga",
+    "An Apostle, Elder Matthew Cowley",
+    "A famous teacher from America"
+   ],
+   "a": 1,
+   "why": "An Apostle was coming to Tonga, and for Saints across the Pacific that was “the chance of a lifetime.” His grandparents sailed to be with Elder Matthew Cowley.",
+   "unit": "T04.11"
+  },
+  {
+   "q": "Where were Elder Sikahema’s grandparents serving their mission?",
+   "options": [
+    "On a small island in Tonga",
+    "In a big city in New Zealand",
+    "On a farm in upstate New York"
+   ],
+   "a": 0,
+   "why": "Sione and Salote Wolfgramm were serving on Niuatoputapu, a small, isolated island in the Kingdom of Tonga, with their three young children.",
+   "unit": "T04.01"
+  },
+  {
+   "q": "What made the boat trip so long and hard for the Wolfgramm family?",
+   "options": [
+    "The boat ran out of fuel",
+    "The captain lost his way",
+    "They sailed into a storm"
+   ],
+   "a": 2,
+   "why": "The family sailed into a storm, and a trip that should have taken 16 hours became “two and a half brutal days at sea.”",
+   "unit": "T04.05"
+  },
+  {
+   "q": "According to Elder Sikahema, through whom did Heavenly Father and Jesus Christ begin restoring the Savior’s Church?",
+   "options": [
+    "An Old Testament prophet named Amos",
+    "A teenage boy named Joseph Smith",
+    "A missionary named Matthew Cowley"
+   ],
+   "a": 1,
+   "why": "Elder Sikahema taught that the Father and the Son began restoring the Savior’s ancient Church through “a then-teenage boy” in upstate New York: Joseph Smith.",
+   "unit": "T04.23"
+  },
+  {
+   "q": "As general conference began, how did Elder Sikahema ask us to treat the words of apostles and prophets?",
+   "options": [
+    "As good advice we may set aside",
+    "As stories meant mostly for grown-ups",
+    "As very important, not as a small thing"
+   ],
+   "a": 2,
+   "why": "He said it is a blessing to live when apostles and prophets are on the earth, and asked that we not hold their words “as a light thing.” Their words matter a great deal.",
+   "unit": "T04.26"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why was an Apostle’s visit such a rare event for the Saints in Tonga in 1947?",
+   "options": [
+    "No Apostle had ever come to Tonga before",
+    "An Apostle had visited Tonga only twice before",
+    "Elder Cowley was coming to dedicate a temple there",
+    "It was to be Elder Cowley’s last visit to the Pacific"
+   ],
+   "a": 1,
+   "why": "Elder Sikahema said only twice before had an Apostle visited the island kingdom: David O. McKay in 1921 and George Albert Smith in 1938.",
+   "unit": "T04.03"
+  },
+  {
+   "q": "Elder Sikahema compared his grandparents to the early pioneers. What did he say both yearned for?",
+   "options": [
+    "A place to farm and worship in peace",
+    "Schooling they had never been able to have",
+    "A safe end to a long and dangerous journey",
+    "To hear and be in the presence of an Apostle"
+   ],
+   "a": 3,
+   "why": "He said that, like the early pioneers, his grandparents “yearned to hear and be in the presence of an Apostle.” That desire carried them through their trial.",
+   "unit": "T04.07"
+  },
+  {
+   "q": "Elder Sikahema quoted Amos about a coming “famine.” What kind of famine did he say it was?",
+   "options": [
+    "A time when crops failed across ancient Israel",
+    "A time when few people wanted to hear God’s word",
+    "A time without revelation to prophets",
+    "A time when scriptures were too costly to own"
+   ],
+   "a": 2,
+   "why": "He taught that for centuries “there was no revelation to prophets.” Amos said it was not a famine of bread or water but of hearing the words of the Lord.",
+   "unit": "T04.12"
+  },
+  {
+   "q": "Why did Elder Sikahema quote Paul’s warning that “grievous wolves” would enter the flock?",
+   "options": [
+    "To show that the harm to the ancient Church was foretold",
+    "To warn that critics would oppose Joseph Smith’s revelations",
+    "To explain the dangers missionaries met on Pacific islands",
+    "To show that Paul doubted the Church could ever be restored"
+   ],
+   "a": 0,
+   "why": "He paired Paul’s words with the Savior’s, who “foretold of false prophets who would decimate His ancient Church.” Both saw the loss coming.",
+   "unit": "T04.16"
+  },
+  {
+   "q": "In the words of President Holland that Elder Sikahema quoted, what is the Church’s “unflinching declaration” to all the world?",
+   "options": [
+    "Every member can become a prophet for the whole Church",
+    "Revelation was complete once the scriptures were written",
+    "Prophets are needed mainly in times of great trouble",
+    "The heavens are open and God reveals His will to prophets"
+   ],
+   "a": 3,
+   "why": "President Holland asked, “Are the heavens open?” and answered that they are, and that God reveals His will to prophets and apostles as in days of old.",
+   "unit": "T04.21"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Sikahema said the Apostle held keys to seal families. What second reason did he give for his grandparents’ voyage?",
+   "options": [
+    "The Apostle would give them a blessing of comfort",
+    "The Apostle would teach them their duty so they could bless others",
+    "The Apostle would release them and send them home",
+    "The Apostle would call them to lead the Saints on their island"
+   ],
+   "a": 1,
+   "why": "They sailed “to sit at the feet of an Apostle,” who would teach them their duty so they could bless others on their island with the restored gospel.",
+   "unit": "T04.09"
+  },
+  {
+   "q": "When Elder Sikahema’s grandparents sailed in 1947, how did he describe the blessing of being sealed together as a family?",
+   "options": [
+    "An ordinance they had received before their mission",
+    "An ordinance Elder Cowley would perform that week",
+    "A blessing priesthood keys would bring one day",
+    "A blessing they hoped for but had never been taught"
+   ],
+   "a": 2,
+   "why": "They understood that prophets, seers, and revelators held keys that “would one day bind them together as a family forever.” They acted on a promise still ahead.",
+   "unit": "T04.10"
+  },
+  {
+   "q": "How do the reformers of the Middle Ages fit into Elder Sikahema’s teaching about Amos’s “famine”?",
+   "options": [
+    "They sought prophetic voices but could not find them",
+    "They ended the famine by translating the Bible",
+    "They chose to ignore prophets living among them",
+    "They received keys that prepared the way for Joseph"
+   ],
+   "a": 0,
+   "why": "Amos said people would seek the word of the Lord “and shall not find it.” Elder Sikahema said reformers yearned for prophetic voices but could not find them.",
+   "unit": "T04.17"
+  },
+  {
+   "q": "Which situation best fits what Elder Sikahema warned of when he spoke of holding “the oracles of God” as “a light thing”?",
+   "options": [
+    "Wanting to hear a prophet but living far from any chapel",
+    "Listening closely but forgetting which speaker said what",
+    "Studying one talk for weeks instead of reading them all",
+    "Having prophets’ words a tap away yet seldom caring to listen"
+   ],
+   "a": 3,
+   "why": "He suspected the Lord knew that even with cell phones “to easily see and hear His anointed servants,” many of us would still take them for granted.",
+   "unit": "T04.20"
+  },
+  {
+   "q": "Which person today is most like the early Church leaders whose concern, Elder Sikahema suggested, Doctrine and Covenants 1:38 answers?",
+   "options": [
+    "One who wishes prophets would speak more often than twice a year",
+    "One who studies a prophet’s message but is slow to act on it",
+    "One who thinks less of a prophet’s message because it lacks polish",
+    "One who prefers reading a prophet’s message to hearing it"
+   ],
+   "a": 2,
+   "why": "Some early leaders “were embarrassed by the young prophet’s poor writing skills.” Elder Sikahema suggested that may be why the Savior declared His word is the same “whether by mine own voice or by the voice of my servants.”",
+   "unit": "T04.27"
+  }
+ ]
+}

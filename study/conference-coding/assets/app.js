@@ -122,29 +122,66 @@
     });
   });
 
-  /* ---------- quiz ---------- */
-  var qz = $('#quiz');
-  if (qz && P.quiz && P.quiz.length) {
-    var Q = P.quiz, qi = 0, score = 0, answered = false, art = qz.getAttribute('data-art') ? $(qz.getAttribute('data-art')).innerHTML : '';
-    var render = function () {
-      if (qi >= Q.length) {
-        qz.innerHTML = '<div><h3>How well do you remember?</h3><p class="qq" style="margin-top:14px">You got ' + score + ' of ' + Q.length + '.</p><p class="qwhy">' + (score === Q.length ? 'Perfect. The neighbor would be impressed.' : 'Every answer is on this site. Try again any time.') + '</p><button class="btn qnext" id="qagain">Take it again</button></div>' + art;
-        $('#qagain').onclick = function () { qi = 0; score = 0; render(); }; return;
-      }
-      var q = Q[qi]; answered = false;
-      qz.innerHTML = '<div><h3>How well do you remember?</h3><div class="qmeta">Question ' + (qi + 1) + ' of ' + Q.length + '</div><p class="qq">' + esc(q.q) + '</p><div class="qopts">' +
-        q.options.map(function (o, j) { return '<button class="qopt" data-j="' + j + '">' + esc(o) + '</button>'; }).join('') +
-        '</div><p class="qwhy" id="qwhy"></p><button class="btn qnext" id="qnext" hidden>' + (qi + 1 < Q.length ? 'Next question' : 'See my score') + '</button></div>' + art;
+  /* ---------- quizzes: three levels, shuffled options, best score kept on this device ---------- */
+  var qz = $('#qz');
+  if (qz && P.quiz && P.quiz.levels) {
+    var QZ = P.quiz, LV = ['easy', 'medium', 'hard'].filter(function (l) { return QZ.levels[l] && QZ.levels[l].length; });
+    var LN = { easy: 'Easy', medium: 'Medium', hard: 'Hard' };
+    var LD = { easy: 'For families and first-time listeners', medium: 'For those who want to understand it', hard: 'For those who have studied it' };
+    var BK = 'wdts-quiz-' + (S.conf || '') + '-' + QZ.id, best = {};
+    try { best = JSON.parse(localStorage.getItem(BK) || '{}') || {}; } catch (e) { best = {}; }
+    var lv, qs, qi, score, answered;
+    var shuf = function (a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; };
+    var top = function () { var r = qz.getBoundingClientRect(); if (r.top < 0 || r.top > window.innerHeight * .6) qz.scrollIntoView({ block: 'start', behavior: 'smooth' }); };
+    var home = function () {
+      qz.innerHTML = '<div><h3>Choose a level</h3><div class="qlv">' + LV.map(function (l) {
+        var b = best[l]; return '<button class="qlvb" data-l="' + l + '"><b>' + LN[l] + '</b><span>' + LD[l] + '</span><i>' + QZ.levels[l].length + ' questions' + (b != null ? ' · your best: ' + b + ' of ' + QZ.levels[l].length : '') + '</i></button>';
+      }).join('') + '</div></div>';
+      $$('.qlvb', qz).forEach(function (b) { b.onclick = function () { start(b.getAttribute('data-l')); top(); }; });
+    };
+    var start = function (l) {
+      lv = l; qi = 0; score = 0;
+      qs = QZ.levels[l].map(function (q) { var idx = shuf(q.o.map(function (_, i) { return i; })); return { q: q.q, o: idx.map(function (i) { return q.o[i]; }), a: idx.indexOf(q.a), w: q.w, r: q.r, h: q.h }; });
+      ask();
+    };
+    var ask = function () {
+      var q = qs[qi], n = qs.length; answered = false;
+      qz.innerHTML = '<div><div class="qtop"><span class="qtag">' + LN[lv] + '</span><span class="qmeta">Question ' + (qi + 1) + ' of ' + n + '</span><button class="qquit" id="qquit">Change level</button></div>' +
+        '<div class="qbar"><i style="width:' + Math.round(100 * qi / n) + '%"></i></div><p class="qq" id="qq" tabindex="-1">' + esc(q.q) + '</p><div class="qopts">' +
+        q.o.map(function (o, j) { return '<button class="qopt" data-j="' + j + '">' + esc(o) + '</button>'; }).join('') +
+        '</div><div class="qwhy" id="qwhy" role="status"></div><button class="btn qnext" id="qnext" hidden>' + (qi + 1 < n ? 'Next question' : 'See my score') + '</button></div>';
+      $('#qquit').onclick = home;
       $$('.qopt', qz).forEach(function (b) {
         b.onclick = function () {
-          if (answered) return; answered = true; var j = +b.getAttribute('data-j'); if (j === q.a) score++;
-          $$('.qopt', qz).forEach(function (x) { var k = +x.getAttribute('data-j'); if (k === q.a) x.classList.add('right'); else if (k === j) x.classList.add('wrong'); });
-          $('#qwhy').textContent = (j === q.a ? 'Right. ' : 'Not quite. ') + q.why; $('#qnext').hidden = false; $('#qnext').focus();
+          if (answered) return; answered = true; var j = +b.getAttribute('data-j'), ok = j === q.a; if (ok) score++;
+          $$('.qopt', qz).forEach(function (x) { var k = +x.getAttribute('data-j'); x.disabled = true; if (k === q.a) x.classList.add('right'); else if (k === j) x.classList.add('wrong'); });
+          $('#qwhy').innerHTML = '<b>' + (ok ? 'Right.' : 'Not quite.') + '</b> ' + esc(q.w) + (q.r ? ' <span class="qref">' + (q.h ? '<a href="' + esc(q.h) + '">' + esc(q.r) + '</a>' : esc(q.r)) + '</span>' : '');
+          $('#qnext').hidden = false; $('#qnext').focus();
         };
       });
-      $('#qnext').onclick = function () { qi++; render(); };
+      $('#qnext').onclick = function () { qi++; if (qi < qs.length) ask(); else done(); top(); };
+      if (qi > 0) { try { $('#qq').focus({ preventScroll: true }); } catch (e) {} }
     };
-    render();
+    var done = function () {
+      var n = qs.length, pct = score / n, nxt = LV[LV.indexOf(lv) + 1];
+      if (best[lv] == null || score > best[lv]) { best[lv] = score; try { localStorage.setItem(BK, JSON.stringify(best)); } catch (e) {} }
+      var msg = pct === 1 ? 'A perfect score.' : pct >= .8 ? 'Well done. You were listening.' : pct >= .5 ? 'A good start. The explanations show where to look again.' : 'Worth another listen. Every answer is in the talks.';
+      qz.innerHTML = '<div><div class="qtop"><span class="qtag">' + LN[lv] + '</span></div><p class="qscore" id="qscore" tabindex="-1">' + score + ' of ' + n + '</p><p class="qq">' + msg + '</p><div class="qacts">' +
+        (nxt ? '<button class="btn" id="qup">Try the ' + LN[nxt].toLowerCase() + ' quiz</button>' : '') + '<button class="btn ghost" id="qagain">Take it again</button><button class="btn ghost" id="qshare">Share my score</button><button class="btn ghost" id="qhome">All levels</button></div><p class="qwhy" id="qsmsg" role="status"></p></div>';
+      if (nxt) $('#qup').onclick = function () { start(nxt); top(); };
+      $('#qagain').onclick = function () { start(lv); top(); };
+      $('#qhome').onclick = home;
+      $('#qshare').onclick = function () {
+        var url = location.origin + QZ.path, text = 'I got ' + score + ' of ' + n + ' on the ' + LN[lv].toLowerCase() + ' quiz for ' + QZ.name + '. Can you beat it?';
+        var copied = function () { $('#qsmsg').textContent = 'Copied. Paste it anywhere to share.'; };
+        if (navigator.share) { navigator.share({ text: text, url: url }).catch(function () {}); }
+        else if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text + ' ' + url).then(copied, function () { $('#qsmsg').textContent = text + ' ' + url; }); }
+        else { $('#qsmsg').textContent = text + ' ' + url; }
+      };
+      try { $('#qscore').focus({ preventScroll: true }); } catch (e) {}
+    };
+    var hm = /^#quiz-(easy|medium|hard)$/.exec(location.hash || '');
+    if (hm && LV.indexOf(hm[1]) >= 0) { start(hm[1]); setTimeout(function () { qz.scrollIntoView({ block: 'center' }); }, 60); } else home();
   }
 
   /* ---------- word cloud ---------- */

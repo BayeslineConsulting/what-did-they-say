@@ -1,0 +1,184 @@
+{
+ "talk_id": "T13",
+ "easy": [
+  {
+   "q": "When Elder Morgan was a young teenager getting ready for school, who read the Book of Mormon out loud to him every day?",
+   "options": [
+    "His grandfather",
+    "His mother",
+    "His seminary teacher"
+   ],
+   "a": 1,
+   "why": "Elder Morgan said his mother read to him from the Book of Mormon every day, out loud, “whether I was listening or not.”",
+   "unit": "T13.01"
+  },
+  {
+   "q": "What lesson did Elder Morgan say he learned from those daily readings?",
+   "options": [
+    "Reading the Book of Mormon helps only if we listen closely",
+    "Reading the Book of Mormon is best saved for Sundays",
+    "No time or effort is ever wasted in reading the Book of Mormon"
+   ],
+   "a": 2,
+   "why": "He remembered very little of the words, yet he taught, “No time or effort is ever wasted in reading the Book of Mormon.”",
+   "unit": "T13.06"
+  },
+  {
+   "q": "Elder Morgan wondered aloud why he had been so interested in religion as a boy. What did his wife, Rebecca, say it was?",
+   "options": [
+    "Covenants",
+    "Curiosity",
+    "Friendships"
+   ],
+   "a": 0,
+   "why": "Rebecca said, “I know what it was! It was covenants.” His ancestors had made covenants in the temple in Nauvoo.",
+   "unit": "T13.10"
+  },
+  {
+   "q": "Elder Morgan compared covenants with God to a great power that stretches across the universe. Which power was it?",
+   "options": [
+    "Starlight",
+    "Electricity",
+    "Gravity"
+   ],
+   "a": 2,
+   "why": "He said that like the binding power of gravity, “covenants with God stretch over all time and all space.”",
+   "unit": "T13.18"
+  },
+  {
+   "q": "As he closed his talk, what did Elder Morgan tell us about our own story and our family's story?",
+   "options": [
+    "It was all settled a long time ago",
+    "It is not all written; don't ever give up",
+    "It is ours alone to write and to finish"
+   ],
+   "a": 1,
+   "why": "Elder Morgan testified, “Your story, your family’s story, is not all written,” and that God is the author and finisher of it.",
+   "unit": "T13.22"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Elder Morgan borrowed Joseph Smith's words, “I knew it, and I knew that God knew it, and I could not deny it.” What was he describing?",
+   "options": [
+    "His mother's feelings about the Book of Mormon",
+    "The testimony he had been given that this is the Lord's Church",
+    "His ancestors' choice to stay behind in Nauvoo",
+    "Rebecca's sudden insight about covenants"
+   ],
+   "a": 1,
+   "why": "After two months of sincere seeking he came to know this is the Lord's Church. Though he would face questions from his family, he said he “had been given a gift—a testimony.”",
+   "unit": "T13.09"
+  },
+  {
+   "q": "In the prophetic teaching Rebecca read to Elder Morgan, what is promised about “sheep” who wander?",
+   "options": [
+    "The promises made to their parents are withdrawn",
+    "They are safe where they are and need never return",
+    "The Shepherd notices them once they turn back",
+    "The Shepherd's eye is on them and they will feel drawn back"
+   ],
+   "a": 3,
+   "why": "The teaching says that “though some of the sheep may wander, the eye of the Shepherd is upon them,” and they will feel Divine Providence drawing them back to the fold.",
+   "unit": "T13.11"
+  },
+  {
+   "q": "What did Elder Morgan mean when he said covenants with God are “generational in their impact”?",
+   "options": [
+    "They bless not just the person who makes them but those who come after",
+    "They bless a family for one generation and then come to an end",
+    "They grow weaker with each generation that passes",
+    "They matter most to the oldest generation in a family"
+   ],
+   "a": 0,
+   "why": "He taught that covenants “do not bless just the maker of the covenant,” and that we are all the intended beneficiaries of countless covenants.",
+   "unit": "T13.18"
+  },
+  {
+   "q": "How did Elder Morgan connect the Atonement of Jesus Christ to his message about covenants?",
+   "options": [
+    "It ended the need for covenants made by earlier generations",
+    "It reaches only those who have already made covenants",
+    "It fulfills the greatest promise God made, and its reach is infinite",
+    "It is a separate gift that works apart from God's promises"
+   ],
+   "a": 2,
+   "why": "He said the Atonement is the fulfillment of “the greatest promise God made,” that Jesus Christ would be our Savior, and that the reach of that covenant is infinite and eternal.",
+   "unit": "T13.20"
+  },
+  {
+   "q": "What did Elder Morgan counsel those who are crying out to God because a child is struggling?",
+   "options": [
+    "Expect an answer right away if their faith is strong enough",
+    "Keep their covenants, cheerfully do what they can, and trust God's timing",
+    "Keep working until they have solved the problem themselves",
+    "Set the worry aside, since the outcome is out of their hands"
+   ],
+   "a": 1,
+   "why": "He said God hears and will answer “in His own time and in His own way,” and invited us to keep our covenants, strive to be faithful, and then stand still with assurance.",
+   "unit": "T13.21"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which statement best matches what Elder Morgan taught about parents' covenants and their children's choices?",
+   "options": [
+    "Faithful parents' covenants override the choices their children make",
+    "Parents' covenants bless the parents but leave their posterity untouched",
+    "Parents' covenants help only children who have made covenants too",
+    "Parents' covenants leave children's agency intact yet truly affect posterity"
+   ],
+   "a": 3,
+   "why": "He drew a careful line: covenant faithfulness “does not alter the agency of children or grandchildren,” yet there is a discernible impact on all our posterity.",
+   "unit": "T13.14"
+  },
+  {
+   "q": "Elder Morgan concluded that his ancestors’ temple covenants had affected him as a boy seeking truth. How did he say that influence worked?",
+   "options": [
+    "The power of God in those covenants reached out after him",
+    "Learning his ancestors’ story stirred him to seek the truth",
+    "Their covenants counted as his own until he could be baptized",
+    "Their covenants settled in advance which church he would join"
+   ],
+   "a": 0,
+   "why": "He said, “The power of God in those covenants reached out after me.” The covenants were theirs, not his, and the power in them was God’s; his agency remained his own.",
+   "unit": "T13.15"
+  },
+  {
+   "q": "A father reads the Book of Mormon to his restless children each morning and wonders if it matters. Which part of Elder Morgan's story speaks most directly to him?",
+   "options": [
+    "He attended two congregations for two months while seeking truth",
+    "His ancestors were baptized by Oliver Cowdery in 1831",
+    "He recalled only two phrases, yet knew his mother knew it was true",
+    "His wife read him prophetic teachings about sealings"
+   ],
+   "a": 2,
+   "why": "More than any words he heard, Elder Morgan knew the Book of Mormon mattered to his mother: “And I knew she knew it was true.”",
+   "unit": "T13.05"
+  },
+  {
+   "q": "How did the Lord's covenant with Enos support Elder Morgan's teaching that there is no limit to the power of God in our covenants?",
+   "options": [
+    "Enos saw the covenant fulfilled during his own lifetime",
+    "Later prophets had to renew the covenant to keep it alive",
+    "The covenant was kept as soon as the people repented",
+    "The covenant held even though it took over 2,000 years to fulfill"
+   ],
+   "a": 3,
+   "why": "He asked whether that covenant had a time limit, then answered that it “would take more than 2,000 years to be fulfilled.” Time does not weaken God's promises.",
+   "unit": "T13.17"
+  },
+  {
+   "q": "At 14, when he began to question the church of his childhood, what did Elder Morgan already know and what was he still unsure about?",
+   "options": [
+    "He knew which church was true but doubted the Book of Mormon",
+    "He knew the Book of Mormon was true but was unsure where the true Church was",
+    "He knew Joseph Smith was a prophet but had never heard the Book of Mormon",
+    "He knew little about the Restoration and was unsure about all of it"
+   ],
+   "a": 1,
+   "why": "Because of his mother he knew the Book of Mormon was true and Joseph Smith was a prophet, yet he was “confused and uncertain” as to where the true Church of Jesus Christ was.",
+   "unit": "T13.07"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "talk_id": "T24",
+ "easy": [
+  {
+   "q": "What message was carved in stone above a doorway that young Elder David O. McKay saw as a missionary in Scotland?",
+   "options": [
+    "Whate’er thou art, act well thy part",
+    "Do what is right, and never fear",
+    "Be still, and know who made thee"
+   ],
+   "a": 0,
+   "why": "Elder Cook said that as a new missionary, Elder McKay passed a building where the stone above the doorway bore this carved message.",
+   "unit": "T24.04"
+  },
+  {
+   "q": "According to Elder Cook, what do integrity and virtue lead to?",
+   "options": [
+    "Being famous and admired",
+    "True happiness",
+    "A life with no hard days"
+   ],
+   "a": 1,
+   "why": "Elder Cook taught that in Heavenly Father’s plan, happiness is “the actual outcome of integrity and being virtuous.” Living the right way is what brings real happiness.",
+   "unit": "T24.10"
+  },
+  {
+   "q": "What does Elder Cook say about using the internet to bully someone or hurt a person’s good name?",
+   "options": [
+    "It is fine if the other person was unkind first",
+    "It only matters when grown-ups do it",
+    "It is very wrong and should never be done"
+   ],
+   "a": 2,
+   "why": "Elder Cook called any use of the internet to bully or to destroy a reputation “reprehensible,” which means very wrong. It goes against what the Savior taught.",
+   "unit": "T24.15"
+  },
+  {
+   "q": "A man Elder Cook taught as a young missionary compared repentance to a feeling he once had. What was it?",
+   "options": [
+    "Seeing a lighthouse from his ship on a dark night",
+    "Feeling the earth of his island home under his feet again",
+    "Hearing the ship’s bell ring at the end of a long watch"
+   ],
+   "a": 1,
+   "why": "The man had come home to England on a battleship. Repentance felt to him like stepping off the ship and feeling “the earth of his island home under his feet.”",
+   "unit": "T24.24"
+  },
+  {
+   "q": "Just before his baptism, the man prayed that he could give other people the same joy he felt. Whom did he especially want to share it with?",
+   "options": [
+    "His family",
+    "His old shipmates",
+    "The missionaries"
+   ],
+   "a": 0,
+   "why": "Elder Cook said the man prayed to help others feel the joy he was feeling and then added, “Especially my family.” Joy in the Savior is something we want to share at home.",
+   "unit": "T24.25"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Elder Cook said one of President McKay’s purposes in telling about the carved stone was to teach what?",
+   "options": [
+    "Missionaries should study the history of the places where they serve",
+    "Each person’s part in life is fixed and cannot be changed by effort",
+    "Hard work in any task matters more than spiritual things",
+    "Some conduct that is not evil in itself can keep us from spiritual things"
+   ],
+   "a": 3,
+   "why": "Elder Cook said one of President McKay’s purposes in mentioning the incident was to teach that “some conduct which is not inherently evil can keep us from engaging in spiritual matters” that bless us now and forever.",
+   "unit": "T24.07"
+  },
+  {
+   "q": "Elder Cook quoted President Spencer W. Kimball’s definition of integrity. What was it?",
+   "options": [
+    "Never making a mistake once we have made covenants",
+    "The willingness and ability to live by our beliefs and commitments",
+    "Earning a good reputation among the people who know us",
+    "Knowing the scriptures well enough to teach them to others"
+   ],
+   "a": 1,
+   "why": "President Kimball, as Elder Cook quoted him, called integrity “the willingness and ability to live by our beliefs and commitments” and one of the foundation stones of good character.",
+   "unit": "T24.09"
+  },
+  {
+   "q": "Why did Elder Cook mention the Declaration of Independence and its phrase about “the pursuit of Happiness”?",
+   "options": [
+    "To note that, as some scholars say, the founders tied happiness to virtue",
+    "To show that liberty means choosing whatever pleases us most",
+    "To teach that happiness depends mainly on a nation’s prosperity",
+    "To suggest the founders thought happiness could be pursued but never found"
+   ],
+   "a": 0,
+   "why": "Elder Cook said some scholars have noted that “happiness” was understood by the founders “to be based on living a virtuous life.” He used it to show how virtue and happiness belong together.",
+   "unit": "T24.12"
+  },
+  {
+   "q": "Elder Cook said evil communications “are not just a matter of bad manners.” What reason did he give?",
+   "options": [
+    "They are mostly a problem among people outside the Church",
+    "They matter only when Church leaders happen to see them",
+    "They can harm others who do not yet know God or have a testimony of the Savior",
+    "They show that technology itself is something the Saints should avoid"
+   ],
+   "a": 2,
+   "why": "He taught that if Latter-day Saints practice them, they “can adversely affect others who do not have a knowledge of God or a testimony of our Savior.” Our words touch other people’s faith.",
+   "unit": "T24.16"
+  },
+  {
+   "q": "Elder Cook quoted the Savior asking, “And why call ye me, Lord, Lord, and do not the things which I say?” What was he using it to show?",
+   "options": [
+    "Saying that we believe is enough, even without changing how we live",
+    "The Lord expects us to live with virtue and integrity and do what He commands",
+    "We should use the Lord’s titles only rarely when we pray or teach",
+    "Most people who call on the Lord will find that He does not answer"
+   ],
+   "a": 1,
+   "why": "Elder Cook introduced the verse by saying the Lord “expects us to live lives of virtue and integrity and to follow His commandments.” Discipleship is doing, not only saying.",
+   "unit": "T24.20"
+  }
+ ],
+ "hard": [
+  {
+   "q": "At the start of his talk, how did Elder Cook describe the covenant path back to Heavenly Father and Jesus Christ?",
+   "options": [
+    "Hard to find, so each of us must search it out alone",
+    "Clear at the start but uncertain the farther we travel",
+    "Different for every person, so no one can mark it for another",
+    "Not obscure but well marked, with principles we have been taught often"
+   ],
+   "a": 3,
+   "why": "Elder Cook said the covenant path “is not obscure; it is well marked,” and that we have been repeatedly taught its principles and covenants. The challenge is staying on it, not finding it.",
+   "unit": "T24.01"
+  },
+  {
+   "q": "How did Elder Cook describe the relationship between happiness and a life of integrity and virtue?",
+   "options": [
+    "Happiness is the actual outcome of integrity and being virtuous",
+    "Happiness comes first and then makes virtue easier to choose",
+    "Virtue costs us happiness now in exchange for joy much later",
+    "Happiness and virtue are separate gifts that seldom arrive together"
+   ],
+   "a": 0,
+   "why": "He taught that integrity, virtue, and happiness are “intrinsically linked” and that true happiness, or blessedness, is the actual outcome of living with integrity and virtue.",
+   "unit": "T24.10"
+  },
+  {
+   "q": "Elder Cook said happiness is a predominant goal of most people. What did he name as a major concern about how it is sought today?",
+   "options": [
+    "People no longer care very much about being happy",
+    "A lack of interest in the concept and pursuit of virtue",
+    "Too much trust in what earlier generations believed",
+    "A belief that happiness is meant only for the next life"
+   ],
+   "a": 1,
+   "why": "Elder Cook said a major concern is “the lack of interest in the concept and pursuit of virtue.” People still want happiness, but the link between virtue and happiness is less understood.",
+   "unit": "T24.11"
+  },
+  {
+   "q": "Someone posts an unkind and untrue comment about the Church online. Which response best fits what Elder Cook taught?",
+   "options": [
+    "Reply sharply so that everyone can see the falsehood exposed",
+    "Give up on technology, since it does more harm than good",
+    "Stay peaceable and Christlike, knowing we cannot control what others do",
+    "Share the person’s name so that friends can correct the comment"
+   ],
+   "a": 2,
+   "why": "Elder Cook taught, “We cannot control the conduct of others, but we can strive to be a peaceable people” who live the Christlike virtues the Savior taught.",
+   "unit": "T24.17"
+  },
+  {
+   "q": "According to Elder Cook, how does repentance relate to integrity?",
+   "options": [
+    "Integrity means reaching a point where we have no faults left to repent of",
+    "Repentance is needed only after our integrity has been lost completely",
+    "Integrity is mainly about how others see us, while repentance is private",
+    "Admitting our faults to the Lord and repenting is itself part of integrity"
+   ],
+   "a": 3,
+   "why": "He said, “Part of having integrity is acknowledging our faults to the Lord and repenting of transgressions.” Daily repentance lets us approach the Lord with integrity.",
+   "unit": "T24.23"
+  }
+ ]
+}

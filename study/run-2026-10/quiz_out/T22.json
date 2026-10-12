@@ -1,0 +1,184 @@
+{
+ "talk_id": "T22",
+ "easy": [
+  {
+   "q": "What mistake did Elder Fantone make at the school registrar’s office?",
+   "options": [
+    "He left his daughter’s papers at home",
+    "He wrote his own name instead of his daughter’s",
+    "He took the papers to the wrong school"
+   ],
+   "a": 1,
+   "why": "The registrar asked him to write his daughter’s name, but his mind was preoccupied and he thought she had asked for his own name.",
+   "unit": "T22.03"
+  },
+  {
+   "q": "A student could not afford a place to live near his school. What did Elder Fantone’s parents do?",
+   "options": [
+    "They let him stay in the boys’ room",
+    "They paid for a room near the school",
+    "They asked the ward to find him a home"
+   ],
+   "a": 0,
+   "why": "His mother, a schoolteacher, wanted the student to reach his potential, so his parents opened their home and offered him the boys’ room.",
+   "unit": "T22.14"
+  },
+  {
+   "q": "Elder Fantone pictured Joseph and Mary knocking on his family’s door when both children’s rooms were full. What did he believe his parents would do?",
+   "options": [
+    "Help them find an inn nearby",
+    "Make a bed for them in the kitchen",
+    "Gladly give them their own room"
+   ],
+   "a": 2,
+   "why": "He said, “my parents would have gladly offered their room.” Their example taught him what serving others looks like.",
+   "unit": "T22.16"
+  },
+  {
+   "q": "Some new missionaries felt sad, lonely and homesick. What did Elder Fantone say they did?",
+   "options": [
+    "They rested at home until they felt happier",
+    "They prayed, put on their name tags, and went to serve",
+    "They asked to be moved to a different area"
+   ],
+   "a": 1,
+   "why": "Elder Fantone said these valiant missionaries “went out to serve anyway.” A year later they were happy and loved the people and the work.",
+   "unit": "T22.19"
+  },
+  {
+   "q": "In this talk, what does the Savior invite us to do with His name?",
+   "options": [
+    "Say it more often when we speak",
+    "Learn what it means in other languages",
+    "Take it upon us and serve Him"
+   ],
+   "a": 2,
+   "why": "Elder Fantone taught that the Savior invites us to take upon us His name by covenant and to serve Him by lifting, loving, and serving others.",
+   "unit": "T22.26"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Fantone tell the story of fixing the school form by adding “Amanda” in front of his own name?",
+   "options": [
+    "To show that every mistake has a simple fix",
+    "To contrast adding a name with truly taking upon us Christ’s name",
+    "To teach that children should carry on a father’s name",
+    "To remind us to listen closely when given instructions"
+   ],
+   "a": 1,
+   "why": "Pondering it, he saw a “significant spiritual contrast” between his quick fix and the Savior’s invitation, which is to become more like Him.",
+   "unit": "T22.07"
+  },
+  {
+   "q": "Elder Fantone quoted the Savior’s warning that some “draw near to me with their lips.” What was he using it to show?",
+   "options": [
+    "That we should speak the Savior’s name less often",
+    "That public prayers matter less than private ones",
+    "That carrying His name outwardly is not enough if our hearts are far",
+    "That many churches teach the same truths in different words"
+   ],
+   "a": 2,
+   "why": "He said the invitation is not merely to add His name to ours “like a badge.” The warning shows that words without the heart fall short.",
+   "unit": "T22.08"
+  },
+  {
+   "q": "What did Elder Fantone use Moroni 6:3 to show about taking upon us the name of Christ?",
+   "options": [
+    "It is finished on the day we are baptized",
+    "It mostly means being known as a Christian",
+    "It gives each new member a new name",
+    "It comes with a determination to serve Him to the end"
+   ],
+   "a": 3,
+   "why": "Moroni recorded that those baptized took Christ’s name “having a determination to serve him to the end.” Elder Fantone called this a simple yet profound answer.",
+   "unit": "T22.11"
+  },
+  {
+   "q": "In President Romney’s words, quoted by Elder Fantone, how is service related to life in the celestial kingdom?",
+   "options": [
+    "It is the price we pay to earn that life",
+    "It is the very fiber of which that life is made",
+    "It is a duty that ends when that life begins",
+    "It is a trial to endure before that life comes"
+   ],
+   "a": 1,
+   "why": "President Romney taught that service is “the very fiber of which an exalted life in the celestial kingdom is made,” not something we endure to earn a reward.",
+   "unit": "T22.17"
+  },
+  {
+   "q": "Missionaries who once said time was too slow later said it was moving too fast. How did Elder Fantone explain this?",
+   "options": [
+    "The work had become much easier",
+    "They had been sent to better areas",
+    "The missionaries themselves had changed",
+    "They had little time left to serve"
+   ],
+   "a": 2,
+   "why": "He said, “Time did not change—the missionaries did.” Serving others had changed their hearts.",
+   "unit": "T22.22"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Fantone said taking the Savior’s name requires a lifelong determination to serve Him, then called a verse from King Benjamin “the divine key.” What does that verse unlock in his argument?",
+   "options": [
+    "How long we serve Him: until our callings are completed",
+    "Why we serve Him: to earn the right to carry His name",
+    "How we serve Him each day: by serving the people around us",
+    "Whom we serve first: God, and only afterward other people"
+   ],
+   "a": 2,
+   "why": "If taking His name means serving Him, we need to know how. King Benjamin gives the key: “When ye are in the service of your fellow beings ye are only in the service of your God.”",
+   "unit": "T22.12"
+  },
+  {
+   "q": "What does the missionaries’ story show about how the change in them came?",
+   "options": [
+    "It came first, and then serving felt easy",
+    "It came as they kept serving while still sad",
+    "It came after their missions, looking back",
+    "It came once their leader lifted their load"
+   ],
+   "a": 1,
+   "why": "They were still homesick when they knelt, put on their name tags, and “went out to serve anyway.” The change followed their choice to serve.",
+   "unit": "T22.19"
+  },
+  {
+   "q": "Elder Fantone quoted King Benjamin’s question about “the master whom he has not served.” In the talk’s argument, what does that question imply?",
+   "options": [
+    "We must know the Savior fully before we can serve Him",
+    "We serve the Savior best by studying about Him",
+    "We come to know the Savior by serving Him",
+    "We know the Savior once we carry His name"
+   ],
+   "a": 2,
+   "why": "King Benjamin’s question teaches that a master we have not served remains “a stranger.” Elder Fantone placed it right after teaching that losing ourselves in the service of others brings a “mighty change” in our hearts.",
+   "unit": "T22.25"
+  },
+  {
+   "q": "Which of these best fits what Elder Fantone taught it means to truly take upon us the Savior’s name?",
+   "options": [
+    "Naming our Church membership whenever we meet someone",
+    "Helping at one large project to enjoy the good feeling",
+    "Studying the Savior’s titles while our habits stay the same",
+    "Keeping covenants and steadily lifting a struggling neighbor"
+   ],
+   "a": 3,
+   "why": "The invitation is to take His name “by covenant” and serve Him with all our heart “by lifting, loving, and serving our fellow men,” not merely to add His name to ours.",
+   "unit": "T22.26"
+  },
+  {
+   "q": "How does Elder Fantone’s personal witness near the end of the talk echo what he taught from Moroni?",
+   "options": [
+    "He says he made that covenant and is determined to serve to the end",
+    "He says his service as a mission leader has now been completed",
+    "He says he was given a new name when he was called to serve",
+    "He says his parents’ example is the reason he was called"
+   ],
+   "a": 0,
+   "why": "Moroni linked taking Christ’s name with serving to the end. Elder Fantone said he has made that covenant and is determined to strive to serve Him faithfully to the end.",
+   "unit": "T22.27"
+  }
+ ]
+}

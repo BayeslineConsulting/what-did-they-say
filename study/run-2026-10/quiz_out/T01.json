@@ -1,0 +1,184 @@
+{
+ "talk_id": "T01",
+ "easy": [
+  {
+   "q": "In a world of commotion and cares, where did Elder Gong say the Lord invites us to find spiritual safety, harmony, and holiness?",
+   "options": [
+    "The house of the Lord",
+    "A quiet place in the mountains",
+    "A large conference hall"
+   ],
+   "a": 0,
+   "why": "Elder Gong taught that the Lord invites us to a place of safety and holiness: “the house of the Lord.” There He teaches us, blesses us, and prepares us to come home.",
+   "unit": "T01.03"
+  },
+  {
+   "q": "Elder Gong began with a riddle: “Why did the temple workers cross the road?” What was the answer?",
+   "options": [
+    "To see the new temple being built",
+    "To help the people on the other side",
+    "To get to the temple on time"
+   ],
+   "a": 1,
+   "why": "The answer was “To help the people on the other side.” At the end of his talk Elder Gong answered again: so God and temple ordinances can bless us and “unite loved ones here and away.”",
+   "unit": "T01.02"
+  },
+  {
+   "q": "Someone told Elder Gong they were happy to have a temple but sorry it was small. What did he say in reply?",
+   "options": [
+    "A bigger temple would be built there someday",
+    "Small temples are easier to care for",
+    "Ordinances and covenants are not big or small"
+   ],
+   "a": 2,
+   "why": "Elder Gong answered, “Covenants are not big or small.” He asked us to speak of every temple only with love and gratitude.",
+   "unit": "T01.26"
+  },
+  {
+   "q": "Elder Gong told of a family of modest means. What did the children save their money to buy for their widowed mother?",
+   "options": [
+    "Her own temple clothes",
+    "A trip to a faraway temple",
+    "A new set of scriptures"
+   ],
+   "a": 0,
+   "why": "At her request, the children saved and bought their mother her own ceremonial temple clothes, which she loved using as she attended the temple for many years.",
+   "unit": "T01.30"
+  },
+  {
+   "q": "Whatever generation we are in the Church, what did Elder Gong ask each of us to be in the chain of our eternal family?",
+   "options": [
+    "A bright light",
+    "A strong link",
+    "A firm anchor"
+   ],
+   "a": 1,
+   "why": "Elder Gong said, “in the chain of your eternal family, please be a strong link.” Taking family names to the temple connects our family on both sides of the veil.",
+   "unit": "T01.28"
+  }
+ ],
+ "medium": [
+  {
+   "q": "According to Elder Gong, what can happen when we perform temple ordinances for family members with whom we once had difficult relationships?",
+   "options": [
+    "We learn that those old hurts were never really important",
+    "We find hope and healing, and our hearts can soften",
+    "We are freed from any lasting tie to those relatives",
+    "We discover which person was truly at fault"
+   ],
+   "a": 1,
+   "why": "Elder Gong taught that we find hope and healing in this service, because “Jesus Christ can help us mend, forgive, move forward.” We may even come to desire sealing with those family members.",
+   "unit": "T01.12"
+  },
+  {
+   "q": "Faithful members once sacrificed to reach distant temples. As temples come closer, how did Elder Gong say we can show the spirit of temple sacrifice in new ways?",
+   "options": [
+    "By giving more money toward building new temples",
+    "By saving our visits for only the most special days",
+    "By traveling to faraway temples as earlier members did",
+    "By coming more often, bringing family names, and serving"
+   ],
+   "a": 3,
+   "why": "Elder Gong said we can come more often, bring more family names, and “regularly serve in the Lord’s house” as patrons and ordinance workers, as the seasons of our lives allow.",
+   "unit": "T01.22"
+  },
+  {
+   "q": "Elder Gong is grateful that temples and everything in them are physically beautiful. What did he ask us to celebrate and treasure even more?",
+   "options": [
+    "The spiritual blessings temples bring",
+    "The milestones of building each temple",
+    "The sacrifices of those who built them",
+    "The growing number of temples on earth"
+   ],
+   "a": 0,
+   "why": "Announcements, groundbreakings, and dedications are milestones, but Elder Gong asked us to “celebrate and treasure even more the spiritual blessings temples bring.” A dedication is a beginning.",
+   "unit": "T01.19"
+  },
+  {
+   "q": "Why did Elder Gong invite us, where possible, to save for and buy our own ceremonial temple clothes?",
+   "options": [
+    "Temples will soon stop lending clothing to patrons",
+    "It lets us attend the temple without planning ahead",
+    "Our children and grandchildren can see we love the Lord",
+    "It shows other patrons how often we attend the temple"
+   ],
+   "a": 2,
+   "why": "Elder Gong taught that as we reverently care for and use our own temple clothes, our children and grandchildren “can see we love the Lord and our temple covenants.”",
+   "unit": "T01.29"
+  },
+  {
+   "q": "At the end of his talk, Elder Gong asked his opening riddle again. What deeper reason did he give for why the temple workers crossed the road?",
+   "options": [
+    "So more people would notice the temple and want to visit",
+    "So temple workers could rest from their long service",
+    "So the temple grounds could be kept beautiful for all",
+    "So God and temple ordinances can bless, heal, and unite loved ones"
+   ],
+   "a": 3,
+   "why": "Elder Gong’s closing answer was that God and temple ordinances can protect, bless, and inspire; “bring forgiveness, healing, and peace; and unite loved ones here and away.”",
+   "unit": "T01.32"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Gong said covenant belonging unites a family, yet not until death, and not until convenience or attraction fade. By what did he say it does unite them?",
+   "options": [
+    "By lasting attraction and shared interests",
+    "By covenant commitment, sacrifice, and consecration",
+    "By the beauty and memory of the wedding day",
+    "By the approval and support of extended family"
+   ],
+   "a": 1,
+   "why": "Elder Gong taught that temple marriages are meant to last forever, united “by covenant commitment, sacrifice, and consecration,” and blessed by consistent spiritual nourishment.",
+   "unit": "T01.07"
+  },
+  {
+   "q": "Which statement best matches what Elder Gong taught about moral agency and eternal relationships?",
+   "options": [
+    "A sealing binds us whatever we later choose or desire",
+    "Our eternal relationships were all chosen for us before birth",
+    "God will not require anyone to be sealed against his or her choice",
+    "Agency over our relationships ends once temple covenants are made"
+   ],
+   "a": 2,
+   "why": "Elder Gong said, “Agency means we choose, directly and indirectly, our relationships.” God will not require a woman or man to live in an eternal relationship he or she does not choose.",
+   "unit": "T01.10"
+  },
+  {
+   "q": "In Elder Gong’s third doctrinal foundation, when do ordinances and covenants become binding in time and eternity?",
+   "options": [
+    "When they are performed in a dedicated temple",
+    "When the family has gathered to witness them",
+    "When they are entered in the records of the Church",
+    "When the Holy Spirit of Promise witnesses and confirms them"
+   ],
+   "a": 3,
+   "why": "Elder Gong taught that they become binding when the Holy Spirit of Promise “witnesses and confirms the efficacy of ordinances and covenants.” This comes as we honor our covenants.",
+   "unit": "T01.14"
+  },
+  {
+   "q": "Speaking with respect and love about a spirit of gratitude, Elder Gong said a few members may think of attending the temple in a mistaken way. How?",
+   "options": [
+    "As a right or entitlement rather than a sacred privilege",
+    "As a duty to complete rather than a joy to seek",
+    "As something for older members rather than for youth",
+    "As a private matter rather than a family blessing"
+   ],
+   "a": 0,
+   "why": "Elder Gong said a few may see temple attendance as “a right or entitlement rather than a sacred privilege” and so be impatient when help comes slowly. Temple service includes a spirit of gratitude.",
+   "unit": "T01.24"
+  },
+  {
+   "q": "A patron worries because she feels unsure and imperfect when she serves in the temple. Which teaching from Elder Gong’s talk best fits her situation?",
+   "options": [
+    "Patrons should wait to return until they feel fully confident",
+    "Service is acceptable only when done without any mistake",
+    "When patrons do their best, the service is acceptable to the Lord",
+    "Temple workers alone are responsible for acceptable service"
+   ],
+   "a": 2,
+   "why": "Elder Gong taught, “When patrons do their best, our service is acceptable to the Lord.” In each temple, ordinances are truly and faithfully performed by the Lord’s authority.",
+   "unit": "T01.23"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "talk_id": "T21",
+ "easy": [
+  {
+   "q": "According to Elder Andersen, what does our faith in Jesus Christ give us?",
+   "options": [
+    "Courage to choose the right",
+    "A life with no hard days",
+    "Quick answers to every question"
+   ],
+   "a": 0,
+   "why": "Elder Andersen taught that as we choose faith in Christ, He blesses us with courage to choose the right, even in very difficult situations.",
+   "unit": "T21.11"
+  },
+  {
+   "q": "When Elder Andersen was a boy on a dairy farm, what did he do on summer mornings after milking?",
+   "options": [
+    "Rode his horse and guided the cows to a high meadow",
+    "Drove a tractor out to plow the far fields",
+    "Walked the sheep down to drink at the river"
+   ],
+   "a": 0,
+   "why": "He spent all day with the cows, alone with his thoughts, and taught, “We need stillness to nourish our faith in Christ.”",
+   "unit": "T21.10"
+  },
+  {
+   "q": "Moroni was alone, without family or friends. What did he bravely declare?",
+   "options": [
+    "He would travel to find a new people",
+    "He would not deny the Christ",
+    "He would stop writing on the plates"
+   ],
+   "a": 1,
+   "why": "Elder Andersen quoted Moroni’s words, “And I, Moroni, will not deny the Christ,” as an example of spiritual courage born of faith.",
+   "unit": "T21.07"
+  },
+  {
+   "q": "After fires destroyed their neighborhood, what did Cody and Haylee Woodbury tell Elder Andersen?",
+   "options": [
+    "They planned to move to another state",
+    "They wished they had left much sooner",
+    "Their family was safe and their faith secure"
+   ],
+   "a": 2,
+   "why": "They said, “We can build another house.” Elder Andersen said their faith in Jesus Christ lifted their courage.",
+   "unit": "T21.18"
+  },
+  {
+   "q": "How did 17-year-old Rosemary Chibota first learn that the gospel was true?",
+   "options": [
+    "She heard a choir sing at a Church meeting",
+    "She read a pamphlet about Joseph Smith",
+    "She visited a temple with her parents"
+   ],
+   "a": 1,
+   "why": "She read a Joseph Smith pamphlet missionaries had left at her home in Zimbabwe and received a spiritual witness that it was true.",
+   "unit": "T21.02"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Andersen describe his long days alone with the cows, with no phone or music?",
+   "options": [
+    "To show that farm life is better than city life",
+    "To teach that we need stillness to nourish our faith",
+    "To explain how he learned to care for animals",
+    "To suggest that young people should not own phones"
+   ],
+   "a": 1,
+   "why": "He said, “Times have changed, but our spirits have not changed. We need stillness to nourish our faith in Christ.”",
+   "unit": "T21.10"
+  },
+  {
+   "q": "How did Elder Andersen describe the way faith in Christ and courage work together?",
+   "options": [
+    "Courage must come first, and faith follows much later",
+    "Faith removes any need for us to have courage",
+    "Faith brings courage, and using that courage strengthens faith",
+    "They are two different names for the very same gift"
+   ],
+   "a": 2,
+   "why": "He taught that Christ blesses those who choose faith with courage to choose the right, and that as we show that courage, “our faith in Christ strengthens.”",
+   "unit": "T21.11"
+  },
+  {
+   "q": "Elder Andersen quoted Paul: “We wrestle not against flesh and blood.” What did he say these words describe?",
+   "options": [
+    "The physical dangers Moroni faced from his enemies",
+    "The hard daily labor of life on a small farm",
+    "The disagreements that arise among neighbors",
+    "The doubts, distractions, and deceptions of our day"
+   ],
+   "a": 3,
+   "why": "Elder Andersen said our world differs from Moroni’s, but discipleship still requires courage against today’s doubts, distractions, and deceptions.",
+   "unit": "T21.08"
+  },
+  {
+   "q": "What did Elder Andersen say we are given in quiet moments when we pray privately to Heavenly Father?",
+   "options": [
+    "Increased courage to choose the right",
+    "Quick relief from all of our trials",
+    "Knowledge of what others should change",
+    "Freedom from ever needing to pray again"
+   ],
+   "a": 0,
+   "why": "He taught that faith gives us the desire to kneel alone and pray, and in those quiet moments we receive increased courage to choose the right.",
+   "unit": "T21.13"
+  },
+  {
+   "q": "After telling how Peter and John answered the rulers, what did Elder Andersen do “as Peter and John of old”?",
+   "options": [
+    "He promised that the sick among us will be healed",
+    "He called on the rulers of nations to believe",
+    "He bore his own witness that Jesus Christ lives",
+    "He invited us to study the Acts of the Apostles"
+   ],
+   "a": 2,
+   "why": "Peter and John declared the name of Jesus Christ with courage born of their faith. Elder Andersen then added his own witness: “He lives. He guides this holy work.”",
+   "unit": "T21.28"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which statement best matches Elder Andersen’s definition of spiritual courage?",
+   "options": [
+    "Feeling no doubt or fear when it is time to choose the right",
+    "Triumphing over obstacles, doubt, and fear in choosing the right",
+    "Defending our beliefs forcefully whenever they are challenged",
+    "Facing physical danger without ever thinking of turning back"
+   ],
+   "a": 1,
+   "why": "He defined spiritual courage as “the triumph over obstacles, doubt, and fear in choosing the right.” It overcomes doubt and fear rather than never feeling them.",
+   "unit": "T21.05"
+  },
+  {
+   "q": "In this talk, why is a young mother preparing her small children for church an example of remarkable courage?",
+   "options": [
+    "She goes knowing some Sundays will be more struggle than renewal",
+    "She goes because each Sunday always leaves her feeling renewed",
+    "She goes only on the weeks when her children are well behaved",
+    "She goes mainly so that other members will notice her effort"
+   ],
+   "a": 0,
+   "why": "Elder Andersen said she acts with faith, “knowing that some Sundays will be more a wrestle of survival than a spiritual renewal.”",
+   "unit": "T21.20"
+  },
+  {
+   "q": "Elder Andersen quoted Paul: “troubled on every side, yet not distressed.” What did he use these words to teach?",
+   "options": [
+    "True disciples are spared from life’s hardest challenges",
+    "Challenges are a sign that our faith has grown weak",
+    "With hope alive in Christ, we can face challenges without despair",
+    "Hope returns only after life’s challenges have ended"
+   ],
+   "a": 2,
+   "why": "He said that with our hope alive in Christ, “even with life’s challenges,” we may be troubled and perplexed, yet not in despair.",
+   "unit": "T21.23"
+  },
+  {
+   "q": "Which person best fits the promise Elder Andersen gave near the end of his talk?",
+   "options": [
+    "Sam sets the commandments aside until his answers have come",
+    "Sam expects that courage alone will bring him his answers",
+    "Sam believes his answers must come before his faith can grow",
+    "Sam keeps the commandments while still waiting for answers"
+   ],
+   "a": 3,
+   "why": "He promised that as you strengthen your faith “by believing and following Him and keeping His commandments, your answers will come.” Believing and obeying come first; the answers follow.",
+   "unit": "T21.24"
+  },
+  {
+   "q": "Which situation best fits what Elder Andersen taught about accepting a calling from priesthood leaders?",
+   "options": [
+    "A member waits to accept until she feels fully qualified to serve",
+    "A member accepts because his schedule has finally opened up",
+    "A member who feels inadequate and short on time accepts in faith",
+    "A member accepts in order to gain experience in leading others"
+   ],
+   "a": 2,
+   "why": "He taught that faith in Jesus Christ gives us courage to accept a calling “even when we feel inadequate or without sufficient time.”",
+   "unit": "T21.15"
+  }
+ ]
+}

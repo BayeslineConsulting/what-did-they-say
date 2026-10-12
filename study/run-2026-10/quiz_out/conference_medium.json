@@ -1,0 +1,355 @@
+{
+ "level": "medium",
+ "questions": [
+  {
+   "q": "Elder Caussé taught that testimony and love are deeply connected gifts. How did he describe saying “I know” to someone?",
+   "options": [
+    "A duty kept mainly for testimony meetings",
+    "A tender expression of love toward our neighbor",
+    "A claim we should make only once faith is complete",
+    "A statement that calls for careful proof"
+   ],
+   "a": 1,
+   "why": "Elder Caussé said that to say “I know” is “a tender expression of love toward our neighbor.” Because we love others, we want to share our most precious gift, our witness of Jesus Christ and His gospel.",
+   "kind": "talk",
+   "talk": "T03",
+   "unit": "T03.18"
+  },
+  {
+   "q": "Elder Hathaway taught that the Savior’s deliverance is certain. What, then, did he say is the real question for most righteous followers?",
+   "options": [
+    "How and when He will deliver them",
+    "Whether they have earned deliverance",
+    "Which of their trials He will notice",
+    "Why the righteous are tried at all"
+   ],
+   "a": 0,
+   "why": "Elder Hathaway said the question is “not if He will deliver but how and when He will do so.” Deliverance comes in the Savior’s time and way.",
+   "kind": "talk",
+   "talk": "T05",
+   "unit": "T05.03"
+  },
+  {
+   "q": "Elder Soares quoted Isaiah’s words about helping “the oppressed go free.” Where did he say that desire finds tangible expression in our day?",
+   "options": [
+    "In fasting more than once a month",
+    "In giving up favorite foods",
+    "In keeping our fasts private",
+    "In generous fast offerings"
+   ],
+   "a": 3,
+   "why": "Elder Soares taught that this desire “finds tangible expression in generous fast offerings,” so the fast turns our hearts outward to God’s children.",
+   "kind": "talk",
+   "talk": "T06",
+   "unit": "T06.11"
+  },
+  {
+   "q": "President Christofferson recalled Paul’s counsel about eating food offered to idols. What point about gambling was he making?",
+   "options": [
+    "Gambling is a modern kind of idol worship",
+    "Our example may lead someone weaker into temptation",
+    "Whatever the law allows is safe for the strong",
+    "Only compulsive gambling does real harm"
+   ],
+   "a": 1,
+   "why": "President Christofferson put Paul’s counsel this way: “Since your recreational gambling may lead a weaker brother or sister into temptation, just don’t do it.”",
+   "kind": "talk",
+   "talk": "T08",
+   "unit": "T08.21"
+  },
+  {
+   "q": "In Elder Renlund’s talk, a patient saved by a heart transplant complained about cold oatmeal. What does “cold oatmeal” stand for?",
+   "options": [
+    "Small duties we are tempted to leave undone",
+    "Blessings that arrive later than we hoped",
+    "Daily troubles that make us lose sight of God’s promises",
+    "Service given with a grudging heart"
+   ],
+   "a": 2,
+   "why": "Elder Renlund said that when we focus on the “cold oatmeal” we “lose sight of the bigger picture, both where we have been and God’s promises to us.”",
+   "kind": "talk",
+   "talk": "T09",
+   "unit": "T09.05"
+  },
+  {
+   "q": "President Farnes spoke of “divine appointments.” What did he mean by that phrase?",
+   "options": [
+    "Times when God places someone in our path to minister to",
+    "Interviews in which Church callings are extended",
+    "Set times each week for temple worship",
+    "Ministering visits planned at the start of each month"
+   ],
+   "a": 0,
+   "why": "President Farnes said ministering often happens when “God places someone in our path and we have eyes to see them.” He calls these divine appointments.",
+   "kind": "talk",
+   "talk": "T10",
+   "unit": "T10.19"
+  },
+  {
+   "q": "Elder Morgan wondered why he, as a boy raised in another church, went looking for the Lord’s Church. What explanation did he come to feel was true?",
+   "options": [
+    "His friends’ example slowly won him over",
+    "His mother’s reading taught him each doctrine",
+    "A missionary lesson answered his questions",
+    "Temple covenants his ancestors made reached out after him"
+   ],
+   "a": 3,
+   "why": "Elder Morgan said it was covenants, “not my covenants but the covenants of those who came before me,” made by ancestors in Nauvoo.",
+   "kind": "talk",
+   "talk": "T13",
+   "unit": "T13.15"
+  },
+  {
+   "q": "Elder Chigbundu taught that praying in faith strengthens our “spiritual immunity.” What did he say this may mean for the burdens we carry?",
+   "options": [
+    "They are lifted as soon as our faith is strong enough",
+    "They pass to others who are better able to bear them",
+    "They may remain, but our backs will be built to carry them",
+    "They seem small once we stop thinking about them"
+   ],
+   "a": 2,
+   "why": "Elder Chigbundu taught, “The burden we carry may not always be removed, but our backs will be built to carry the load placed upon them.”",
+   "kind": "talk",
+   "talk": "T11",
+   "unit": "T11.19"
+  },
+  {
+   "q": "Elder Kearon said a glider that is not climbing is descending, sometimes too gradually to notice. What did he say this is like in our lives?",
+   "options": [
+    "Losing faith all at once in a sudden trial",
+    "Resting safely on heights already reached",
+    "Slowly slipping when we neglect what lifted us",
+    "Waiting for others to find the way first"
+   ],
+   "a": 2,
+   "why": "Elder Kearon said, “How easy it is to slowly slip from spiritual heights we have worked so hard to climb when we neglect the practices and behaviours that brought us there.” We rarely intend to sink.",
+   "kind": "talk",
+   "talk": "T15",
+   "unit": "T15.19"
+  },
+  {
+   "q": "Elder Dunn later saw that his friend Ted had quietly carried his pack for the last ten miles. What did he say this taught him about how the Redeemer rescues?",
+   "options": [
+    "By helping us lengthen our stride",
+    "By shortening the course we must run",
+    "By running the hardest miles for us",
+    "By waiting for us at the finish line"
+   ],
+   "a": 0,
+   "why": "Elder Dunn had assumed the trail would get easier. He learned the Redeemer rescues “not by shortening our course but by helping us lengthen our stride.”",
+   "kind": "talk",
+   "talk": "T16",
+   "unit": "T16.16"
+  },
+  {
+   "q": "Elder Rasband spoke to those whose hearts ache for loved ones who have turned from the Lord. What did he ask them to do with their despair?",
+   "options": [
+    "Carry it quietly as a parent’s lasting duty",
+    "Press harder with reminders and warnings",
+    "Step back until the loved one asks for help",
+    "Turn it over to Jesus Christ, who can change hearts"
+   ],
+   "a": 3,
+   "why": "Elder Rasband said, “We cannot change their hearts, but He can.” He asked us to let go of guilt, keep loving, and never give up.",
+   "kind": "talk",
+   "talk": "T18",
+   "unit": "T18.08"
+  },
+  {
+   "q": "President Eyring told how, after his mother died, his father thanked every nurse who had helped her. What did he say the story shows?",
+   "options": [
+    "The Lord’s promise removes the trials of the faithful",
+    "The Lord sends disciples to help keep His promise to succor",
+    "Gratitude takes away the sorrow of losing a loved one",
+    "Hospitals are where most ministering takes place"
+   ],
+   "a": 1,
+   "why": "President Eyring said he told it as evidence that “the Lord sends faithful disciples to help Him keep His promise to succor others in their distress.”",
+   "kind": "talk",
+   "talk": "T19",
+   "unit": "T19.13"
+  },
+  {
+   "q": "President Chibota said worldly labels can never fully capture who we are. What did she teach about our eternal identity?",
+   "options": [
+    "We build it through years of service",
+    "We receive it with each new calling",
+    "We inherit it as children of God",
+    "We reshape it as circumstances change"
+   ],
+   "a": 2,
+   "why": "President Chibota taught, “Our identity is not something we achieve; it is something we inherit” as beloved sons and daughters of God.",
+   "kind": "talk",
+   "talk": "T20",
+   "unit": "T20.11"
+  },
+  {
+   "q": "How did Elder Andersen describe the way faith in Jesus Christ and spiritual courage work together?",
+   "options": [
+    "Each strengthens the other",
+    "Courage must come before faith",
+    "Faith removes the need for courage",
+    "Courage is given only to a few"
+   ],
+   "a": 0,
+   "why": "Elder Andersen taught that Christ blesses us with courage, and “as we manifest our courage to choose the right, our faith in Christ strengthens.”",
+   "kind": "talk",
+   "talk": "T21",
+   "unit": "T21.11"
+  },
+  {
+   "q": "Elder Fantone fixed a school form by writing “Amanda” in front of his own name. What contrast did he draw with the Savior’s invitation?",
+   "options": [
+    "We must be exact in every record we keep",
+    "We are known to God by a new name, not our own",
+    "We should give children names with gospel meaning",
+    "We take His name upon us by covenant, not just add it on"
+   ],
+   "a": 3,
+   "why": "Elder Fantone said the Savior does not ask us to add His name “like a badge of religious affiliation” but to become like Him through covenant keeping.",
+   "kind": "talk",
+   "talk": "T22",
+   "unit": "T22.08"
+  },
+  {
+   "q": "Elder Dube told of a gate sign that read “Trespassers will be prosecuted.” What did he say the adversary wants us to believe by hanging that sign on the gate of our heart?",
+   "options": [
+    "Other people do not belong in our congregations",
+    "What holds us back makes us unworthy to come to Christ",
+    "Commandments keep us from being truly happy",
+    "No one has the right to call us to repentance"
+   ],
+   "a": 1,
+   "why": "Elder Dube said the adversary tells us that whatever is holding us back “makes us unworthy to come unto Christ.” Of Brother Child he said the opposite: he “didn’t perfect himself to come to Christ.”",
+   "kind": "talk",
+   "talk": "T23",
+   "unit": "T23.24"
+  },
+  {
+   "q": "Elder Cook said the link between virtue and happiness is not as well understood today as it once was. What did he teach that link is?",
+   "options": [
+    "Happiness must come first, and virtue then follows it",
+    "Virtue brings happiness only in the life to come",
+    "True happiness is the outcome of integrity and virtue",
+    "Happiness and virtue are two separate pursuits in life"
+   ],
+   "a": 2,
+   "why": "Elder Cook taught, “True happiness, often translated as blessedness, is the actual outcome of integrity and being virtuous.” In the Father's plan, integrity, virtue, and happiness are linked.",
+   "kind": "talk",
+   "talk": "T24",
+   "unit": "T24.10"
+  },
+  {
+   "q": "President Oaks taught that we draw closer to Jesus Christ by increasing our humility. Quoting President Spencer W. Kimball, how did he define humility?",
+   "options": [
+    "Meekness: bearing unfair treatment without complaint",
+    "Teachableness: realizing we do not hold every virtue and ability",
+    "Gratitude: recognizing that all we have comes from God",
+    "Selflessness: putting the needs of others ahead of our own"
+   ],
+   "a": 1,
+   "why": "President Oaks quoted President Kimball, who defined humility as “teachableness,” the ability to realize “that all virtues and abilities are not concentrated in one’s self.”",
+   "kind": "talk",
+   "talk": "T27",
+   "unit": "T27.09"
+  },
+  {
+   "q": "President Oaks said certain Book of Mormon promises are true and invited all to believe them. What do those promises declare?",
+   "options": [
+    "The faithful will be spared the trials of the last days",
+    "The Savior invites all and denies none who come to Him",
+    "Daily readers of the book will never have doubts",
+    "The grace of God is kept for a chosen few"
+   ],
+   "a": 1,
+   "why": "President Oaks quoted that the Savior “denieth none that come unto him” and said, “His grace is for all.” He then invited all to believe these promises.",
+   "kind": "talk",
+   "talk": "T27",
+   "unit": "T27.15"
+  },
+  {
+   "q": "President Uchtdorf pointed out that the sacrament is the only ordinance in which we are not addressed by name. What did he draw from this?",
+   "options": [
+    "Our names are already written in heaven",
+    "It matters less than ordinances that use names",
+    "We should think only of others during it",
+    "We partake individually but also as a group"
+   ],
+   "a": 3,
+   "why": "President Uchtdorf said, “We partake individually but also as a group.” The sacrament is a weekly reminder that we have the Savior and each other.",
+   "kind": "talk",
+   "talk": "T28",
+   "unit": "T28.27"
+  },
+  {
+   "q": "Elder Villanueva counseled a sister whose testimony of tithing had weakened because a hoped-for promotion never came. What did he invite her to do?",
+   "options": [
+    "Keep paying until the promotion finally came",
+    "Look for her blessings in the next life instead",
+    "List the subtle blessings she had already received",
+    "Ask her bishop to review her tithing record"
+   ],
+   "a": 2,
+   "why": "Elder Villanueva invited her to write a list of the “significant yet subtle blessings” the Lord had given her, which are often easy to overlook.",
+   "kind": "talk",
+   "talk": "T30",
+   "unit": "T30.20"
+  },
+  {
+   "q": "In Elder Bednar’s parable, a traveler with a valid but damaged passport is turned away at the border. What does this teach about covenants?",
+   "options": [
+    "Receiving them is not enough; ongoing faithfulness is needed",
+    "Trials we did not cause can make them invalid",
+    "Ordinances must be received again after many years",
+    "Only those who never make mistakes are admitted"
+   ],
+   "a": 0,
+   "why": "Elder Bednar taught that covenants and ordinances are spiritual credentials and “Ongoing faithfulness is required for those credentials to be valid.”",
+   "kind": "talk",
+   "talk": "T31",
+   "unit": "T31.13"
+  },
+  {
+   "q": "Elder Sinclair watched a little girl free her friend James, who had buttoned his sleeve to his lapel. Why did he feel a quiet rebuke?",
+   "options": [
+    "She had listened while he was distracted",
+    "She was quick to help while he sat judging",
+    "She stayed calm while he began to panic",
+    "She noticed first while he looked away"
+   ],
+   "a": 1,
+   "why": "Elder Sinclair had been shaking his head in disappointment. The child taught him that “a true disciple of Jesus Christ is quick to help and slow to judge.”",
+   "kind": "talk",
+   "talk": "T33",
+   "unit": "T33.06"
+  },
+  {
+   "q": "According to Brother Reid, why is each of us good enough to teach the gospel of Jesus Christ?",
+   "options": [
+    "Because a calling brings every needed skill",
+    "Because the lesson manual tells us what to say",
+    "Because class members forgive our mistakes",
+    "Because we can love the Master Teacher"
+   ],
+   "a": 3,
+   "why": "Brother Reid said it is not because we know everything or always feel confident. “Because you can love the Master Teacher!”",
+   "kind": "talk",
+   "talk": "T35",
+   "unit": "T35.41"
+  },
+  {
+   "q": "Elder Gilbert told of answering a once-faithful friend, who was attacking the Church, with an angry retort. What did he say about that day?",
+   "options": [
+    "He showed love but gave up the truth",
+    "He kept silent when he should have spoken",
+    "He stood for truth but did it without love",
+    "He found his friend had been right all along"
+   ],
+   "a": 2,
+   "why": "Elder Gilbert said, “I stood for truth, but I did it without love and without charity.” He may have won the debate, but he lost the Spirit.",
+   "kind": "talk",
+   "talk": "T36",
+   "unit": "T36.08"
+  }
+ ]
+}

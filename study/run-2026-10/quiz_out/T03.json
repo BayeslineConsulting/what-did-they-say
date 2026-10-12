@@ -1,0 +1,184 @@
+{
+ "talk_id": "T03",
+ "easy": [
+  {
+   "q": "What did Elder Caussé say we should do with our testimony?",
+   "options": [
+    "Keep it private until it feels perfect",
+    "Share it with humility and love",
+    "Save it for when we are older"
+   ],
+   "a": 1,
+   "why": "Elder Caussé taught that a testimony is not a talent to be hidden. It is “a gift to be shared” with a grateful heart, humility and love.",
+   "unit": "T03.16"
+  },
+  {
+   "q": "Elder Caussé’s niece felt discouraged after bearing a very short testimony at Young Women camp. What did her mother ask her?",
+   "options": [
+    "Whether she believed what she had said",
+    "Whether she had practiced it beforehand",
+    "Whether she wanted to try again later"
+   ],
+   "a": 0,
+   "why": "When her daughter answered yes, she did believe it, her mother said, “Then that’s all that matters.” Elder Caussé added that her mother was right.",
+   "unit": "T03.21"
+  },
+  {
+   "q": "The morning after he was called as a General Authority Seventy, where did Elder Caussé find a promise from the Lord that brought him peace?",
+   "options": [
+    "In a letter that came from a friend",
+    "In a hymnbook he opened at church",
+    "In a Liahona magazine on the kitchen table"
+   ],
+   "a": 2,
+   "why": "As he prayed for comfort, he felt prompted to open a copy of the Liahona lying on the kitchen table, and his eyes found the Lord’s promise to stand by him.",
+   "unit": "T03.02"
+  },
+  {
+   "q": "How often did Elder Caussé invite us to look for chances to bear witness of Jesus Christ?",
+   "options": [
+    "Each day",
+    "Each fast Sunday",
+    "Each general conference"
+   ],
+   "a": 0,
+   "why": "His invitation was to “look each day for opportunities” to bear witness, as prompted by the Holy Ghost, even if only briefly.",
+   "unit": "T03.31"
+  },
+  {
+   "q": "Which two short sayings did Elder Caussé hope we would fill our lives with?",
+   "options": [
+    "“I’m sorry” and “Thank you”",
+    "“I know” and “I love you”",
+    "“I will” and “I can”"
+   ],
+   "a": 1,
+   "why": "He hoped we would share “many heartfelt I knows” along with many I love yous, because faith and love together invite the Spirit of the Lord.",
+   "unit": "T03.20"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Caussé share his niece’s experience at Young Women camp?",
+   "options": [
+    "To show that youth should practice a testimony before sharing it",
+    "To show that a testimony is best shared in small groups",
+    "To show that a testimony need only be sincere and true, not eloquent",
+    "To show that parents should help children say more when they testify"
+   ],
+   "a": 2,
+   "why": "He said there is great power in a sincere, humble testimony. It need not be long, eloquent or dramatic: “it only needs to be true.”",
+   "unit": "T03.22"
+  },
+  {
+   "q": "What did Elder Caussé use the story of the young Alma to show?",
+   "options": [
+    "A witness heard earlier can later spark hope and change a life",
+    "Deep anguish is required before anyone can gain a testimony",
+    "A testimony helps only when the listener accepts it at once",
+    "Repentance must be finished before a person may testify"
+   ],
+   "a": 0,
+   "why": "Alma remembered his father’s witness of Jesus Christ, and it became “the spark of hope that led him to repent” and change his life. Our witness can do the same for others.",
+   "unit": "T03.28"
+  },
+  {
+   "q": "When the Lord’s promise in the Liahona brought peace to Elder Caussé after his call as a Seventy, what did he realize?",
+   "options": [
+    "His new calling would be easier than he had first feared",
+    "His years of experience had prepared him for every duty",
+    "His family would be spared hardship because he accepted",
+    "His main responsibility was simply to bear witness of the Savior"
+   ],
+   "a": 3,
+   "why": "He realized that his primary responsibility was simply to bear witness of the Savior. “Everything else would be in His hands.”",
+   "unit": "T03.03"
+  },
+  {
+   "q": "Elder Caussé said he often wondered, “Why me?” about receiving a testimony. What better question did he come to ask?",
+   "options": [
+    "How he could make his testimony stronger than it was",
+    "What the Lord expects him to do with this gift",
+    "When the Lord would explain why he was chosen",
+    "Who else in his family would receive the same gift"
+   ],
+   "a": 1,
+   "why": "He never found a fully satisfying answer to why he was so privileged, so he turned from asking why to asking what the Lord expects him to do with the gift.",
+   "unit": "T03.15"
+  },
+  {
+   "q": "According to Elder Caussé, sharing our witness of God and His Son is an essential way to keep which covenant?",
+   "options": [
+    "To keep the Sabbath day holy",
+    "To pay our tithes and offerings",
+    "To take upon us the name of Christ",
+    "To live the law of the fast"
+   ],
+   "a": 2,
+   "why": "He taught that those who have covenanted to take Christ’s name upon them keep that covenant by witnessing of Him, as disciples who “stand as witnesses of God at all times.”",
+   "unit": "T03.12"
+  }
+ ],
+ "hard": [
+  {
+   "q": "According to Elder Caussé, why is saying “I love you” with a pure and sincere heart a way of bearing testimony of Jesus Christ?",
+   "options": [
+    "Because love matters more than any spoken witness of the Savior",
+    "Because kind words prepare people to accept a testimony later on",
+    "Because those words belong in every complete spoken testimony",
+    "Because Christlike love bears witness of Him, the source of that love"
+   ],
+   "a": 3,
+   "why": "He taught that whenever we express Christlike love we bear witness of the Savior, who is “the source of all perfect love.” Testimony and love strengthen one another.",
+   "unit": "T03.19"
+  },
+  {
+   "q": "What distinction did Elder Caussé draw about who is responsible to bear witness of Jesus Christ?",
+   "options": [
+    "It rests on Apostles alone, since only they are called as special witnesses",
+    "It belongs to all disciples, though Apostles bear a unique, authoritative witness",
+    "It belongs to all disciples, and each member’s witness carries apostolic keys",
+    "It rests mainly on full-time missionaries, who are set apart to testify"
+   ],
+   "a": 1,
+   "why": "He said Apostles bear “a unique, authoritative, divinely empowered witness” of the living Christ. Yet the responsibility to bear witness is not limited to them: “It extends to all His disciples.”",
+   "unit": "T03.10"
+  },
+  {
+   "q": "Which everyday situation best fits Elder Caussé’s invitation about sharing testimony?",
+   "options": [
+    "A girl tells a friend at lunch, in one sentence, that the gospel brings her joy",
+    "A man holds back his testimony until he can prepare a thorough, polished talk",
+    "A woman keeps her testimony for fast and testimony meeting, where it belongs",
+    "A new member decides his testimony is still too small to be worth sharing"
+   ],
+   "a": 0,
+   "why": "He invited us to share in simple, natural ways in everyday interactions, “even if only for a minute or two.” A brief, sincere expression of faith can make a profound difference.",
+   "unit": "T03.31"
+  },
+  {
+   "q": "Elder Caussé saw one pattern from Enoch and Moses to Joseph Smith and today’s missionaries. Why, he said, does their witness carry divine power?",
+   "options": [
+    "Because they are trained to explain doctrine clearly",
+    "Because they hold callings that give weight to their words",
+    "Because it is confirmed by the Holy Ghost",
+    "Because they have learned many scriptures by heart"
+   ],
+   "a": 2,
+   "why": "“Their words may be simple and their speech imperfect,” he said, yet their witness has power because the Holy Ghost confirms it. It is the Spirit, not words, that testifies of truth.",
+   "unit": "T03.25"
+  },
+  {
+   "q": "What did Elder Caussé counsel those whose testimony seems different from that of family members or fellow Saints?",
+   "options": [
+    "Compare it with others’ testimonies to find what is missing",
+    "Wait to share it until it sounds more like everyone else’s",
+    "Set it aside for now and lean on the witness of leaders",
+    "Trust it, nurture it and bear it, for it is uniquely theirs"
+   ],
+   "a": 3,
+   "why": "He taught that testimony is deeply personal, shaped by our own experiences and needs. He asked us to trust, nurture and bear ours “because it is uniquely yours.”",
+   "unit": "T03.14"
+  }
+ ]
+}

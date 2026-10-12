@@ -1,0 +1,184 @@
+{
+ "talk_id": "T32",
+ "easy": [
+  {
+   "q": "Elder Lebethoa said that in South Africa parents give their children names with special meaning. What does his name, Thabo, mean?",
+   "options": [
+    "Light",
+    "Joy",
+    "Peace"
+   ],
+   "a": 1,
+   "why": "He said his name, Thabo, means joy. With his wife’s middle name, Gadifele, their names together mean “eternal joy.”",
+   "unit": "T32.01"
+  },
+  {
+   "q": "Elder Lebethoa said that whatever concerns, challenges, and struggles we have, the answer is always what?",
+   "options": [
+    "Waiting until the trouble passes",
+    "Solving it all by ourselves",
+    "Jesus Christ"
+   ],
+   "a": 2,
+   "why": "He taught, “the answer is always Jesus Christ.” The Savior can bring light in our moments of darkness.",
+   "unit": "T32.08"
+  },
+  {
+   "q": "In a story Elder Lebethoa told, what did a man do with a large tin of coffee after reading the Book of Mormon?",
+   "options": [
+    "He buried it in his garden",
+    "He gave it to a neighbor",
+    "He took it back to the shop"
+   ],
+   "a": 0,
+   "why": "The man dug a hole in his garden, emptied the coffee into it, and buried it. He acted on what the Spirit showed him he needed to change.",
+   "unit": "T32.16"
+  },
+  {
+   "q": "Elder Lebethoa said that through Jesus Christ, “today can be a new day.” What did he say tomorrow can be?",
+   "options": [
+    "A busier day",
+    "A better day",
+    "A longer day"
+   ],
+   "a": 1,
+   "why": "He taught that through the Savior “today can be a new day and tomorrow can be a better day.” Jesus Christ brings light and hope.",
+   "unit": "T32.09"
+  },
+  {
+   "q": "What did Elder Lebethoa invite us to ponder?",
+   "options": [
+    "The changes other people need to make",
+    "The things we already do very well",
+    "The changes we need to make in our lives"
+   ],
+   "a": 2,
+   "why": "He said, “Let us ponder about the changes that we need to make in our lives,” and reminded us the Savior is always ready to help.",
+   "unit": "T32.17"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Lebethoa tell about the first serious disagreement he and his wife had?",
+   "options": [
+    "To show that couples should stay away from hard discussions",
+    "To show that time by itself will settle most arguments",
+    "To show how the Savior’s words enlightened his mind on what to do",
+    "To show that a name decides the kind of person we become"
+   ],
+   "a": 2,
+   "why": "As he pondered, the Savior’s words came to mind. He said they “enlightened my mind and helped me know how to resolve the challenge I was facing.”",
+   "unit": "T32.07"
+  },
+  {
+   "q": "In the verses that came to Elder Lebethoa’s mind, the Savior said stirring up hearts with anger is not His doctrine. What did He say His doctrine is?",
+   "options": [
+    "That such things should be done away",
+    "That anger should be kept for serious matters",
+    "That the one in the right should hold firm",
+    "That disagreements are best left unspoken"
+   ],
+   "a": 0,
+   "why": "In 3 Nephi 11:30 the Savior taught, “this is my doctrine, that such things should be done away.” Contention is not of Him.",
+   "unit": "T32.06"
+  },
+  {
+   "q": "According to Elder Lebethoa, what does having faith in Jesus Christ mean we trust?",
+   "options": [
+    "That our difficulties will end quickly if we believe",
+    "That faithful people are spared most daily difficulties",
+    "That we must rise above difficulties before He helps",
+    "That He understands our difficulties and knows how to help"
+   ],
+   "a": 3,
+   "why": "He taught that faith means trusting the Savior understands our daily difficulties and knows how to help us rise above them, because He has experienced all our pains.",
+   "unit": "T32.11"
+  },
+  {
+   "q": "Elder Lebethoa said there is no single right way to study the scriptures. What did he say matters most?",
+   "options": [
+    "How many minutes we spend each day",
+    "How consistent and sincere our effort is",
+    "Which method of study we decide to follow",
+    "What time of day we choose for our study"
+   ],
+   "a": 1,
+   "why": "He said the method, timing, and length of our study “matter less than the consistency and sincerity of our effort.”",
+   "unit": "T32.15"
+  },
+  {
+   "q": "Elder Lebethoa quoted Sister Tamara W. Runia about repentance. According to her, what is the invitation to repent?",
+   "options": [
+    "A warning that punishment is near",
+    "A sign that God is disappointed in us",
+    "A test of how strong we really are",
+    "An expression of God’s love"
+   ],
+   "a": 3,
+   "why": "Sister Runia taught that “the invitation to repent is an expression of God’s love. Saying yes to that invitation is an expression of ours.”",
+   "unit": "T32.18"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Lebethoa said the Savior’s light comes through His Spirit and is also revealed through His perfect life and teachings. Which experience best shows the second way?",
+   "options": [
+    "Feeling a quiet prompting to say sorry while praying",
+    "Reading how Jesus treated others and following His example",
+    "Feeling calm again after a good night of sleep",
+    "Hearing kind advice from a friend after a hard day"
+   ],
+   "a": 1,
+   "why": "He said, “His light is also revealed through His perfect life and teachings,” and quoted the Savior: “I am the light; I have set an example for you.”",
+   "unit": "T32.07"
+  },
+  {
+   "q": "In the words of President Dieter F. Uchtdorf that Elder Lebethoa quoted, how do doubt and faith differ?",
+   "options": [
+    "Doubt comes from study, while faith comes from feeling",
+    "Doubt belongs to the young, while faith comes with age",
+    "Doubt grows by itself, while faith takes intentional effort",
+    "Doubt lasts a lifetime, while faith comes and then goes"
+   ],
+   "a": 2,
+   "why": "President Uchtdorf said the “thorns and thistles of doubt” grow spontaneously, but “the healthy, fruitful tree of faith requires intentional effort.”",
+   "unit": "T32.12"
+  },
+  {
+   "q": "Elder Lebethoa quoted President Oaks on what strong faith requires. Which person best fits that teaching?",
+   "options": [
+    "One who prays and studies the scriptures each day, a step at a time",
+    "One who deeply wants to believe and waits for faith to arrive",
+    "One who studies with great energy for a single week each year",
+    "One who leans on a strong witness that was received years ago"
+   ],
+   "a": 0,
+   "why": "President Oaks taught that “strong faith requires more than strong desire. It means daily trying, one step at a time, with prayer and scripture study.”",
+   "unit": "T32.13"
+  },
+  {
+   "q": "Why does the story of the man who buried his coffee belong with Elder Lebethoa’s counsel to study the scriptures?",
+   "options": [
+    "The missionaries showed him a verse that told him to do it",
+    "He had promised his teachers he would finish the whole book",
+    "It proves that one method of scripture study works best",
+    "The Spirit enlightened him after he read, and he acted on it"
+   ],
+   "a": 3,
+   "why": "After reading the Book of Mormon, the man “was enlightened by the Spirit on the changes he needed to make and acted upon it.” Elder Lebethoa added that we too can receive enlightenment as we study.",
+   "unit": "T32.16"
+  },
+  {
+   "q": "Which person best fits what Elder Lebethoa taught about repentance and how we go through it?",
+   "options": [
+    "A youth feels bad about what he watches but keeps on as before",
+    "A youth changes what he watches only so his parents stop asking",
+    "A youth rethinks what he watches and turns to God for help to change",
+    "A youth waits to change until he feels strong enough to do it alone"
+   ],
+   "a": 2,
+   "why": "He taught, “Repentance means a change of mind and a turning of the heart to God,” and that we do not need to go through this alone, because the Savior is always ready to help.",
+   "unit": "T32.17"
+  }
+ ]
+}

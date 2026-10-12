@@ -1,0 +1,184 @@
+{
+ "talk_id": "T37",
+ "easy": [
+  {
+   "q": "What did President Oaks invite us to do with the talks of this conference?",
+   "options": [
+    "Study them, ponder them prayerfully, and act on them",
+    "Put them away until the next conference comes",
+    "Pick one favorite and learn it word for word"
+   ],
+   "a": 0,
+   "why": "President Oaks said, “we invite all to study and ponder them prayerfully and to act in faith on the principles they explain.” Conference is meant to be lived, not just heard.",
+   "unit": "T37.02"
+  },
+  {
+   "q": "President Oaks said the world is being welcomed to a special event. What is it?",
+   "options": [
+    "A youth music festival on Temple Square",
+    "The Salt Lake Temple Celebration",
+    "The groundbreaking for a new temple"
+   ],
+   "a": 1,
+   "why": "He said, “we are welcoming the world, in person or virtually, to the Salt Lake Temple Celebration.”",
+   "unit": "T37.03"
+  },
+  {
+   "q": "What is Dedicate, which President Oaks said would begin right after the session?",
+   "options": [
+    "A new book of hymns",
+    "A magazine for children",
+    "A video series"
+   ],
+   "a": 2,
+   "why": "President Oaks called Dedicate “a dynamic video series” and said its first episode would premiere worldwide after the session.",
+   "unit": "T37.05"
+  },
+  {
+   "q": "As he closed, what blessings did President Oaks invoke on us and our families?",
+   "options": [
+    "Riches and success",
+    "Peace and contentment",
+    "Health and long life"
+   ],
+   "a": 1,
+   "why": "He said, “we invoke the blessings of the Lord on you and your families, blessings of peace and contentment.”",
+   "unit": "T37.06"
+  },
+  {
+   "q": "President Oaks said this conference helped us unite our testimonies on whose teachings?",
+   "options": [
+    "The Lord Jesus Christ",
+    "The early pioneers",
+    "The prophet Moses"
+   ],
+   "a": 0,
+   "why": "He said the conference inspired us to unite our testimonies “on the teachings of the Lord Jesus Christ” and His Father’s plan.",
+   "unit": "T37.01"
+  }
+ ],
+ "medium": [
+  {
+   "q": "President Oaks quoted the Lord’s promise, “Unto him that receiveth I will give more.” What did he use it to show?",
+   "options": [
+    "Those who give generously will be repaid with wealth",
+    "More conference talks will be published each year",
+    "Those who study and act on these messages will be given more",
+    "Those who visit the temple will receive more callings"
+   ],
+   "a": 2,
+   "why": "The promise comes right after his invitation to study, ponder, and act on the talks. Receiving what the Lord has given at conference opens the way for Him to give more.",
+   "unit": "T37.02"
+  },
+  {
+   "q": "What do President Oaks’s words about the Salt Lake Temple Celebration show about who is invited to it?",
+   "options": [
+    "Members who hold a current temple recommend",
+    "The public, for the world is being welcomed",
+    "Leaders and guests who are specially invited",
+    "Families who live near enough to Temple Square"
+   ],
+   "a": 1,
+   "why": "He said “we are welcoming the world, in person or virtually,” and that “the temple doors will open to the public.” The invitation reaches far beyond our own members.",
+   "unit": "T37.03"
+  },
+  {
+   "q": "According to President Oaks, what is Heavenly Father’s plan for?",
+   "options": [
+    "Our comfort and ease in this life",
+    "Our worldly success and renown",
+    "Our freedom from every duty",
+    "Our eternal increase and joy"
+   ],
+   "a": 3,
+   "why": "President Oaks spoke of the Father’s “plan for our eternal increase and joy.” The plan looks far beyond this life and is meant for our happiness.",
+   "unit": "T37.01"
+  },
+  {
+   "q": "Besides invoking the Lord’s blessings on us and our families, what did President Oaks say he blesses?",
+   "options": [
+    "Our service of the Lord Jesus Christ",
+    "Our safe travel home from conference",
+    "Our plans to visit Temple Square",
+    "Our efforts to share the video series"
+   ],
+   "a": 0,
+   "why": "He said, “we bless your service of the Lord Jesus Christ in these challenging times.” His blessing was on what we do for the Savior.",
+   "unit": "T37.06"
+  },
+  {
+   "q": "President Oaks said more would come in the months ahead, including a virtual tour of the Salt Lake Temple. How does that fit the way he said the world is being welcomed?",
+   "options": [
+    "It is prepared mainly for members who live in Utah",
+    "It is offered once the celebration itself has ended",
+    "It lets people take part who cannot come in person",
+    "It takes the place of visiting the temple in person"
+   ],
+   "a": 2,
+   "why": "He said the world is welcomed “in person or virtually.” A video series premiering “worldwide in multiple languages” and a virtual tour open the celebration to those far away.",
+   "unit": "T37.05"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which person’s search best fits what President Oaks testified is to be found in the restored Church of Jesus Christ?",
+   "options": [
+    "One seeking what the Lord taught and the covenant path to follow",
+    "One seeking a way to be free of every challenge in this life",
+    "One seeking answers to every question that science has raised",
+    "One seeking proof so strong that faith is no longer needed"
+   ],
+   "a": 0,
+   "why": "He testified, “Truth is to be found here—truth about the teachings of the Lord and truth about the covenant path that will lead us to our destiny.”",
+   "unit": "T37.07"
+  },
+  {
+   "q": "How did President Oaks describe the destiny to which the covenant path leads?",
+   "options": [
+    "The destiny each of us designs for ourselves",
+    "The destiny earned by years of Church service",
+    "The destiny foretold in a patriarchal blessing",
+    "The destiny desired by our Heavenly Father"
+   ],
+   "a": 3,
+   "why": "He called it “the destiny desired by our Heavenly Father.” The covenant path leads to what a loving Father wants for His children.",
+   "unit": "T37.07"
+  },
+  {
+   "q": "Which family best follows the full invitation President Oaks gave about the conference talks?",
+   "options": [
+    "They replay the talks in the background while doing chores",
+    "They read a talk, pray about it, and choose a principle to live",
+    "They copy favorite lines from the talks to hang on the wall",
+    "They read every talk quickly in the first week to finish them"
+   ],
+   "a": 1,
+   "why": "The invitation has three parts: study, ponder prayerfully, and “act in faith on the principles they explain.” Hearing or collecting the words is only a beginning.",
+   "unit": "T37.02"
+  },
+  {
+   "q": "According to President Oaks, what makes the opening of the Salt Lake Temple doors on April 5, 2027, historic?",
+   "options": [
+    "The temple has never before been open to anyone",
+    "It is the first temple ever opened to the public",
+    "It is the first such public opening since 1893",
+    "It marks 134 years since the Church was organized"
+   ],
+   "a": 2,
+   "why": "He said the doors will open to the public, “the first such opening since 1893, 134 years ago.” The 134 years count from that earlier opening.",
+   "unit": "T37.03"
+  },
+  {
+   "q": "President Oaks’s first sentence and his closing testimony each join the same two things. Which pair is it?",
+   "options": [
+    "What the prophets foretold, and how it is now being fulfilled",
+    "What the temple offers, and how the world is being welcomed",
+    "What we are asked to do, and the blessings promised in return",
+    "What the Lord taught, and what our Father intends for us"
+   ],
+   "a": 3,
+   "why": "He opened with “the teachings of the Lord Jesus Christ and His Father’s plan for our eternal increase and joy,” and closed testifying of truth about the Lord’s teachings and the path to “the destiny desired by our Heavenly Father.”",
+   "unit": "T37.01"
+  }
+ ]
+}

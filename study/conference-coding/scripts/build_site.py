@@ -37,14 +37,15 @@ TABS = [('overview', 'Overview', '', '<path d="M3 11l9-7 9 7"/><path d="M5 10v10
         ('themes', 'Themes', 'themes/', '<circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/>'),
         ('plan', 'Your Plan', 'plan/', '<path d="M9 11l2 2 4-4"/><rect x="4" y="4" width="16" height="16" rx="3"/>'),
         ('lessons', 'Lessons', 'lessons/', '<path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M9 8h7M9 12h5"/>'),
-        ('numbers', 'By the Numbers', 'numbers/', '<path d="M5 20V10M12 20V4M19 20v-7"/>'),
+        ('quiz', 'Quizzes', 'quiz/', '<circle cx="12" cy="12" r="9"/><path d="M9.6 9.3a2.5 2.5 0 1 1 3.6 2.3c-.8.4-1.2 1-1.2 1.9"/><path d="M12 16.9v.1"/>'),
+        ('numbers', 'By the Numbers', 'numbers/', ''),
         ('how', 'How It Works', 'how-it-works/', '')]
 def jsdump(o): return json.dumps(o, ensure_ascii=False).replace('</', '<\\/')
 def layout(title, desc, body, path, tab='', page_js=None, kind='article'):
     url = (URL + path) if URL else path
     on = lambda k: ' class="on" aria-current="page"' if k == tab else ''
     links = ''.join(f'<a href="{B}{u}"{on(k)}>{lab}</a>' for k, lab, u, _ in TABS)
-    short = {'By the Numbers': 'Numbers', 'Your Plan': 'Plan', 'How It Works': 'How', 'Overview': 'Home'}
+    short = {'Quizzes': 'Quiz', 'By the Numbers': 'Numbers', 'Your Plan': 'Plan', 'How It Works': 'How', 'Overview': 'Home'}
     bar = ''.join(f'<a href="{B}{u}"{on(k)}><svg viewBox="0 0 24 24" aria-hidden="true">{svg}</svg>{short.get(lab, lab)}</a>' for k, lab, u, svg in TABS if svg)
     pj = f'<script>window.PAGE={jsdump(page_js)}</script>' if page_js else ''
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -108,7 +109,7 @@ ov = f'''<script type="application/ld+json">{ld}</script><header class="hero"><d
 <div class="how"><div><b>Choose one to three</b><span>Pick the invitations that speak to you. A few done well beats many done halfway.</span></div><div><b>Make it yours</b><span>Four short questions turn an invitation into a commitment: what, when, what might get in the way, and who you will tell.</span></div><div><b>Check in weekly</b><span>One tap a week. Save a private link, with no account, to keep your plan on every device.</span></div></div></div></section>
 <section class="band"><div class="wrap"><div class="sechead"><div><div class="part-no">What was said</div><h2>Ten themes we noticed</h2></div><a href="{B}how-it-works/">How we found them →</a></div><div class="tg">{tg}</div></div></section>
 <section class="band tint"><div class="wrap"><div class="sechead"><div><div class="part-no">The talks</div><h2>Every talk, summarized</h2></div><a href="{B}talks/">All {len(ORD)} talks →</a></div>{rails}</div></section>
-<section class="band"><div class="wrap"><div class="sechead"><div><div class="part-no">By the numbers</div><h2>How well do you remember?</h2></div><a href="{B}numbers/">Take the quiz →</a></div><div class="stats">{"".join(stat(b, s) for b, s in STATS)}</div></div></section>'''
+<section class="band"><div class="wrap"><div class="sechead"><div><div class="part-no">By the numbers</div><h2>How well do you remember?</h2></div><a href="{B}quiz/">Take a quiz →</a></div><div class="stats">{"".join(stat(b, s) for b, s in STATS)}</div></div></section>'''
 write(B, layout(f'{LABEL}: what was said · {NAME}', f'What did they say at the {LABEL}? Every talk summarized, the themes we noticed, every direct invitation in the speakers\' own words, a six-month plan, and lessons to teach.', ov, B, 'overview', kind='website'))
 # ================= TALKS INDEX =================
 rows = ''.join(f'<section class="sec" style="margin-top:{14 if i == 0 else 46}px"><h2>{e(SESS.get(s, s))}</h2><div class="tcards">' + ''.join(talkcard(T[tid]) for tid in ORD if T[tid]['session'] == s) + '</div></section>' for i, s in enumerate(D['sessions']))
@@ -123,6 +124,24 @@ def LES(t):
     cards = ''.join(f'<a class="lcard" href="{B}talks/{t["slug"]}/lessons/{a}/"><small>{lab} · 30 minutes</small><b>{e(L[a]["title"])}</b><span>{e(L[a]["big_idea"])}</span></a>' for a, lab, _ in AUD if a in L)
     return f'<div class="sec"><h2>Teach this talk</h2><p class="note">Three ready-to-teach 30-minute lessons built on this talk.</p><div class="lcards">{cards}</div></div>'
 def para(u): return f'paragraph {int(u[4:])}'
+QZ = D.get('quizzes', {}); QLV = [('easy', 'Easy'), ('medium', 'Medium'), ('hard', 'Hard')]
+def qpack(levels, talk=None):
+    out = {}
+    for lv, _ in QLV:
+        rows = []
+        for q in levels.get(lv, []):
+            r = {'q': q['q'], 'o': q['options'], 'a': q['a'], 'w': q['why']}
+            if talk: r['r'] = para(q['unit']).capitalize() + ' of the talk'
+            elif q.get('unit') and q.get('talk') in T:
+                tt = T[q['talk']]; r['r'] = f'{tt["short"]}’s talk, {para(q["unit"])}'; r['h'] = f'{B}talks/{tt["slug"]}/'
+            else: r['r'] = 'From this site’s count of the talks'; r['h'] = f'{B}numbers/'
+            rows.append(r)
+        if rows: out[lv] = rows
+    return out
+QNOTE = 'Questions and explanations are written for this site and are not official Church materials. Each answer points to the paragraph of the official talk it comes from.'
+def QUIZBOX(t):
+    if t['id'] not in QZ.get('talks', {}): return ''
+    return f'<div class="sec" id="quiz"><h2>Test yourself on this talk</h2><p class="note">Three short quizzes on what {e(t["short"])} taught: easy for families and first-time listeners, medium for understanding, hard for careful study.</p><div class="quiz solo" id="qz" aria-live="polite"></div><p class="note" style="font-size:14px;margin-top:10px">{e(QNOTE)} <a href="{B}quiz/">All quizzes →</a></p></div>'
 LNOTE = ('This lesson is an independent study aid written for this site. It is not an official lesson of The Church of Jesus Christ of Latter-day Saints. Quotations are word for word from the official talk; paragraph numbers count the paragraphs of the talk as published at churchofjesuschrist.org, not counting headings or picture captions. '
          'The activities, questions and ideas for acting are suggestions; follow the Spirit and adapt them to those you teach.')
 def aq_who(q):
@@ -233,10 +252,11 @@ for k, tid in enumerate(ORD):
 <div class="sec"><h2>Themes in this talk</h2><div class="chips">{chips}</div><p class="note" style="margin-top:10px;font-size:14px">Number of coded passages from this talk in each theme.</p></div>
 {f'<div class="sec"><h2>Direct invitations</h2><p class="note">Sentences where the speaker directly invited, urged, asked or pleaded with us to act, in the exact words.</p>{inv}</div>' if inv else ''}
 {LES(t)}
+{QUIZBOX(t)}
 {f'<div class="sec"><h2>Key passages</h2>{qhtml}</div>' if qhtml else ''}
 {f'<div class="sec"><h2>Scripture referenced</h2><ul class="refs2">{scr}</ul><p class="note" style="font-size:14px">From the talk&#39;s official footnotes and in-text citations.</p></div>' if scr else ''}
 <nav class="pn">{pn}</nav></div>'''
-    write(f'{B}talks/{t["slug"]}/', layout((f'{t["title"]} · ' if t.get("title") else '') + f'{t["speaker"]} · {LABEL} · {NAME}', (first_sentence(t.get('summary')) or f'{t["speaker"]} at the {LABEL}.')[:300], body, f'{B}talks/{t["slug"]}/', 'talks'))
+    write(f'{B}talks/{t["slug"]}/', layout((f'{t["title"]} · ' if t.get("title") else '') + f'{t["speaker"]} · {LABEL} · {NAME}', (first_sentence(t.get('summary')) or f'{t["speaker"]} at the {LABEL}.')[:300], body, f'{B}talks/{t["slug"]}/', 'talks', ({'quiz': {'id': t['id'], 'name': f'{t["short"]}’s talk', 'path': f'{B}talks/{t["slug"]}/#quiz', 'levels': qpack(QZ['talks'][t['id']], t)}} if t['id'] in QZ.get('talks', {}) else None)))
 # ================= THEMES INDEX =================
 sat = [s.startswith('Sat') for s in D['sessions']]; ns = sum(sat)
 hm = f'<tr><th></th><th class="day" colspan="{ns}">Saturday</th><th class="day" colspan="{len(sat) - ns}">Sunday</th><th></th></tr><tr><th>Theme</th>' + ''.join(f'<th style="text-align:center">{e(s)}</th>' for s in D['sessions']) + '<th style="text-align:right">Larger day</th></tr>'
@@ -303,12 +323,31 @@ lead = ''.join(f'<div class="bar"><span>{e(n)}</span><i><b style="width:{100 * m
 grp = '<tr><th>Group</th><th style="text-align:right">Talks</th><th style="text-align:right">Average words</th><th style="text-align:right">References to Christ per 1,000 words</th></tr>' + ''.join(f'<tr><td>{e(g[0])}</td><td style="text-align:right">{g[1]}</td><td style="text-align:right">{g[2]:,}</td><td style="text-align:right">{g[3]}</td></tr>' for g in D['groups'])
 scrip = ''.join(f'<li>{e(s)}</li>' for s in D['scrip'])
 num_body = crumb(conf_c, 'By the numbers') + head(e(LABEL), 'By the numbers', 'Counts from the official talk texts: who said what, how often, and which words carried the weekend.') + f'''<div class="wrap" style="padding-bottom:70px"><div class="stats">{"".join(stat(b, s) for b, s in STATS)}</div>
-<div class="quiz" id="quiz" aria-live="polite" data-art="#qart"></div><template id="qart">{COMPASS}</template>
+<div class="quiz qpromo"><div><h3>How well do you remember?</h3><p class="qq" style="margin:10px 0 18px">Take the conference quiz: 25 questions at each of three levels, plus a quiz for every talk.</p><a class="btn" href="{B}quiz/">Go to the quizzes</a></div><div class="qart">{COMPASS}</div></div>
 <h3 class="sub">Guess the number</h3><p class="note">Tap a card to reveal the answer.</p><div class="guess">{guess}</div>
 <h3 class="sub">The words that carried the weekend</h3><p class="note">The 60 most-used content words. Bigger means said more often.</p><div class="cloud" id="cloud"></div>
 <div class="two"><div class="panel"><h3>Scripture, by volume</h3>{vol}<ul class="plain">{scrip}</ul></div><div class="panel"><h3>Leaders most mentioned</h3>{lead}<p class="note" style="font-size:14px;margin:12px 0 0">Bar = talks mentioning the leader; parentheses = talks quoting them.</p></div></div>
 <h3 class="sub">Who spoke, and for how long</h3><div class="panel scroll"><table>{grp}</table></div><p class="note" style="margin-top:12px">{e(D["groupnote"])}</p></div>'''
-write(f'{B}numbers/', layout(f'By the numbers · {LABEL} · {NAME}', f'Word counts, the scriptures quoted, leaders cited, a word cloud, and a quiz from the {LABEL}.', num_body, f'{B}numbers/', 'numbers', {'quiz': D['quiz'], 'words': D['words']}))
+write(f'{B}numbers/', layout(f'By the numbers · {LABEL} · {NAME}', f'Word counts, the scriptures quoted, leaders cited, and a word cloud from the {LABEL}.', num_body, f'{B}numbers/', 'numbers', {'words': D['words']}))
+# ================= QUIZZES =================
+if QZ.get('conf'):
+    rows_q = ''
+    for i, sx in enumerate(D['sessions']):
+        rws = ''
+        for tid in ORD:
+            t = T[tid]
+            if t['session'] != sx or tid not in QZ.get('talks', {}): continue
+            links = ''.join(f'<a href="{B}talks/{t["slug"]}/#quiz-{lv}"><small>{len(QZ["talks"][tid].get(lv, []))} questions</small>{lab}</a>' for lv, lab in QLV if QZ['talks'][tid].get(lv))
+            rws += f'<div class="lrow"><div class="lwho"><b>{e(t["speaker"])}</b><i>{e(t["title"])}</i></div><div class="llinks qlinks">{links}</div></div>'
+        rows_q += f'<section class="sec" style="margin-top:46px"><h2>{e(SESS.get(sx, sx))}</h2>{rws}</section>'
+    nq = sum(len(v) for v in QZ['conf'].values()) + sum(len(x.get(lv, [])) for x in QZ.get('talks', {}).values() for lv, _ in QLV)
+    ncq = len(QZ['conf'].get('easy', []))
+    write(f'{B}quiz/', layout(f'Quizzes · {LABEL} · {NAME}', f'How much of the {LABEL} stayed with you? Easy, medium and hard quizzes for the whole conference and for every talk, about what the speakers meant, not just the numbers.',
+        crumb(conf_c, 'Quizzes') + head(e(LABEL), 'Quizzes', f'How much of conference stayed with you? Try the whole conference in {ncq} questions, or pick a single talk. Every quiz comes in three levels, and the questions are about what the speakers taught and meant, not just names and numbers.')
+        + f'''<div class="wrap" style="padding-bottom:70px"><div class="sec" style="margin-top:10px"><h2>The whole conference</h2><p class="note">{ncq} questions at each level, drawn from across all {len(ORD)} talks. Good for a family night, a class, or a friendly contest.</p><div class="quiz solo" id="qz" aria-live="polite"></div></div>
+<div class="sec" style="margin-top:56px"><h2>A quiz for every talk</h2><p class="note">Five questions at each level for each talk. Watch or read the talk first, then see what stayed with you.</p></div>{rows_q}
+<p class="note lnote">{e(QNOTE)} {nq:,} questions in all; each was answered independently from the talk text alone, without the answer key, before it was published.</p></div>''',
+        f'{B}quiz/', 'quiz', {'quiz': {'id': 'conf', 'name': f'the {LABEL}', 'path': f'{B}quiz/', 'levels': qpack(QZ['conf'])}}))
 # ================= HOW IT WORKS =================
 RESEARCH = open(A('research_methods.html')).read().replace('__CHAIN__', f'{D["stats"]["units"]:,} passages → {D["stats"]["codes"]} codes → {D["stats"].get("categories", 26)} categories → {len(THS)} ') if os.path.exists(A('research_methods.html')) else ''
 ex_pick = None

@@ -1,0 +1,184 @@
+{
+ "talk_id": "T30",
+ "easy": [
+  {
+   "q": "Which commandment was Elder Villanueva's talk mostly about?",
+   "options": [
+    "Keeping the Sabbath day holy",
+    "Paying a full tithe",
+    "Living the Word of Wisdom"
+   ],
+   "a": 1,
+   "why": "Elder Villanueva said that after his family's baptism, the change that took the greatest faith and sacrifice was to pay a full tithe, and he testified of the blessings that follow.",
+   "unit": "T30.02"
+  },
+  {
+   "q": "When Elder Villanueva was a boy and money was scarce, who in his family chose to trust the Lord's promise about tithing?",
+   "options": [
+    "His mother",
+    "His grandfather",
+    "His oldest brother"
+   ],
+   "a": 0,
+   "why": "His mother was providing for eight children, yet when the missionaries taught the law of tithing she “chose to trust the Lord’s promise” in Malachi.",
+   "unit": "T30.03"
+  },
+  {
+   "q": "Elder Villanueva invited a sister who was worried about tithing to write something. What was it?",
+   "options": [
+    "A letter to her bishop",
+    "A journal of her prayers",
+    "A list of her blessings"
+   ],
+   "a": 2,
+   "why": "He invited her to write her own list of the blessings the Lord had given her, because such blessings are often easy to overlook.",
+   "unit": "T30.20"
+  },
+  {
+   "q": "A sister said in sacrament meeting that something in her home lasted far longer than she expected. What was it?",
+   "options": [
+    "A bag of rice",
+    "A propane tank",
+    "A box of candles"
+   ],
+   "a": 1,
+   "why": "Her propane tank seemed as though it would never run out. She knew this was one of the Lord's tender mercies for paying an honorable tithing.",
+   "unit": "T30.21"
+  },
+  {
+   "q": "In the Bible story Elder Villanueva told, what did Elijah ask the widow of Zarephath to do first?",
+   "options": [
+    "Make him a little cake",
+    "Build him a small room",
+    "Sell her oil at the market"
+   ],
+   "a": 0,
+   "why": "Elijah said, “make me thereof a little cake first.” She did as he asked, and her meal and oil did not run out.",
+   "unit": "T30.28"
+  }
+ ],
+ "medium": [
+  {
+   "q": "What did Elder Villanueva use Doctrine and Covenants 130:20–21 to teach?",
+   "options": [
+    "Blessings come to everyone equally, whatever they choose",
+    "Blessings come mostly through many years of Church service",
+    "Every blessing from God comes by obeying the law it is based on",
+    "The laws that bring blessings change with each generation"
+   ],
+   "a": 2,
+   "why": "The verse says that when we obtain any blessing from God, “it is by obedience to that law upon which it is predicated.” Elder Villanueva bore witness of this truth.",
+   "unit": "T30.06"
+  },
+  {
+   "q": "A sister's testimony of tithing weakened because she never got the promotion she hoped for. Which point of the talk does her story illustrate?",
+   "options": [
+    "We may expect blessings our way instead of in the Lord's way and timing",
+    "Tithing brings blessings only when it is paid without any hardship",
+    "The Lord's promise in Malachi is about the next life, not this one",
+    "Temporal blessings are never among those promised to tithe payers"
+   ],
+   "a": 0,
+   "why": "Just before her story, Elder Villanueva said we sometimes expect blessings “the way we would wish, rather than in His own way and timing.”",
+   "unit": "T30.09"
+  },
+  {
+   "q": "Why did Elder Villanueva quote Elder Bednar's talk “The Windows of Heaven”?",
+   "options": [
+    "To explain how the Church uses the tithing it receives",
+    "To show that tithing blessings are often subtle and easy to overlook",
+    "To show that tithing blessings usually come as more income",
+    "To show that tithing blessings come only to those in great need"
+   ],
+   "a": 1,
+   "why": "Elder Bednar taught that we often receive “significant but subtle blessings” that are not what we expect and can easily be overlooked.",
+   "unit": "T30.12"
+  },
+  {
+   "q": "Elder Villanueva quoted the Lord's words that Israel's clothes and shoes did not wear out in forty years. What question did he then ask us?",
+   "options": [
+    "Whether we give thanks often enough for what we own",
+    "Whether we would follow a prophet into the wilderness",
+    "Whether we own more possessions than we truly need",
+    "Whether the Lord has made our own possessions last longer"
+   ],
+   "a": 3,
+   "why": "He asked whether the Lord has caused our personal possessions to last longer because we have faithfully lived the law of tithing.",
+   "unit": "T30.23"
+  },
+  {
+   "q": "Why does the widow of Zarephath remind Elder Villanueva of his mother?",
+   "options": [
+    "Both were taught by missionaries who came to their homes",
+    "Both were given great wealth soon after they obeyed",
+    "Both trusted the Lord's promise and gave when they had very little",
+    "Both asked for a sign before they were willing to give"
+   ],
+   "a": 2,
+   "why": "He thinks of the widow when he remembers his mother's faith in difficult years. Each trusted a promise from the Lord and gave in spite of her circumstances.",
+   "unit": "T30.25"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Villanueva listed blessings such as steady work, good health and gratitude. What did he say these blessings are evidence of?",
+   "options": [
+    "That spiritual blessings matter more than temporal ones",
+    "That he had managed his money with unusual care",
+    "That blessings arrive soon after each tithing payment",
+    "That the Lord has indeed opened the windows of heaven"
+   ],
+   "a": 3,
+   "why": "He said these blessings, “both temporal and spiritual,” are evidence that the Lord has opened the windows of heaven and poured out His promised blessings in abundance.",
+   "unit": "T30.20"
+  },
+  {
+   "q": "Which situation best fits the kind of tithing blessing this talk says is easy to overlook?",
+   "options": [
+    "A family's old car keeps running well year after year",
+    "A family receives a large and unexpected inheritance",
+    "A worker is promoted the week after paying tithing",
+    "A student wins a scholarship in a public ceremony"
+   ],
+   "a": 0,
+   "why": "The talk speaks of “significant but subtle blessings” that are not always what we expect, such as possessions that last, rather than dramatic gains.",
+   "unit": "T30.12"
+  },
+  {
+   "q": "After teaching that every blessing comes by obedience to law, Elder Villanueva quoted the Lord: “Who am I … that have promised and have not fulfilled?” What does this add to his reasoning?",
+   "options": [
+    "That the Lord tells us beforehand when each blessing will come",
+    "That the Lord is sure to keep the promise He attaches to a law",
+    "That the Lord gives each blessing in the form we have asked for",
+    "That the Lord made such promises chiefly to Saints of earlier days"
+   ],
+   "a": 1,
+   "why": "The law tells us what to do; this verse assures us the Lord fulfills what He promises. Elder Villanueva then added that we sometimes expect blessings our way “rather than in His own way and timing.”",
+   "unit": "T30.08"
+  },
+  {
+   "q": "According to Elder Villanueva, what did Elijah understand when he asked the widow to feed him first?",
+   "options": [
+    "That the famine would end within a few days",
+    "That the widow had more food than she admitted",
+    "That blessings will come after the trial of our faith",
+    "That a prophet's needs come before a family's needs"
+   ],
+   "a": 2,
+   "why": "Elder Villanueva said, “Elijah understood that blessings will come after the trial of our faith.” The widow offered all she had, and then the promise was fulfilled.",
+   "unit": "T30.31"
+  },
+  {
+   "q": "In his closing testimony, why did Elder Villanueva say the Lord gives us commandments?",
+   "options": [
+    "Because He wants us to receive His blessings",
+    "Because He wants to see how much we will give up",
+    "Because sacrifice is meant to be its own reward",
+    "Because His Church depends on what we can give"
+   ],
+   "a": 0,
+   "why": "He testified, “He gives us commandments because He wants us to receive His blessings.” Tithing is an invitation to be blessed.",
+   "unit": "T30.34"
+  }
+ ]
+}

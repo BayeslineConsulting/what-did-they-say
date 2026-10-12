@@ -1,0 +1,184 @@
+{
+ "talk_id": "T17",
+ "easy": [
+  {
+   "q": "According to Elder Matthew J. Eyring, who knows exactly how we feel, even in our darkest and hardest times?",
+   "options": [
+    "Only people with the same trial",
+    "Our Savior, Jesus Christ",
+    "Our very closest friends"
+   ],
+   "a": 1,
+   "why": "Elder Eyring taught that the Savior suffered for us: “He knows exactly how we feel, especially in our darkest and most trying times.”",
+   "unit": "T17.06"
+  },
+  {
+   "q": "Elder Matthew J. Eyring told of a friend who received very sad news about his family. What single thought came to the friend's mind?",
+   "options": [
+    "“I can’t fix this.”",
+    "“I must stay strong.”",
+    "“I need a plan.”"
+   ],
+   "a": 0,
+   "why": "The friend's thought was “I can’t fix this.” Elder Eyring used it to teach that all of us will meet burdens we cannot carry by ourselves.",
+   "unit": "T17.01"
+  },
+  {
+   "q": "After dinner with a young couple who were grieving, what did Elder Matthew J. Eyring have the opportunity to give the father?",
+   "options": [
+    "A letter of advice",
+    "A book of scripture",
+    "A priesthood blessing"
+   ],
+   "a": 2,
+   "why": "The mother had received a blessing in the hospital, but the father had not, so Elder Eyring gave him a priesthood blessing after their dinner together.",
+   "unit": "T17.16"
+  },
+  {
+   "q": "At the end of his talk, which promise of the Savior did Elder Matthew J. Eyring invite us to believe and find comfort in?",
+   "options": [
+    "He will take away every hard thing",
+    "He will not leave us comfortless",
+    "He will tell us all the reasons now"
+   ],
+   "a": 1,
+   "why": "Elder Eyring closed with the Savior's promise: “I will not leave you comfortless: I will come to you.”",
+   "unit": "T17.18"
+  },
+  {
+   "q": "What did Elder Matthew J. Eyring say should be one of our highest priorities?",
+   "options": [
+    "Learning to handle every problem by ourselves",
+    "Staying away from every hardship in life",
+    "Living worthy to have the Holy Ghost always with us"
+   ],
+   "a": 2,
+   "why": "He taught that the Savior's peace comes through the Holy Ghost, so living worthy of His “constant companionship” should be one of our highest priorities.",
+   "unit": "T17.17"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Matthew J. Eyring begin his talk with a friend's thought, “I can’t fix this”?",
+   "options": [
+    "To teach that we should give up trying to solve problems",
+    "To show that strong faith keeps sorrow away from us",
+    "To show that all of us will meet burdens we cannot carry alone",
+    "To warn that hard times come mostly to the unprepared"
+   ],
+   "a": 2,
+   "why": "Elder Eyring said our apparent self-reliance masks a deeper reality: all of us “will sooner or later encounter burdens we cannot possibly carry ourselves.”",
+   "unit": "T17.02"
+  },
+  {
+   "q": "What allowed Elder Matthew J. Eyring and his wife to offer special empathy to the young couple they joined for dinner?",
+   "options": [
+    "They had passed through a similar loss many years before",
+    "They had known the couple since the two were children",
+    "They had been trained to counsel families in sorrow",
+    "They had been assigned to minister to the couple's ward"
+   ],
+   "a": 0,
+   "why": "Elder Eyring said he and his wife expressed “empathy gained through our own suffering,” grateful to mourn with those who mourn and comfort those in need of comfort.",
+   "unit": "T17.04"
+  },
+  {
+   "q": "According to Elder Matthew J. Eyring, what is one reason we will not survive spiritually in coming days without the constant influence of the Holy Ghost?",
+   "options": [
+    "The scriptures will become much harder to understand",
+    "True sources of comfort will become more scarce",
+    "Prophets will give counsel far less often than now",
+    "Members will gather for worship less and less often"
+   ],
+   "a": 1,
+   "why": "He taught that “in a world of increasing temporal and spiritual turbulence, true sources of comfort will become more scarce.” The Holy Ghost is the Comforter we will need.",
+   "unit": "T17.09"
+  },
+  {
+   "q": "Elder Matthew J. Eyring said the Lord spares us from “the only two things” that can bring us permanent misery. What are they?",
+   "options": [
+    "Lasting poverty and deep loneliness throughout this life",
+    "Prayers that go unanswered and trials left unexplained",
+    "Failing health and the loss of the people we love most",
+    "Separation from our bodies and separation from God because of sin"
+   ],
+   "a": 3,
+   "why": "Elder Eyring named them: “separation from our bodies and separation from God because of sin.” Even as the Lord comforts us in temporary pain, He has prepared our rescue from permanent tragedy.",
+   "unit": "T17.12"
+  },
+  {
+   "q": "Elder Matthew J. Eyring said the Lord's answers come by various means as guided by the Spirit. In what form did he say they sometimes come?",
+   "options": [
+    "An immediate end to the trial we are facing",
+    "Tools, resources, and help from other people",
+    "Greater willpower to carry the burden alone",
+    "A clear explanation of why the trial came"
+   ],
+   "a": 1,
+   "why": "He taught that answers come “sometimes in the form of tools, resources, and help from other people.” The Lord often answers through means He places around us.",
+   "unit": "T17.06"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Matthew J. Eyring described what can happen step by step when we lack divine comfort. In his sequence, what do we risk losing first?",
+   "options": [
+    "Our faith",
+    "Our hope",
+    "Our testimony",
+    "Our will to try"
+   ],
+   "a": 1,
+   "why": "The order matters: “Without divine comfort, we risk losing hope; and without hope, we can lose our faith and stop trying.” Comfort protects hope, and hope protects faith.",
+   "unit": "T17.09"
+  },
+  {
+   "q": "According to Elder Matthew J. Eyring, what will we someday realize about all the suffering that brought us closer to the Savior?",
+   "options": [
+    "It could have been avoided with more effort",
+    "It was the result of our own weak faith",
+    "It was preparing us for greater blessings",
+    "It was never meant to be fully understood"
+   ],
+   "a": 2,
+   "why": "He taught: “We will realize that all the suffering that brought us closer to the Savior was preparing us for greater blessings.”",
+   "unit": "T17.15"
+  },
+  {
+   "q": "Elder Matthew J. Eyring spoke of temporary times of challenge and pain and of permanent tragedy. Which statement best explains what he said the Lord does about each?",
+   "options": [
+    "He removes the temporary now so that we need not fear the permanent",
+    "He allows the temporary only for those who have risked the permanent",
+    "He explains the temporary now and saves His comfort for the permanent",
+    "He comforts us through the temporary and has prepared rescue from the permanent"
+   ],
+   "a": 3,
+   "why": "Elder Eyring taught, “Even as He comforts us through temporary times of challenge and pain, He has prepared our rescue from permanent tragedy.” The pain is comforted, not removed; death and sin are overcome.",
+   "unit": "T17.12"
+  },
+  {
+   "q": "Which situation best fits what Elder Matthew J. Eyring taught about times when we can't fix things on our own?",
+   "options": [
+    "A mother's trial continues, but she turns to the Lord and feels peace through the Spirit",
+    "A father decides that needing help with his trial shows that his faith is too weak",
+    "A student waits to pray until she has first solved her problem by herself",
+    "A man concludes that because his trial has not ended, the Lord has forgotten him"
+   ],
+   "a": 0,
+   "why": "Elder Eyring taught that the Savior's peace comes through the Holy Ghost, and that this comfort helps us through hardships and “times when we can’t fix things on our own.”",
+   "unit": "T17.17"
+  },
+  {
+   "q": "A woman has prayed for months about a heavy trial. Which expectation best fits what Elder Matthew J. Eyring promised those who cast their burdens on the Lord?",
+   "options": [
+    "An answer will come as soon as her faith is strong enough to deserve one",
+    "Comfort will come only after she understands why the trial was given",
+    "Comfort will come, and answers in His time, perhaps through other people",
+    "Answers will come to her directly, without tools or help from anyone else"
+   ],
+   "a": 2,
+   "why": "He promised, “He will provide comfort; He will provide answers on His timetable as you turn to Him,” and said answers sometimes come as tools, resources, and help from other people.",
+   "unit": "T17.06"
+  }
+ ]
+}

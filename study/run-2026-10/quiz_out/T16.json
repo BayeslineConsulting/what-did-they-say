@@ -1,0 +1,184 @@
+{
+ "talk_id": "T16",
+ "easy": [
+  {
+   "q": "What kind of race did Elder Dunn’s friend Ted talk him into entering?",
+   "options": [
+    "A bicycle race over a mountain",
+    "A 100-mile running race",
+    "A long swimming race in a lake"
+   ],
+   "a": 1,
+   "why": "Elder Dunn said Ted talked him into a 100-mile ultramarathon. He had run marathons before, “but not four of them back-to-back.”",
+   "unit": "T16.03"
+  },
+  {
+   "q": "Near the finish line, Ted stepped aside and let Elder Dunn finish alone. What reason did Ted give?",
+   "options": [
+    "It was Elder Dunn’s race to finish",
+    "He was too tired to run any farther",
+    "He had to go and help another runner"
+   ],
+   "a": 0,
+   "why": "Ted smiled and said, “This is your race to finish.” He had helped all the way, but he wanted his friend to cross the line himself.",
+   "unit": "T16.11"
+  },
+  {
+   "q": "A photograph came in the mail after the race. What did it show that Ted had been doing?",
+   "options": [
+    "Holding Elder Dunn up by the arm",
+    "Running ahead to mark the trail",
+    "Carrying Elder Dunn’s water and pack"
+   ],
+   "a": 2,
+   "why": "The photo showed that Ted was carrying two of Elder Dunn’s water bottles and his pack. He had done it quietly for the last 10 miles.",
+   "unit": "T16.14"
+  },
+  {
+   "q": "When Elder Dunn saw what Ted had done for him, who did he think of right away?",
+   "options": [
+    "His pioneer ancestors",
+    "The Savior Jesus Christ",
+    "His first running coach"
+   ],
+   "a": 1,
+   "why": "Ted’s kindness turned his thoughts to “an infinitely more amazing load-bearing Friend,” the Savior, who carries our burdens.",
+   "unit": "T16.16"
+  },
+  {
+   "q": "What did Elder Dunn say to people who feel worn out and broken?",
+   "options": [
+    "Their hard times will be over soon",
+    "They should rest and try again later",
+    "God has not abandoned them"
+   ],
+   "a": 2,
+   "why": "Elder Dunn taught that “feeling broken does not mean you’ve been abandoned by God.” Heavenly Father is still there, even when things are hard.",
+   "unit": "T16.19"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Elder Dunn said the reason he trusted Ted is the same reason we can trust Jesus Christ. What is that reason?",
+   "options": [
+    "He promises the path will be short",
+    "He has traveled the whole path Himself",
+    "He keeps us from ever growing tired",
+    "He picks an easier path for each of us"
+   ],
+   "a": 1,
+   "why": "Ted had finished the race many times and knew the trail. Likewise, Elder Dunn said of the Savior, “there is no portion of our mortal sojourn He has not trod.”",
+   "unit": "T16.18"
+  },
+  {
+   "q": "Isaiah says the Savior has “borne our griefs, and carried our sorrows.” What did Elder Dunn say he once assumed this meant?",
+   "options": [
+    "That the trails we travel would get easier",
+    "That sorrow comes only to the unfaithful",
+    "That we would not need help from friends",
+    "That our griefs would end during this life"
+   ],
+   "a": 0,
+   "why": "He assumed it meant the trails we travel “would somehow become easier.” The race and life taught him the Savior more often strengthens us for the trail we are on.",
+   "unit": "T16.16"
+  },
+  {
+   "q": "Elder Dunn spoke to people who are at or nearing their own “mile 90.” Whom did he mean?",
+   "options": [
+    "People just starting something hard",
+    "People who are far ahead of the rest",
+    "People who run to stay healthy",
+    "People worn out and ready to give up"
+   ],
+   "a": 3,
+   "why": "Mile 90 was where Elder Dunn collapsed and said he gave up. He used it for anyone who feels, as he did, “both depleted and defeated.”",
+   "unit": "T16.19"
+  },
+  {
+   "q": "Elder Dunn quoted President Uchtdorf about valleys and mountains. What was the quotation used to show?",
+   "options": [
+    "Trials come mostly from our own choices",
+    "Mountains are the best places to pray",
+    "We often see the Lord’s hand only looking back",
+    "Our future will have no deep valleys in it"
+   ],
+   "a": 2,
+   "why": "President Uchtdorf taught, “Often we can’t see the Lord’s hand in our lives until long after the trials have passed.” Elder Dunn quoted this right after teaching that feeling broken does not mean we have been abandoned by God.",
+   "unit": "T16.20"
+  },
+  {
+   "q": "Elder Dunn gave a definition of the Savior’s grace. According to that definition, what is grace?",
+   "options": [
+    "A reward given only after life’s race",
+    "A release from every difficult trial",
+    "A gift for those who never falter",
+    "A divine means of help or strength"
+   ],
+   "a": 3,
+   "why": "He described grace as a “divine means of help or strength” that can free us from the freight we would otherwise carry.",
+   "unit": "T16.17"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Dunn taught that the Redeemer rescues “not by shortening our course but by helping us lengthen our stride.” Which situation fits that best?",
+   "options": [
+    "A student prays and the teacher cancels the hardest assignments",
+    "A student prays and finds strength to keep on, though the class stays hard",
+    "A student decides the Lord expects him to manage entirely alone",
+    "A student waits to pray until he has first tried everything else"
+   ],
+   "a": 1,
+   "why": "In Elder Dunn’s words, the Savior “simultaneously lifts and uplifts,” multiplying our small efforts. The course stays the same length; He makes us able to run it.",
+   "unit": "T16.16"
+  },
+  {
+   "q": "On the side of the trail at mile 90, what did Ted’s help change for Elder Dunn, and what did it leave the same?",
+   "options": [
+    "It shortened the trail, though the pack was still his to carry",
+    "It set a faster pace, though the load stayed on his own back",
+    "It lifted his heaviest load, though he still ran the last miles",
+    "It ended his race early, though he was counted as a finisher"
+   ],
+   "a": 2,
+   "why": "Ted “simply shouldered my heaviest burden,” strapping the pack to his own waist. The last 10 miles were still there, and Elder Dunn ran them step by step with his friend beside him.",
+   "unit": "T16.15"
+  },
+  {
+   "q": "Which statement best matches what Elder Dunn taught about the times when we do not perceive the Savior at our side?",
+   "options": [
+    "He is still helping, often through people and angels He enlists",
+    "He is waiting until we have finished the hardest part alone",
+    "He holds back His help until we can sense that He is near",
+    "He steps back so that our friends can take His place"
+   ],
+   "a": 0,
+   "why": "Elder Dunn said that even when we don’t perceive Him, “He enlists the Teds—both of this world and sometimes even the Teds beyond,” with His promise of angels all around us to bear us up.",
+   "unit": "T16.17"
+  },
+  {
+   "q": "Elder Dunn warned against confusing “the perceived invisibility of the Lord’s hand” with the nature of His heart. What is the distinction?",
+   "options": [
+    "His hand works only where we are able to see it",
+    "His heart is constant, but His hand seldom acts",
+    "Unseen help means our faith has grown too weak",
+    "Not seeing His help does not mean His love has changed"
+   ],
+   "a": 3,
+   "why": "We may not perceive His help, but His heart toward us is settled and unchanging. Elder Dunn added, “Peace will come even when hoped-for outcomes do not.”",
+   "unit": "T16.21"
+  },
+  {
+   "q": "At the close, Elder Dunn named several ways God makes the impossible possible. Which did he say happens most often?",
+   "options": [
+    "He parts seas and moves mountains for us",
+    "He sends a friend to run beside us",
+    "He adds to our courage, capacity, and confidence",
+    "He takes the race away so that we can rest"
+   ],
+   "a": 2,
+   "why": "Sometimes God parts seas, and other times “He simply sends us a Ted.” But most often, Elder Dunn said, He “tops off our courage, capacity, and confidence.”",
+   "unit": "T16.22"
+  }
+ ]
+}

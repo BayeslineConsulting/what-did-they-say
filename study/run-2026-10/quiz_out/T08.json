@@ -1,0 +1,184 @@
+{
+ "talk_id": "T08",
+ "easy": [
+  {
+   "q": "President Christofferson said that, with a sense of duty, he would speak about one subject. What was it?",
+   "options": [
+    "Gambling",
+    "Going into debt",
+    "Wasting time on phones"
+   ],
+   "a": 0,
+   "why": "He said he felt compelled, like the prophet Jacob, to speak boldly: “So, with a sense of duty, I turn to the subject of gambling.”",
+   "unit": "T08.01"
+  },
+  {
+   "q": "President Christofferson shared President Hinckley’s very short answer to the question about gambling. What was it?",
+   "options": [
+    "It is fine now and then",
+    "We are against it",
+    "Each family may decide"
+   ],
+   "a": 1,
+   "why": "President Hinckley said he could answer the question about gambling very briefly: “We are against it.”",
+   "unit": "T08.05"
+  },
+  {
+   "q": "According to President Christofferson, what has made gambling available almost anywhere and at any time?",
+   "options": [
+    "The television",
+    "The newspaper",
+    "The smartphone"
+   ],
+   "a": 2,
+   "why": "He taught that the smartphone changed gambling from something that needed a trip somewhere into something available “continuously, privately, and almost anywhere.”",
+   "unit": "T08.07"
+  },
+  {
+   "q": "President Christofferson asked us to stay away from gambling. What did he plead that we do with the time and money we save?",
+   "options": [
+    "Use them for doing good",
+    "Spend them on safer games",
+    "Keep them all for ourselves"
+   ],
+   "a": 0,
+   "why": "His plea was “not only to refrain from gambling but to use the time and resources saved thereby for doing good.”",
+   "unit": "T08.25"
+  },
+  {
+   "q": "At the very end of his talk, President Christofferson shared a prayer about gambling. What did he pray for?",
+   "options": [
+    "That we will gamble only with our friends",
+    "That we will not treat gambling lightly",
+    "That we will gamble only small amounts"
+   ],
+   "a": 1,
+   "why": "He said, “I pray that you will not treat gambling lightly,” and ended with the prophet Jacob’s words: “O be wise; what can I say more?”",
+   "unit": "T08.26"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did President Christofferson say he felt “a bit like” the prophet Jacob as he began?",
+   "options": [
+    "He had been asked to speak on very short notice",
+    "He was speaking mostly to his own family",
+    "He felt a duty to speak boldly on an unpleasant subject",
+    "He was nearing the end of his years of ministry"
+   ],
+   "a": 2,
+   "why": "Jacob felt compelled by the Spirit to address subjects that were not edifying, using “boldness of speech.” President Christofferson felt the same duty about gambling.",
+   "unit": "T08.01"
+  },
+  {
+   "q": "According to President Christofferson, what is the larger concern with gambling, beyond losing money on individual wagers?",
+   "options": [
+    "Constant mobile access can turn occasional play into a costly habit",
+    "Gambling companies may close and keep their customers’ money",
+    "Players may be cheated by games that are secretly unfair",
+    "Large winnings are heavily taxed in most countries"
+   ],
+   "a": 0,
+   "why": "He warned that continuous, mobile access can turn occasional entertainment into repeated behavior that “displaces saving, increases debt, and creates far-reaching family and social costs.”",
+   "unit": "T08.11"
+  },
+  {
+   "q": "President Christofferson quoted President Oaks on “opportunity cost.” What does that phrase mean in this talk?",
+   "options": [
+    "The fee a person pays to have a chance at winning",
+    "Time spent on one thing is opportunity lost for another",
+    "Prices go up when many people want the same thing",
+    "Good chances come only to those willing to pay"
+   ],
+   "a": 1,
+   "why": "President Oaks taught that “if we spend time doing one thing, we lose the opportunity to do another.” President Christofferson asked what gambling makes us give up.",
+   "unit": "T08.14"
+  },
+  {
+   "q": "Why did President Christofferson bring up the Apostle Paul’s counsel about food sacrificed to idols?",
+   "options": [
+    "To show that those strong in faith need few cautions",
+    "To show that early Saints faced harder tests than ours",
+    "To show that what we eat matters as much as what we spend",
+    "To show that our casual choices can lead a weaker person astray"
+   ],
+   "a": 3,
+   "why": "He applied Paul’s words this way: “Since your recreational gambling may lead a weaker brother or sister into temptation, just don’t do it.”",
+   "unit": "T08.21"
+  },
+  {
+   "q": "Why did President Christofferson say gambling is hard to reconcile with the commandment to love our neighbor as ourselves?",
+   "options": [
+    "The time it takes leaves little room for serving those around us",
+    "The money it uses up could otherwise have been given to the poor",
+    "Whatever one person wins has to come out of someone else’s loss",
+    "The secrecy around it slowly weakens trust within a family"
+   ],
+   "a": 2,
+   "why": "He taught that gambling is built on wanting something for nothing, and “its structure requires that any gain comes at others’ expense.” He said that is hard to reconcile with the commandment to love our neighbor as ourselves.",
+   "unit": "T08.22"
+  }
+ ],
+ "hard": [
+  {
+   "q": "A journalist quoted in this talk noted that only a small share of gamblers become compulsive. Why, in his words, is that still alarming?",
+   "options": [
+    "Experts believe the true share is far higher than reported",
+    "A small share of tens of millions is a very large number",
+    "That small share includes nearly all young gamblers",
+    "Those few account for most of the money that is lost"
+   ],
+   "a": 1,
+   "why": "The journalist wrote that the small percentage “becomes a very large number when tens of millions of [people] suddenly have casinos in their pockets.”",
+   "unit": "T08.12"
+  },
+  {
+   "q": "Which situation best fits President Christofferson’s caution to those who feel strong enough to gamble only for casual fun?",
+   "options": [
+    "A longtime gambler hides growing debts until the savings are gone",
+    "A student sees betting ads at every game and feels pressure to join",
+    "A new member sees a respected leader place a small bet and follows",
+    "A worker declines the office betting pool and is teased for it"
+   ],
+   "a": 2,
+   "why": "He asked the strong to consider their example. Those “newer or weaker in the faith” are watching, and a little gambling may cost them more “if they take license from your example.”",
+   "unit": "T08.16"
+  },
+  {
+   "q": "Because our resources are stewardships, President Christofferson said the question about a purchase goes beyond whether it is legal. What is the further question?",
+   "options": [
+    "Whether it will return more money than it first cost us",
+    "Whether most people around us would approve of it",
+    "Whether we could afford it if all the money were lost",
+    "Whether it builds anything in us, our families, or others"
+   ],
+   "a": 3,
+   "why": "He taught that the question is whether a purchase “builds anything—in us, in our families, or in those around us.” Gambling, he said, produces nothing of value.",
+   "unit": "T08.22"
+  },
+  {
+   "q": "A man reasons that he bets only with friends who can afford to lose, so no one is hurt. Which teaching of President Oaks quoted in this talk answers him most directly?",
+   "options": [
+    "Seeking to take from others without giving value harms the taker’s own spirit",
+    "Friends who can afford a loss today may find themselves in debt tomorrow",
+    "Small bets among friends are where compulsive habits most often begin",
+    "Most people who gamble end up losing far more than they had planned"
+   ],
+   "a": 0,
+   "why": "President Oaks asked, “What does gambling do to its participants?” The attitude of taking “leads us away from the giving path of Christ” and is “destructive of spiritual sensitivities.” That harm falls on the one who takes.",
+   "unit": "T08.23"
+  },
+  {
+   "q": "President Christofferson said gambling, “even for fun,” leads in the opposite direction from something. From what?",
+   "options": [
+    "The financial independence that careful investing brings",
+    "The prosperous, just, and equitable societies that work builds",
+    "The friendly rivalry that sports are meant to create",
+    "The carefree rest that a day away from labor provides"
+   ],
+   "a": 1,
+   "why": "He taught that a life well-lived supports and rewards work: “Work leads to prosperous, just, and equitable societies. Gambling, even for fun, leads in the opposite direction.”",
+   "unit": "T08.24"
+  }
+ ]
+}

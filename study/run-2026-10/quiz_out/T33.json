@@ -1,0 +1,184 @@
+{
+ "talk_id": "T33",
+ "easy": [
+  {
+   "q": "During the Primary program, what did James do with his new suit jacket?",
+   "options": [
+    "He put it on backwards over his shirt",
+    "He buttoned his sleeve to his jacket lapel",
+    "He pulled a button off and lost it"
+   ],
+   "a": 1,
+   "why": "James buttoned his right sleeve to his left lapel and could not get loose. Elder Sinclair called it “a one-arm straitjacket.”",
+   "unit": "T33.03"
+  },
+  {
+   "q": "Who rescued James when he was stuck?",
+   "options": [
+    "The little girl sitting next to him",
+    "His Primary teacher on the stand",
+    "Elder Sinclair, who was watching"
+   ],
+   "a": 0,
+   "why": "The little girl beside James saw his trouble and wanted to help. She reached up and popped the button out of the buttonhole.",
+   "unit": "T33.05"
+  },
+  {
+   "q": "What did a little child lead Elder Sinclair to learn about a true disciple of Jesus Christ?",
+   "options": [
+    "A true disciple is quick to lead and slow to follow",
+    "A true disciple is quick to finish and slow to complain",
+    "A true disciple is quick to help and slow to judge"
+   ],
+   "a": 2,
+   "why": "Elder Sinclair said the child led him to learn “that a true disciple of Jesus Christ is quick to help and slow to judge.”",
+   "unit": "T33.06"
+  },
+  {
+   "q": "What did the Savior offer the woman at the well?",
+   "options": [
+    "A new jar for carrying water",
+    "Living water",
+    "Bread for her journey home"
+   ],
+   "a": 1,
+   "why": "Elder Sinclair taught that Christ focused on help: the offer of “living water.” He offered her grace and transformative help.",
+   "unit": "T33.10"
+  },
+  {
+   "q": "What does Elder Sinclair pray that friends and new members will know when they meet us?",
+   "options": [
+    "That they have “come home”",
+    "That they are being tested",
+    "That they must prove themselves"
+   ],
+   "a": 0,
+   "why": "He prays that when they meet us they will know they have “come home” and will see disciples ready to fill them with living and loving water.",
+   "unit": "T33.13"
+  }
+ ],
+ "medium": [
+  {
+   "q": "As James became more and more stuck, what does Elder Sinclair say was happening to him as he watched?",
+   "options": [
+    "He was trying to catch the teacher's eye",
+    "He was quietly working out how to reach James",
+    "He was becoming more and more aggravated",
+    "He was struggling to keep from laughing"
+   ],
+   "a": 2,
+   "why": "Elder Sinclair admits, “I became more and more aggravated,” and that he was shaking his head in disappointment. His reaction was to judge, which sets up the lesson.",
+   "unit": "T33.04"
+  },
+  {
+   "q": "Why did Elder Sinclair feel humbled, and not only relieved, when James was freed?",
+   "options": [
+    "He saw he had forgotten his own part in the program",
+    "He felt a quiet rebuke reminding him to be more like Jesus",
+    "He realized the bishop had seen him shaking his head",
+    "He learned that James had been asking him for help"
+   ],
+   "a": 1,
+   "why": "He recognized “the quiet rebuke of a misplaced button and tiny fingers” reminding him that he should be trying to be more like Jesus.",
+   "unit": "T33.06"
+  },
+  {
+   "q": "What “critical lesson” does Elder Sinclair draw from the Savior's time with the woman at the well?",
+   "options": [
+    "The Savior is quick to offer grace and transformative help",
+    "The Savior tests our patience before He offers us help",
+    "The Savior teaches most often in out-of-the-way places",
+    "The Savior waits for us to ask before He comes to us"
+   ],
+   "a": 0,
+   "why": "He said one critical lesson is “the example of the Savior being quick to offer grace and transformative help.”",
+   "unit": "T33.07"
+  },
+  {
+   "q": "Elder Sinclair said that to help people transform their lives, “we must look to their possible.” What does that mean?",
+   "options": [
+    "Decide how likely they are to change before we help",
+    "Wait until they have shown that they have changed",
+    "Help only in the ways that are possible for us",
+    "See what they can become, and not only what they have been"
+   ],
+   "a": 3,
+   "why": "The Savior “did not hold her hostage to her history.” We look not only to a person's past but to what he or she can become.",
+   "unit": "T33.11"
+  },
+  {
+   "q": "How does Elder Sinclair connect the woman at the well to our day?",
+   "options": [
+    "Members should hold more gatherings in public places",
+    "Missionaries meet people who may fear judgment but need help",
+    "New members should wait to serve until they feel ready",
+    "Friends learn best when they study the Gospel of John first"
+   ],
+   "a": 1,
+   "why": "He said missionaries meet people at “modern-day wells” everywhere, people “who may be in fear of judgment but in need of help.”",
+   "unit": "T33.12"
+  }
+ ],
+ "hard": [
+  {
+   "q": "A boy spills paint on his project just before showing it to the class. Which classmate responds the way the little girl responded to James’s predicament?",
+   "options": [
+    "One feels sorry for him and decides not to think badly of him",
+    "One fetches paper towels and helps him wipe it up without comment",
+    "One helps him wipe it up while noting he should have been careful",
+    "One asks how it happened and then decides whether to help"
+   ],
+   "a": 1,
+   "why": "She saw his predicament, but “instead of being aggravated, she wanted to help.” Quickly discerning what was needed, she acted with “tiny, nonjudgmental fingers”: real help, given at once and without judging.",
+   "unit": "T33.05"
+  },
+  {
+   "q": "After noting how little we know of the woman's circumstances, Elder Sinclair says, “please don’t misunderstand me.” What is he making clear?",
+   "options": [
+    "Her story is very important, but not for its judgmental details",
+    "Her story is told so that we can work out what went wrong",
+    "Her story is less important than others in the Gospel of John",
+    "Her story cannot be understood until we know her name"
+   ],
+   "a": 0,
+   "why": "He said, “Her story is very important, but these are not the judgmental details we need to know about her journey.”",
+   "unit": "T33.09"
+  },
+  {
+   "q": "Elder Sinclair says the Great Redeemer “knew absolutely everything” about the woman. What point does he draw from that?",
+   "options": [
+    "Knowing everything, He first asked her to explain her past",
+    "Knowing everything, He had no need to hear her questions",
+    "Knowing everything, He waited for her to ask Him for help",
+    "Knowing everything, He still came to offer her living water"
+   ],
+   "a": 3,
+   "why": "Full knowledge of her life did not lead the Savior to judge. He came “to be a living witness of living water” and offered grace and help.",
+   "unit": "T33.10"
+  },
+  {
+   "q": "Which response to a new member with a hard past best fits how Elder Sinclair described the Savior treating the woman at the well?",
+   "options": [
+    "Answering her questions briefly so she is not overwhelmed",
+    "Listening to her questions and teaching her with dignity",
+    "Reminding her kindly how far she still has to go",
+    "Holding back deeper teaching until she has proven herself"
+   ],
+   "a": 1,
+   "why": "The Savior spoke “with dignity, not shame,” listened to her questions, taught her, and “trusted her with truth.”",
+   "unit": "T33.11"
+  },
+  {
+   "q": "How does Elder Sinclair tie his message to President Oaks's invitation to “seek to be holy, like our Savior”?",
+   "options": [
+    "Holiness must come first; helping others follows later",
+    "Holiness is shown in how carefully we correct others",
+    "Being quick to help and slow to judge is a simple way to be more holy",
+    "Being holy mostly means staying away from those who judge"
+   ],
+   "a": 2,
+   "why": "He called being quick to help and slow to judge “a simple and deeply encouraging way” for each of us to be more holy and more like our Savior.",
+   "unit": "T33.12"
+  }
+ ]
+}

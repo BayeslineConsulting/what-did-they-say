@@ -1,0 +1,184 @@
+{
+ "talk_id": "T31",
+ "easy": [
+  {
+   "q": "In Elder Bednar’s story, why was the man not allowed to enter the country he was visiting?",
+   "options": [
+    "He had left his passport at home",
+    "His passport was damaged and badly repaired",
+    "He arrived on the wrong day"
+   ],
+   "a": 1,
+   "why": "The man had a valid passport, but he “had not taken good care” of it. It was stained, torn, and fixed with tape and glue, so the official would not stamp it.",
+   "unit": "T31.06"
+  },
+  {
+   "q": "Elder Bednar shared President Packer’s teaching that life is a journey for all of us. Where does that journey lead?",
+   "options": [
+    "Home, back to the presence of God",
+    "Around the whole wide world",
+    "To a place nobody can know about"
+   ],
+   "a": 0,
+   "why": "President Packer taught that “life is a homeward journey for all of us, back to the presence of God.”",
+   "unit": "T31.02"
+  },
+  {
+   "q": "According to Elder Bednar, what is a covenant?",
+   "options": [
+    "A wish we hope will come true someday",
+    "A rule we make up for ourselves",
+    "A solemn promise between God and His children"
+   ],
+   "a": 2,
+   "why": "Elder Bednar said a covenant is “a solemn promise,” a lasting commitment between God and His sons and daughters.",
+   "unit": "T31.11"
+  },
+  {
+   "q": "Elder Bednar taught that the Holy Ghost is a messenger. Whose messenger is He?",
+   "options": [
+    "The angels in heaven",
+    "The prophets of old",
+    "The Father and the Son"
+   ],
+   "a": 2,
+   "why": "Elder Bednar said the Holy Ghost “testifies of all truth, and is the witness of and messenger for the Father and the Son.”",
+   "unit": "T31.14"
+  },
+  {
+   "q": "At the end of his talk, Elder Bednar shared King Benjamin’s promise. What happens to those who keep God’s commandments faithfully to the end?",
+   "options": [
+    "They dwell with God in never-ending happiness",
+    "They never have any hard days again",
+    "They become rich and well known"
+   ],
+   "a": 0,
+   "why": "King Benjamin taught that the faithful are “received into heaven” to live with God “in a state of never-ending happiness.”",
+   "unit": "T31.29"
+  }
+ ],
+ "medium": [
+  {
+   "q": "What did Elder Bednar say is the simple lesson of the passport story?",
+   "options": [
+    "Travelers should plan carefully before a long journey",
+    "Border officials decide who is worthy to enter",
+    "A passport is useful only if family is waiting",
+    "A passport must be kept whole over time, not just held"
+   ],
+   "a": 3,
+   "why": "He taught that “the integrity of a passport must be maintained over time.” Holding one gave the man a chance to enter, but it did not guarantee he would.",
+   "unit": "T31.08"
+  },
+  {
+   "q": "Elder Bednar compared the stamp the man needed in his passport to something each of us needs. What is it?",
+   "options": [
+    "A current temple recommend",
+    "The verifying witness of the Holy Spirit of Promise",
+    "A blessing from a priesthood leader",
+    "A record of our baptism and confirmation"
+   ],
+   "a": 1,
+   "why": "Just as the man needed an authorized stamp, each of us needs “the verifying witness of the Holy Spirit of Promise” to receive the eternal blessings of our covenants.",
+   "unit": "T31.18"
+  },
+  {
+   "q": "Elder Bednar said his passport analogy “has limitations.” What limitation did he point out?",
+   "options": [
+    "Trials that are not our fault do not invalidate our covenants",
+    "Covenants, unlike passports, can never be harmed by our choices",
+    "A lost passport can be replaced, but a covenant cannot be renewed",
+    "Passports matter in this life, but covenants matter only in the next"
+   ],
+   "a": 0,
+   "why": "Unlike damage to a passport, “the adversities and afflictions we experience through no fault of our own” do not diminish God’s promises or invalidate our covenants.",
+   "unit": "T31.09"
+  },
+  {
+   "q": "According to Elder Bednar, how does the ratifying sealing by the Holy Ghost typically come?",
+   "options": [
+    "All at once, when an ordinance is performed",
+    "Only after this life, at the Final Judgment",
+    "Over time, as we repent and honor our covenants",
+    "Once, when we first feel the Spirit strongly"
+   ],
+   "a": 2,
+   "why": "He said it “typically is not a one-time event”; it comes over time as we repent sincerely and consistently, honor our covenants, and yield our hearts to God.",
+   "unit": "T31.17"
+  },
+  {
+   "q": "Elder Bednar said a faithful spouse may ask whether another person’s unrighteous choices can rob them of what God has promised. How did he answer?",
+   "options": [
+    "Yes, until the other person chooses to repent fully",
+    "No; another’s unrighteousness cannot block God’s blessings",
+    "Only the blessings of this life can be taken away",
+    "He said the question cannot be answered in this life"
+   ],
+   "a": 1,
+   "why": "He said the answer is “an emphatic no!” Another person’s unrighteous use of moral agency cannot rob a faithful spouse of what God has promised.",
+   "unit": "T31.23"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Bednar described two parts of the sealing ordinance, a “lateral” and a “vertical” sealing. Which pairing matches what he taught?",
+   "options": [
+    "Lateral: the couple sealed into God’s eternal family; vertical: husband and wife in marriage",
+    "Lateral: parents sealed to their children; vertical: husband and wife united in marriage",
+    "Lateral: the sealing made on earth; vertical: its ratifying by the Holy Spirit of Promise",
+    "Lateral: husband and wife in marriage; vertical: the couple sealed into God’s eternal family"
+   ],
+   "a": 3,
+   "why": "The lateral sealing is “the eternal union of a man and a woman in marriage.” The vertical sealing joins husband and wife to “God’s eternal family” and links humankind through all generations. He said both are vital.",
+   "unit": "T31.21"
+  },
+  {
+   "q": "Which statement matches what Elder Bednar taught about the sealing by the Holy Spirit of Promise during mortality?",
+   "options": [
+    "It is conditional and can be forfeited through unrighteousness",
+    "It is permanent once given, whatever we choose afterward",
+    "It can be lost through hardships that are not our fault",
+    "It is never given until mortal life is over"
+   ],
+   "a": 0,
+   "why": "A covenant sealed by the Holy Spirit of Promise is binding on earth and in heaven, yet “this sealing is conditional in mortality” and can be broken or forfeited through unrighteousness.",
+   "unit": "T31.16"
+  },
+  {
+   "q": "When a temple marriage does not endure, what did Elder Bednar say a faithful, covenant-keeping spouse remains worthy to receive?",
+   "options": [
+    "No ratifying seal for either aspect until the other spouse has fully repented",
+    "The ratifying seal for both the lateral and vertical aspects, just as before",
+    "The ratifying seal for the lateral aspect only, with the vertical held in reserve",
+    "The ratifying seal for the vertical aspect, with all associated individual blessings"
+   ],
+   "a": 3,
+   "why": "A faithful spouse “remains worthy to receive for himself or herself” the ratifying seal for the vertical aspect of the sealing ordinance and all other associated individual blessings.",
+   "unit": "T31.26"
+  },
+  {
+   "q": "Speaking of faithful members whose temple marriage does not endure, what did Elder Bednar say he does not know, and what did he say he does know?",
+   "options": [
+    "He does not know why trials come, but knows they will end soon",
+    "He does not know how or when blessings come, but knows they will come",
+    "He does not know who will be faithful, but knows who will be blessed",
+    "He does not know which blessings are promised, but knows God is fair"
+   ],
+   "a": 1,
+   "why": "He said, “I do not know and cannot explain precisely how and when promised blessings are received. But I do know promised blessings will be received.”",
+   "unit": "T31.28"
+  },
+  {
+   "q": "Which situation best fits the warning in Elder Bednar’s passport parable about spiritual credentials?",
+   "options": [
+    "A covenant keeper who suffers a serious illness through no fault of their own",
+    "A person learning about the gospel who has not yet been baptized",
+    "A person baptized long ago who has stopped keeping covenants but relies on the ordinance",
+    "A person who repents often and keeps striving to honor covenants"
+   ],
+   "a": 2,
+   "why": "The man held a valid passport but had not cared for it. Elder Bednar taught, “Ongoing faithfulness is required for those credentials to be valid and for promised blessings to be received.”",
+   "unit": "T31.13"
+  }
+ ]
+}

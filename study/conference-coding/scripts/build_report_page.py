@@ -81,13 +81,20 @@ LESSONS={}
 for t in segs['talks']:
     f=os.path.join(RUN,'lessons_out',t['talk_id']+'.json')
     if os.path.exists(f): LESSONS[t['talk_id']]=json.load(open(f))
+QUIZZES=dict(talks={},conf={})
+for t in segs['talks']:
+    f=os.path.join(RUN,'quiz_out',t['talk_id']+'.json')
+    if os.path.exists(f): QUIZZES['talks'][t['talk_id']]=json.load(open(f))
+for lv in ('easy','medium','hard'):
+    f=os.path.join(RUN,'quiz_out','conference_'+lv+'.json')
+    if os.path.exists(f): QUIZZES['conf'][lv]=json.load(open(f))['questions']
 for e in themes:
     for x in e['examples']:
         if x['unit'] in QUOTING: x['via']=QUOTING[x['unit']]
 for a in acts:
     if a['unit'] in QUOTING: a['via']=QUOTING[a['unit']]
 COUNSEL=[dict(unit=u,q=q,who=names[u[:3]]) for u,q in BU.get('counsel',[])]
-DATA=dict(lessons=LESSONS,counsel=COUNSEL,quoting=QUOTING,talks=talks,sessnames=SESN,site=RC.get('site',{}),five=RC.get('five_min',[]),quiz=RC.get('quiz',[]),icons=RC.get('icons',{}),saturation=sat,codebook=cbs,conf=segs['conference'],label=RC['label'],subtitle=RC['subtitle'],lead=RC['lead'],arc=RC['arc'],sessions=SES,
+DATA=dict(quizzes=QUIZZES,lessons=LESSONS,counsel=COUNSEL,quoting=QUOTING,talks=talks,sessnames=SESN,site=RC.get('site',{}),five=RC.get('five_min',[]),quiz=RC.get('quiz',[]),icons=RC.get('icons',{}),saturation=sat,codebook=cbs,conf=segs['conference'],label=RC['label'],subtitle=RC['subtitle'],lead=RC['lead'],arc=RC['arc'],sessions=SES,
   stats=dict(talks=len(segs['talks']),speakers=len({t['speaker'] for t in segs['talks']}),words=words,units=len(U),apps=sum(len(v) for v in A.values()),
              codes=len({k for v in A.values() for k in v}),categories=len({M[k]['category'] for v in A.values() for k in v}),actions=len(acts),scripture=sum(vol.values())),
   themes=themes,actions=acts,bundles=bundles,president=BU['president'],words=wf,facts=RC['fun_facts'],groups=RC['speaker_groups'],groupnote=RC['speaker_note'],

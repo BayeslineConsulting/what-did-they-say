@@ -1,0 +1,184 @@
+{
+ "talk_id": "T02",
+ "easy": [
+  {
+   "q": "At the start of her talk, what did Sister Runia say she loves to do?",
+   "options": [
+    "Bake things, like bread and cakes",
+    "Fix things, like knots and stains",
+    "Grow things, like flowers and herbs"
+   ],
+   "a": 1,
+   "why": "Sister Runia loves fixing things, but she learned that some things are beyond us. Of the Savior she taught, “He can fix what feels badly broken.”",
+   "unit": "T02.01"
+  },
+  {
+   "q": "Sister Runia said the gospel is not an umbrella that keeps the rain off us. What did she say it is?",
+   "options": [
+    "A solid rock to stand on in the storm",
+    "A warm coat to wear in the storm",
+    "A bright lamp to carry in the storm"
+   ],
+   "a": 0,
+   "why": "She taught that the gospel is “the solid rock we’re standing on during the storm.” Hard things still come, but we will not fall.",
+   "unit": "T02.12"
+  },
+  {
+   "q": "In his Primary talk, seven-year-old Jaac said Heavenly Father's plan is like something he loves. What was it?",
+   "options": [
+    "Following a map on a long hike",
+    "Following a recipe to bake a treat",
+    "Following the instructions for Lego bricks"
+   ],
+   "a": 2,
+   "why": "Jaac said he lays out all the pieces and follows the instructions, just as we follow Heavenly Father's plan so that “we can build hard things.”",
+   "unit": "T02.25"
+  },
+  {
+   "q": "Sister Runia's brother Kent could not get the eyes right on his clay sculpture. What did he finally do?",
+   "options": [
+    "He started over with fresh clay",
+    "He left the eyes for another day",
+    "He asked his teacher for help"
+   ],
+   "a": 2,
+   "why": "Kent wanted to do it alone, but he said, “I finally humbled myself and asked for help.” Sister Runia used his story to teach us to invite the Savior to help us.",
+   "unit": "T02.40"
+  },
+  {
+   "q": "What did Sister Runia say God is doing with each of us?",
+   "options": [
+    "Shaping us into something only He knows we can become",
+    "Keeping every hard thing from ever happening to us",
+    "Waiting for us to finish fixing ourselves on our own"
+   ],
+   "a": 0,
+   "why": "This is the heart of the talk, and she said it more than once: “God is shaping us into something only He knows we can become.”",
+   "unit": "T02.18"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Joseph Smith pleaded in jail for a break and was told, “All these things shall give thee experience.” What does Sister Runia say this answer implies?",
+   "options": [
+    "Trials end sooner for those who ask with enough patience",
+    "Hard experiences are mainly meant for prophets and leaders",
+    "Experience is valuable, and we gain it only by going through it",
+    "Experience can be gained by study without having to live it"
+   ],
+   "a": 2,
+   "why": "She said God's answer implies that experience is valuable, and “the only way to get it is to go through it.” There isn't another way.",
+   "unit": "T02.07"
+  },
+  {
+   "q": "According to Sister Runia, how has God's love changed the questions she asks in hard times?",
+   "options": [
+    "From asking “why” to asking what is supposed to be happening",
+    "From asking “why” to asking how soon the trial will end",
+    "From asking “why” to asking what she had done wrong",
+    "From asking “why” to asking who else has suffered this"
+   ],
+   "a": 0,
+   "why": "She now begins with what she knows: “I know that God loves me, so what is supposed to be happening here?” Trust in His love comes first.",
+   "unit": "T02.14"
+  },
+  {
+   "q": "Ryan told a struggling neighbor he could blame God or turn to Him and be healed. What did Sister Runia say about that choice?",
+   "options": [
+    "It comes once in a lifetime, so we should prepare for it",
+    "We all have it right now, and she invited us to choose Christ",
+    "It is made for us by the kinds of trials we are given",
+    "It grows easier once we understand why trials come"
+   ],
+   "a": 1,
+   "why": "She said, “We all have a choice right now,” and then invited us to choose Christ, who can heal the wounds of this world.",
+   "unit": "T02.32"
+  },
+  {
+   "q": "Sister Runia described “a sort of divine mending.” What does she say it does?",
+   "options": [
+    "Returns your life to the way it was before the trial came",
+    "Explains the reason for each trial once it is over",
+    "Removes the memory of the painful things that happened",
+    "Changes what is happening to you into something happening for you"
+   ],
+   "a": 3,
+   "why": "She does not claim to know how it works, but it “changes what’s happening to you into something happening for you!”",
+   "unit": "T02.35"
+  },
+  {
+   "q": "According to Sister Runia, what does the Savior wait for before He can “really go to work” on our souls?",
+   "options": [
+    "For our trials to end",
+    "For us to try alone first",
+    "For us to invite Him",
+    "For us to feel ready"
+   ],
+   "a": 2,
+   "why": "She taught that He will lovingly chasten us to get our attention, but “He waits for an invitation before He can really go to work.”",
+   "unit": "T02.44"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Sister Runia said, “Not understanding is not the same as not believing.” Which situation best fits what she taught?",
+   "options": [
+    "A father decides he will trust God again once he is shown the reason for his family's trial",
+    "A father cannot explain why his prayer was not answered as he hoped, yet he keeps trusting God",
+    "A father concludes that if his faith were stronger he would understand every trial he faces",
+    "A father stops asking hard questions, since wondering why means his belief is slipping"
+   ],
+   "a": 1,
+   "why": "She said plainly that she does not understand why her loss happened, and yet she absolutely believes God sees us, loves us, and knows our story. Belief does not wait for understanding.",
+   "unit": "T02.20"
+  },
+  {
+   "q": "Sister Runia said our story is “purposeful.” What did she teach about how suffering relates to our path?",
+   "options": [
+    "It is a detour, but God leads us back to the path afterward",
+    "It shows we have wandered from the path and need to return",
+    "It pauses our progress on the path until the trial is over",
+    "It gives purpose to the path rather than being a detour from it"
+   ],
+   "a": 3,
+   "why": "She taught that our suffering means something: “It’s not a detour from the path; it gives purpose to our path.”",
+   "unit": "T02.23"
+  },
+  {
+   "q": "Sister Runia grew up hearing promises such as blessings for keeping the commandments. What did she learn about them?",
+   "options": [
+    "They are true, but they do not keep the rain from falling",
+    "They are true, but only for those who never complain in trials",
+    "They are true, but they are mostly about the life to come",
+    "They are kindly meant sayings more than they are real promises"
+   ],
+   "a": 0,
+   "why": "Just before the umbrella image she called these “True promises.” What she learned from experience was that “we’re all going to get rained on.”",
+   "unit": "T02.11"
+  },
+  {
+   "q": "Someone reasons that if God were truly at work in his life, things would be going visibly well. What did Sister Runia teach that answers this?",
+   "options": [
+    "God’s work in us begins only once the hardest part has passed",
+    "When God is at work, our lives may look and feel as if they are unraveling",
+    "Those around us can usually see our growth before we can",
+    "Things fall apart mainly when we have stopped inviting His help"
+   ],
+   "a": 1,
+   "why": "She testified that when “growth is taking place and God is at work, our stories may not look like success to others.” It may look, and feel, as if things are falling apart.",
+   "unit": "T02.17"
+  },
+  {
+   "q": "In Kent's story the instructor dug into the clay much further than Kent had. What does Sister Runia say this is like in the Savior's work with us?",
+   "options": [
+    "His carving is so gentle that we seldom notice it",
+    "His carving can feel surprisingly abrupt and aggressive",
+    "His carving begins before we ever ask Him for it",
+    "His carving is finished in a single moment"
+   ],
+   "a": 1,
+   "why": "She said He will start carving, “sometimes surprising us with how abrupt and aggressive the work feels.” In time, we begin to see the work of His hand.",
+   "unit": "T02.45"
+  }
+ ]
+}

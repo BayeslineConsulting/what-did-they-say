@@ -1,0 +1,184 @@
+{
+ "talk_id": "T07",
+ "easy": [
+  {
+   "q": "What did Bishop Douglas invite the rising generation of the Church to do?",
+   "options": [
+    "Wait until after college to think about a mission",
+    "Put serving a full-time mission high on their list",
+    "Choose a mission that is close to home"
+   ],
+   "a": 1,
+   "why": "He said, “I invite you to place serving a full-time mission high on your list,” and warned against being distracted by things of far less worth.",
+   "unit": "T07.13"
+  },
+  {
+   "q": "Two young missionaries spoke in sacrament meeting before leaving on their missions. What did Bishop Douglas notice about them?",
+   "options": [
+    "They were nervous about going so far from home",
+    "They were sad to leave their family and friends",
+    "They were eager to go and wanted to serve the Lord"
+   ],
+   "a": 2,
+   "why": "Bishop Douglas said they were “beaming with enthusiasm and eager to get going,” and that “their desire to serve the Lord was unmistakable.”",
+   "unit": "T07.04"
+  },
+  {
+   "q": "Where did Bishop and Sister Douglas serve as mission leaders and come to know Elder Merlin Sanchez?",
+   "options": [
+    "Lima, Peru",
+    "Mexico City, Mexico",
+    "Manila, Philippines"
+   ],
+   "a": 0,
+   "why": "They served as mission leaders in Lima, Peru, where Elder Merlin Sanchez was one of their missionaries.",
+   "unit": "T07.08"
+  },
+  {
+   "q": "When Bishop Douglas asked Merlin why he wanted to serve a mission, what did Merlin say?",
+   "options": [
+    "He wanted to see a new country and learn about it",
+    "He wanted to make his family proud of him",
+    "He wanted to be close to Jesus Christ and follow Him"
+   ],
+   "a": 2,
+   "why": "Merlin answered, “I only want to be close to Jesus Christ and to follow Him.” His reason for serving was the Savior.",
+   "unit": "T07.09"
+  },
+  {
+   "q": "Bishop Douglas ended with the Savior’s words to an early missionary and invited us to put our own name in place of his. Whose name was it?",
+   "options": [
+    "Amulek",
+    "Thomas B. Marsh",
+    "Oliver Cowdery"
+   ],
+   "a": 1,
+   "why": "The words were given through Joseph Smith to Thomas B. Marsh. Putting our own name in place of his helps us hear the Lord’s call as our own.",
+   "unit": "T07.17"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Bishop Douglas said his great-nephews reminded him of the sons of Mosiah. What did he see in both?",
+   "options": [
+    "Brothers who were assigned to serve side by side",
+    "A strong desire that others receive salvation",
+    "Young men who gave up a chance to lead at home",
+    "Missionaries who had once opposed the Church"
+   ],
+   "a": 1,
+   "why": "He said their desire to serve the Lord was unmistakable, like the sons of Mosiah, who “could not bear that any human soul should perish.”",
+   "unit": "T07.05"
+  },
+  {
+   "q": "Bishop Douglas said that for missionaries, “all else takes a back seat.” What did he mean?",
+   "options": [
+    "School, dating, and careers stop mattering after a mission",
+    "Families should not expect to hear from missionaries",
+    "Young people should finish school before they serve",
+    "For a season, serving the Lord comes ahead of other good things"
+   ],
+   "a": 3,
+   "why": "He said this is “for a season”: education, dating, careers, family time, and even sleeping in wait while the desire to serve the Lord comes first.",
+   "unit": "T07.06"
+  },
+  {
+   "q": "Merlin was called as a bishop on his wedding day. What point did Bishop Douglas draw from this?",
+   "options": [
+    "A mission is one step on a lifelong path of discipleship",
+    "Returned missionaries are usually called as bishops",
+    "The Lord repays missionaries with leadership callings",
+    "A Church calling should come before plans to marry"
+   ],
+   "a": 0,
+   "why": "He said there was no time for Merlin’s discipleship to be interrupted, because a mission is one of many significant steps on the path of lifelong discipleship.",
+   "unit": "T07.11"
+  },
+  {
+   "q": "In the prophetic statement Bishop Douglas quoted, how is missionary service described for young men and for young women?",
+   "options": [
+    "A powerful but optional opportunity for young men and young women, each to decide by prayer",
+    "A priesthood responsibility for young men; an opportunity best saved for later for young women",
+    "A priesthood responsibility for young men; a powerful but optional opportunity for young women",
+    "A priesthood responsibility for young men and an equal responsibility for all young women"
+   ],
+   "a": 2,
+   "why": "For worthy, able young men it “is a priesthood responsibility.” For young sisters it is “a powerful, but optional, opportunity,” and they are to pray to know.",
+   "unit": "T07.14"
+  },
+  {
+   "q": "What did Bishop Douglas mean when he said inviting others to come unto Christ is in your “spiritual DNA”?",
+   "options": [
+    "Missionary skill is handed down by parents who served",
+    "Some people are born as natural gospel teachers",
+    "Those with pioneer ancestors have a special duty to serve",
+    "You were taught and prepared for it before you were born"
+   ],
+   "a": 3,
+   "why": "He taught that God held you in reserve for this time and that you were taught and prepared, before you were born, to invite God’s children to come unto Christ.",
+   "unit": "T07.07"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which missionary best fits what Bishop Douglas meant by “You are what you preach”?",
+   "options": [
+    "An elder who can recite every lesson word for word",
+    "A sister who teaches about prayer and whose own life shows that she prays",
+    "A sister who is the most gifted speaker in her district",
+    "An elder who teaches more lessons than anyone in his mission"
+   ],
+   "a": 1,
+   "why": "He said missionaries “are not only the messengers but also living examples of the message.” What they teach should be seen in how they live.",
+   "unit": "T07.03"
+  },
+  {
+   "q": "A friend helped Merlin start his mission papers before Merlin had decided to serve. Why did that turn out to matter?",
+   "options": [
+    "Once the papers were begun, Merlin was obligated to go",
+    "Filling out the papers is what gave Merlin his desire",
+    "The papers were what first brought Merlin back to church",
+    "When the desire suddenly came, his papers were well advanced"
+   ],
+   "a": 3,
+   "why": "After Merlin returned to church, a desire to serve “suddenly swelled in his heart.” Bishop Douglas added, “Thankfully, his mission papers were well advanced.”",
+   "unit": "T07.09"
+  },
+  {
+   "q": "Elder Sanchez served twice with the same companion, who was his opposite in personality. How did Bishop Douglas explain it?",
+   "options": [
+    "They were assigned together by divine design and became united in purpose",
+    "It was an oversight that the Lord later turned to good",
+    "It showed that companions work best when they are alike",
+    "It was a trial that the two of them never fully overcame"
+   ],
+   "a": 0,
+   "why": "He said that “though opposite in personality, they became united in purpose—assigned together by divine design.” Every companion was consecrated for Merlin’s gain.",
+   "unit": "T07.10"
+  },
+  {
+   "q": "Why did Bishop Douglas quote Amulek’s words, “For I was called many times and I would not hear”?",
+   "options": [
+    "To teach that the Lord calls each person only one time",
+    "To show that those who delay lose their chance to serve",
+    "To caution that some may keep ignoring the call to serve",
+    "To explain why new converts are not expected to serve"
+   ],
+   "a": 2,
+   "why": "He had just urged young people not to be “distracted by alternatives of far less worth,” and said some might be like Amulek, who was called many times but would not hear.",
+   "unit": "T07.13"
+  },
+  {
+   "q": "Record numbers of missionaries are now serving. What did Bishop Douglas add so that no one would decide they are not needed?",
+   "options": [
+    "The need will lessen as more missions are opened",
+    "Only those with the strongest testimonies should apply",
+    "Those who stay home can serve just as well where they are",
+    "There is still plenty of room and a place reserved for each one"
+   ],
+   "a": 3,
+   "why": "After rejoicing in record numbers, he said, “There is still plenty of room and a special place reserved for each one of you! We need you!”",
+   "unit": "T07.15"
+  }
+ ]
+}

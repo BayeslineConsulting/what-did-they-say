@@ -1,0 +1,184 @@
+{
+ "talk_id": "T36",
+ "easy": [
+  {
+   "q": "What does Elder Gilbert believe will be the hallmark, or special sign, of Christ’s disciples in the last days?",
+   "options": [
+    "Winning debates about religion",
+    "Teaching truth with love",
+    "Keeping away from people who disagree"
+   ],
+   "a": 1,
+   "why": "Elder Gilbert said, “I believe teaching truth with love will be the hallmark of Christ’s disciples in the last days.” Truth and love belong together.",
+   "unit": "T36.20"
+  },
+  {
+   "q": "A stake president took Elder Gilbert to a home where five people were waiting, each with a different concern. What did Elder Gilbert do for nearly two hours?",
+   "options": [
+    "He listened to their stories",
+    "He taught them a long lesson",
+    "He read scriptures aloud to them"
+   ],
+   "a": 0,
+   "why": "The Spirit kept prompting him to wait, so he listened. Afterward he invited them to stake conference, and each one accepted.",
+   "unit": "T36.09"
+  },
+  {
+   "q": "According to Elder Gilbert, what is the best way to help someone else keep their covenants?",
+   "options": [
+    "Remind them often of their mistakes",
+    "Wait until they ask you for help",
+    "Keep your own covenants"
+   ],
+   "a": 2,
+   "why": "This is part of being a light. Elder Gilbert taught, “The best way to help someone else keep their covenants is to keep your covenants.”",
+   "unit": "T36.11"
+  },
+  {
+   "q": "Elder Gilbert once answered a struggling friend with angry words. He said he may have won the debate, but what did he lose?",
+   "options": [
+    "His written notes",
+    "The Spirit",
+    "His turn to speak"
+   ],
+   "a": 1,
+   "why": "He said, “I lost the Spirit and I failed to help my struggling friend.” That day he stood for truth, but without love.",
+   "unit": "T36.08"
+  },
+  {
+   "q": "Elder Gilbert repeated an invitation President Nelson once gave. What did he invite all of us to do?",
+   "options": [
+    "List the people who most need this talk",
+    "Stop talking with people who disagree",
+    "Look deeply into our own hearts"
+   ],
+   "a": 2,
+   "why": "Elder Gilbert worried some would see only others’ shortcomings. Like President Nelson, he invited each of us to look into our own heart first.",
+   "unit": "T36.02"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Why did Elder Gilbert mention Sister Dennis’s story of the wounded dog that would not respond to her owner?",
+   "options": [
+    "To show that hurt people usually cannot be reached",
+    "To show that what looks like hostility may be hidden pain",
+    "To show that we should keep away from angry people",
+    "To show that kindness matters more than truth"
+   ],
+   "a": 1,
+   "why": "He taught, “Sometimes what we perceive as hostility may actually be someone’s hidden pain or regret.” Tense moments can hide what is really wrong.",
+   "unit": "T36.07"
+  },
+  {
+   "q": "In the home visit, Elder Gilbert was tempted to interject but waited. What did he say resisting that impulse accomplished?",
+   "options": [
+    "It showed the family that he agreed with them",
+    "It kept the visit short enough for his schedule",
+    "It let the stake president do the teaching",
+    "It built common ground so he could later teach with love"
+   ],
+   "a": 3,
+   "why": "He said resisting the impulse to respond “built common ground, which allowed me later to teach from a place of love.” Listening came before teaching.",
+   "unit": "T36.10"
+  },
+  {
+   "q": "After the tense meeting with academic leaders, a university chancellor later sought Elder Gilbert’s counsel. What lesson did he draw from this?",
+   "options": [
+    "Being a light opens more doors than pointed arguments",
+    "Silence is always the right answer to criticism",
+    "Strong arguments earn respect in the end",
+    "Academic leaders rarely change their minds"
+   ],
+   "a": 0,
+   "why": "Elder Gilbert said, “Being a light opens more doors than any pointed argument ever will.” The chancellor asked for help creating a course on character.",
+   "unit": "T36.12"
+  },
+  {
+   "q": "Elder Gilbert quoted President Christofferson about the two great commandments. What does putting the first commandment first do to our ability to love our neighbor?",
+   "options": [
+    "It limits it to those who share our faith",
+    "It sets it aside until we are more faithful",
+    "It amplifies and strengthens it",
+    "It leaves it much the same as before"
+   ],
+   "a": 2,
+   "why": "President Christofferson taught that loving God first “elevates our ability to love others more fully and perfectly” because we partner with God in caring for His children.",
+   "unit": "T36.16"
+  },
+  {
+   "q": "Elder Gilbert quoted President Nelson contrasting two kinds of messages. How does Heavenly Father communicate?",
+   "options": [
+    "Loudly and boldly, so no one can ignore it",
+    "Simply, quietly, and with stunning plainness",
+    "Mostly through dramatic signs and wonders",
+    "In ways that only the learned can grasp"
+   ],
+   "a": 1,
+   "why": "President Nelson said the adversary’s messages are “loud, bold, and boastful,” while Heavenly Father speaks simply and quietly. Elder Gilbert added that Christ modeled this perfectly.",
+   "unit": "T36.18"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Elder Gilbert quoted President Holland on a “crucial difference” the Savior understood. Which response to a friend who has wronged you best fits it?",
+   "options": [
+    "Forgiving him only after he admits that he was wrong",
+    "Deciding the wrong was not really wrong, to keep the peace",
+    "Forgiving him freely without calling the wrong right",
+    "Withholding forgiveness so he learns it was serious"
+   ],
+   "a": 2,
+   "why": "President Holland said there is “a crucial difference between the commandment to forgive sin” and “the warning against condoning it.” The Savior forgave freely yet never condoned sin.",
+   "unit": "T36.14"
+  },
+  {
+   "q": "According to Elder Gilbert, what happens when we try to love others by minimizing God’s laws?",
+   "options": [
+    "We separate ourselves from the One who loves them most",
+    "We earn their trust and can teach them later",
+    "We lose their respect for what we believe",
+    "We make the commandments seem harder to them"
+   ],
+   "a": 0,
+   "why": "He taught that in doing so “we separate ourselves from the one person who loves them the very most.” The Savior both loved and said, “go, and sin no more.”",
+   "unit": "T36.17"
+  },
+  {
+   "q": "A woman’s beliefs are attacked in a heated group discussion. Which response best fits how Elder Gilbert applied “avoid overly contentious settings” with the academic leaders?",
+   "options": [
+    "She lets it rest, having decided her critics are probably right",
+    "She lets it rest for now, still disagreeing, and stays open to talk later",
+    "She makes one last sharp point for the record and then lets it rest",
+    "She lets it rest and resolves never to discuss faith with them again"
+   ],
+   "a": 1,
+   "why": "He “chose at least for that setting to table the discussion despite my strong disagreement.” His quiet was neither agreement nor a closed door; later a university chancellor reached out to him for counsel.",
+   "unit": "T36.06"
+  },
+  {
+   "q": "Elder Gilbert said teaching truth with love will ask different things of different people. Which two did he name?",
+   "options": [
+    "Greater knowledge for some, greater patience for others",
+    "Greater conviction for some, greater charity for others",
+    "Greater courage for some, greater caution for others",
+    "Greater faith for some, greater obedience for others"
+   ],
+   "a": 1,
+   "why": "He said, “For some this will require greater conviction. For others it will demand greater charity.” Each of us may lean too far toward only truth or only love.",
+   "unit": "T36.20"
+  },
+  {
+   "q": "Which everyday situation is most like the mistake Elder Gilbert said he made with his friend who was attacking the Church?",
+   "options": [
+    "Agreeing with a friend’s criticisms just to keep the peace",
+    "Staying quiet while a coworker criticizes your beliefs",
+    "Sending a sharp, accurate reply to a relative’s criticism",
+    "Listening a long while before sharing your testimony"
+   ],
+   "a": 2,
+   "why": "Elder Gilbert “shot back an angry retort.” He said, “That day I stood for truth, but I did it without love and without charity.” Being right was not enough.",
+   "unit": "T36.08"
+  }
+ ]
+}

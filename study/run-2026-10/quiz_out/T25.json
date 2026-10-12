@@ -1,0 +1,184 @@
+{
+ "talk_id": "T25",
+ "easy": [
+  {
+   "q": "Whose invitation got Elder Kyungu thinking about the words he uses?",
+   "options": [
+    "President Oaks",
+    "President Monson",
+    "Elder Soares"
+   ],
+   "a": 0,
+   "why": "Elder Kyungu said he began pondering President Oaks’s invitation to use the language of peacemakers and how he could act on it with faith.",
+   "unit": "T25.04"
+  },
+  {
+   "q": "Elder Kyungu’s talk was mostly about being careful with what?",
+   "options": [
+    "The money we spend",
+    "The words we say",
+    "The food we eat"
+   ],
+   "a": 1,
+   "why": "He taught that “We must choose language that strengthens confidence and preserves relationships.” Our words can bring peace.",
+   "unit": "T25.13"
+  },
+  {
+   "q": "Which of these is one of the peaceful things Elder Kyungu said we can say?",
+   "options": [
+    "“Leave me alone.”",
+    "“Just stop talking.”",
+    "“Let us start again.”"
+   ],
+   "a": 2,
+   "why": "“Let us start again” was on his list of words that encourage understanding and peace. The other two were on his list of words to stop using.",
+   "unit": "T25.13"
+  },
+  {
+   "q": "The converted Lamanites buried their weapons of war for peace. What did Elder Kyungu say we can bury?",
+   "options": [
+    "Words that start fights",
+    "Things we no longer need",
+    "Memories that make us sad"
+   ],
+   "a": 0,
+   "why": "He said that like the Lamanites who “buried the weapons of war, for peace,” we can bury the language of contention for peace.",
+   "unit": "T25.14"
+  },
+  {
+   "q": "Elder Kyungu said the Savior’s peace is real and powerful. Where did he say it begins?",
+   "options": [
+    "With the leaders of countries",
+    "With other people being kind first",
+    "With us, in our hearts and words"
+   ],
+   "a": 2,
+   "why": "He said this peace “begins with us—with our hearts, our choices, and our words.” We do not have to wait for anyone else.",
+   "unit": "T25.17"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Elder Kyungu said the prophet’s invitation to use the language of peacemakers is “not a simple suggestion.” What did he say it is?",
+   "options": [
+    "A goal for the coming year",
+    "A reminder meant for leaders",
+    "A call to discipleship",
+    "A rule mainly for families"
+   ],
+   "a": 2,
+   "why": "Because the invitation comes from the living prophet, he called it “a call to discipleship as we follow Jesus Christ.”",
+   "unit": "T25.03"
+  },
+  {
+   "q": "What “spiritual exercise” did Elder Kyungu describe?",
+   "options": [
+    "Staying silent whenever we disagree with someone",
+    "Counting how many kind words we say each day",
+    "Listing the unkind things others have said to us",
+    "Finding words to give up and replacing them with peaceful ones"
+   ],
+   "a": 3,
+   "why": "He described identifying the language we need to forgo and then replacing it with “words and phrases that bring peace wherever we are and at all times.”",
+   "unit": "T25.04"
+  },
+  {
+   "q": "According to Elder Kyungu, what do expressions like “You never listen” do?",
+   "options": [
+    "Weaken love and damage relationships",
+    "Help others see their faults honestly",
+    "Do little harm when said in private",
+    "Hurt only when they come from strangers"
+   ],
+   "a": 0,
+   "why": "He taught that such words never edify: “They weaken love, diminish respect, and damage relationships.”",
+   "unit": "T25.12"
+  },
+  {
+   "q": "Elder Kyungu quoted the New Testament: “out of the abundance of the heart the mouth speaketh.” What does this show about our words?",
+   "options": [
+    "We should say everything that we feel",
+    "What we say comes from what fills our hearts",
+    "A person’s way of speaking cannot be changed",
+    "Kind words matter more than what we feel"
+   ],
+   "a": 1,
+   "why": "Because speech flows from the heart, he went on to invite us to fill our hearts with the doctrine of Christ, which can change our language.",
+   "unit": "T25.14"
+  },
+  {
+   "q": "Elder Kyungu asked us to pray for peaceful communication “regardless of the difference in our opinions.” What does that phrase teach?",
+   "options": [
+    "We should keep our opinions to ourselves",
+    "Peace comes once everyone thinks alike",
+    "Differences are best settled by leaders",
+    "We can speak peacefully even when we disagree"
+   ],
+   "a": 3,
+   "why": "He did not ask us to agree on everything. He asked us to use language that “uplifts, edifies, comforts, and brings people together” even when opinions differ.",
+   "unit": "T25.16"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which situation best fits what Elder Kyungu taught about a tense disagreement?",
+   "options": [
+    "Ana waits to speak kindly until her brother apologizes",
+    "Ana says, “Let us slow down and talk.”",
+    "Ana calmly explains that it is all his fault",
+    "Ana tells her brother to leave her alone for now"
+   ],
+   "a": 1,
+   "why": "“Let us slow down and talk” is among the words he offered in place of language that escalates “feelings of anger, disappointment, and frustration.”",
+   "unit": "T25.13"
+  },
+  {
+   "q": "Elder Kyungu said that as we follow Jesus Christ we will do more than feel His peace. Quoting Elder Soares, what else did he say can happen?",
+   "options": [
+    "We can become instruments of His peace",
+    "We can be freed from all disagreement",
+    "Others will always answer us kindly",
+    "We will no longer be tempted to anger"
+   ],
+   "a": 0,
+   "why": "He quoted Elder Soares: “We can become instruments of His peace in the world.” Peacemakers carry the Savior’s peace to others.",
+   "unit": "T25.15"
+  },
+  {
+   "q": "Marc spoke harshly to a coworker last week. Which response best fits Elder Kyungu’s closing invitations?",
+   "options": [
+    "He avoids the coworker so no more harsh words can be said",
+    "He stays silent about it and trusts time to mend the hurt",
+    "He repents of those words and now speaks to uplift and unite",
+    "He explains that he was provoked, then offers to start again"
+   ],
+   "a": 2,
+   "why": "He said, “Let us repent for the harsh language and expressions that have offended” others, and “use the language that uplifts, edifies, comforts, and brings people together.”",
+   "unit": "T25.16"
+  },
+  {
+   "q": "In the verse Elder Kyungu quoted from Ephesians, what test does Paul give for the words we speak?",
+   "options": [
+    "They should be few and carefully chosen",
+    "They should win others to our view",
+    "They should please those who lead us",
+    "They should edify and bless the hearers"
+   ],
+   "a": 3,
+   "why": "Paul wrote that our words should be “good to the use of edifying, that it may minister grace unto the hearers.”",
+   "unit": "T25.09"
+  },
+  {
+   "q": "Which person is doing the “spiritual exercise” Elder Kyungu described after pondering President Oaks’s invitation?",
+   "options": [
+    "One who avoids any conversation in which people might disagree",
+    "One who waits for others to soften their words before changing her own",
+    "One who spots a phrase of hers that stirs conflict and swaps it for words of peace",
+    "One who decides to say less everywhere so that nothing she says can offend"
+   ],
+   "a": 2,
+   "why": "He called it “a spiritual exercise to identify the language and expressions we need to forgo and then replace them with words and phrases that bring peace.” It is replacing, not just avoiding or waiting.",
+   "unit": "T25.04"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "talk_id": "T15",
+ "easy": [
+  {
+   "q": "What kind of aircraft did Elder Kearon learn to fly as a teenager?",
+   "options": [
+    "A helicopter",
+    "A glider",
+    "A fighter jet"
+   ],
+   "a": 1,
+   "why": "He wanted to be a fighter pilot, but he began by learning to fly a glider, a light aircraft with long wings and no engine that rides on rising air.",
+   "unit": "T15.05"
+  },
+  {
+   "q": "Glider pilots have a name for the rising air that carries them higher. What is it called?",
+   "options": [
+    "Lift",
+    "Sink",
+    "Drift"
+   ],
+   "a": 0,
+   "why": "Elder Kearon said rising air is called “lift” and sinking air is called “sink.” He used both words to teach about our spiritual lives.",
+   "unit": "T15.07"
+  },
+  {
+   "q": "Elder Kearon reminded us that the Savior reached out His hand and lifted someone who was sinking in the waves. Who was it?",
+   "options": [
+    "Ammon",
+    "Jairus",
+    "Peter"
+   ],
+   "a": 2,
+   "why": "Elder Kearon said the Savior “lifted His beloved Peter from sinking in the waves.” He also lifted the daughter of Jairus and a boy He had healed.",
+   "unit": "T15.13"
+  },
+  {
+   "q": "What did Elder Kearon say we should do when we feel spiritual sink?",
+   "options": [
+    "Wait calmly until it passes",
+    "Turn away from it decisively",
+    "Fly straight through it"
+   ],
+   "a": 1,
+   "why": "As a glider pilot he learned to turn away from sinking air right away. He said we do the same with spiritual sink: we “turn away from it decisively.”",
+   "unit": "T15.17"
+  },
+  {
+   "q": "At the end of his talk, who did Elder Kearon say is our lift, our “ever-rising air”?",
+   "options": [
+    "Our Savior, Jesus Christ",
+    "A faithful pilot",
+    "Our own hard work"
+   ],
+   "a": 0,
+   "why": "Elder Kearon closed with his main message: “Your Saviour is your lift.” Jesus Christ lives to lift each of us.",
+   "unit": "T15.32"
+  }
+ ],
+ "medium": [
+  {
+   "q": "Spiritual lift cannot be seen. According to Elder Kearon, how do we come to feel it?",
+   "options": [
+    "By waiting for a sign too dramatic to miss",
+    "By studying how other people describe it",
+    "By discerning and acting on impressions of the Holy Spirit",
+    "By trusting that feelings matter less than facts"
+   ],
+   "a": 2,
+   "why": "He taught that as we “learn to discern and act upon the sensitive impressions of the Holy Spirit,” we can feel spiritual lift as surely as he felt rising air lift a wing.",
+   "unit": "T15.15"
+  },
+  {
+   "q": "What “uncomfortable fact” about gliding did Elder Kearon apply to our spiritual lives?",
+   "options": [
+    "Height once gained is kept without further effort",
+    "If you are not actively climbing, you are descending",
+    "Sinking air is always sudden and easy to notice",
+    "A pilot who climbs alone will rise the fastest"
+   ],
+   "a": 1,
+   "why": "In gliding there is no standing still: “if you are not actively climbing in lift, you are descending,” and the descent can be so gradual we do not notice it.",
+   "unit": "T15.18"
+  },
+  {
+   "q": "Why did Elder Kearon mention Peter, the daughter of Jairus, and the boy the Savior healed?",
+   "options": [
+    "To show that the Redeemer lifts people out of despair",
+    "To show that people must first lift themselves",
+    "To show that such lifting belonged to an earlier time",
+    "To show that only a chosen few were ever lifted"
+   ],
+   "a": 0,
+   "why": "He called them accounts that show “our Redeemer lifting people from despair,” out of their figurative “sink”: Peter from the waves, the daughter of Jairus from death, and the boy He took by the hand.",
+   "unit": "T15.13"
+  },
+  {
+   "q": "Elder Kearon quoted Ammon: “I cannot say the smallest part which I feel.” What did he use these words to show?",
+   "options": [
+    "That gratitude is best kept private",
+    "That Ammon felt unworthy to speak of God",
+    "That missionary work brings great weariness",
+    "That going from sink to lift is beyond describing"
+   ],
+   "a": 3,
+   "why": "Elder Kearon said Ammon “cannot begin to describe this profound transition from devastating sink to the most glorious lift,” and that he has not met anyone who can.",
+   "unit": "T15.23"
+  },
+  {
+   "q": "Glider pilots often climb together in the same column of rising air. What spiritual opportunity did Elder Kearon connect to this picture?",
+   "options": [
+    "Measuring our progress against those around us",
+    "Waiting for others to find lift on their own",
+    "Helping others turn from sink into the lift of Jesus Christ",
+    "Rising above those who are slower to climb"
+   ],
+   "a": 2,
+   "why": "He spoke of the joy when others are “circling upward with us,” and said helping them turn from sink into the lift of Jesus Christ is “our glorious opportunity.”",
+   "unit": "T15.26"
+  }
+ ],
+ "hard": [
+  {
+   "q": "Which person is doing what Elder Kearon taught about telling spiritual lift from spiritual sink?",
+   "options": [
+    "One who waits until a choice has plainly gone wrong before judging it",
+    "One who notices which choices bring sweet, peaceful feelings and which bring dim ones",
+    "One who judges each choice by whether the people around her approve of it",
+    "One who reasons that feelings cannot be put into words, so they tell her little"
+   ],
+   "a": 1,
+   "why": "He said lift and sink are real though the Spirit’s language is not words: “Pay close attention to the sweet, peaceful feelings that come when you choose spiritual lift,” and likewise to “the dim and dampening feelings.”",
+   "unit": "T15.24"
+  },
+  {
+   "q": "Which situation best fits Elder Kearon’s warning about slipping from spiritual heights?",
+   "options": [
+    "Someone decides one day to walk away from faith",
+    "Someone meets a sudden trial yet keeps turning to God",
+    "Someone slowly lets daily communion with God lapse",
+    "Someone is new to the gospel and still learning"
+   ],
+   "a": 2,
+   "why": "He said, “We rarely intend to sink.” We slip slowly when we neglect the practices that lifted us, not seeing the quiet cost of neglecting communion with God.",
+   "unit": "T15.19"
+  },
+  {
+   "q": "Someone hears “if you are not actively climbing in lift, you are descending” and concludes that a person who has sunk is beyond help. Which teaching in the talk corrects this?",
+   "options": [
+    "Sinking air cannot be seen, though it can be felt",
+    "When we sink, the Savior is there to lift us as we turn to Him",
+    "A descent can be so gradual that we do not notice it",
+    "The language of the Spirit is not a language of words"
+   ],
+   "a": 1,
+   "why": "Only one of these answers the worry: “And when we sink, our gentle Saviour is there to lift us up as we turn to Him.” Sinking is a reason to turn to Him, not the end.",
+   "unit": "T15.27"
+  },
+  {
+   "q": "After listing what living in lift looks like, how did Elder Kearon sum it up?",
+   "options": [
+    "It is automatic once we have felt lift the first time",
+    "It is a demanding skill that few people ever master",
+    "It is mainly about keeping away from those who sink",
+    "It is not complicated: keep turning toward the Savior"
+   ],
+   "a": 3,
+   "why": "He said, “None of this is complicated; we simply need to keep turning toward the Saviour, into the source of lift,” choosing to rise into the light.",
+   "unit": "T15.30"
+  },
+  {
+   "q": "Near the end, Elder Kearon gave the word “lifted” its deepest meaning. Why, he said, did the Father send His Son to be lifted up upon the cross?",
+   "options": [
+    "That we might never again feel spiritual sink",
+    "That He might draw all of us into His loving embrace",
+    "That the world might be shown His great power",
+    "That a faithful few might be set apart from the rest"
+   ],
+   "a": 1,
+   "why": "He taught that the Father sent His Son “to be lifted up upon the cross that thereby He might draw all of us into His loving embrace.” The One lifted up is the One who lifts us.",
+   "unit": "T15.31"
+  }
+ ]
+}
