@@ -1,0 +1,128 @@
+[
+ {
+  "conference": "2026-10",
+  "label": "2026-10",
+  "talks": 37,
+  "units": 932,
+  "words": 44163,
+  "median_christ_per_1000": 16.7,
+  "themes": [
+   {
+    "id": "TH01",
+    "name": "Covenants as living, protective, generational power",
+    "talks": 18,
+    "units": 123
+   },
+   {
+    "id": "TH02",
+    "name": "Adversity reframed: purposeful, not prevented",
+    "talks": 20,
+    "units": 114
+   },
+   {
+    "id": "TH03",
+    "name": "Christ as the active agent: grace that lifts and carries",
+    "talks": 23,
+    "units": 105
+   },
+   {
+    "id": "TH04",
+    "name": "Discipleship as striving, not prior perfection",
+    "talks": 22,
+    "units": 71
+   },
+   {
+    "id": "TH05",
+    "name": "Seeing and ministering to the one",
+    "talks": 15,
+    "units": 101
+   },
+   {
+    "id": "TH06",
+    "name": "Divine identity and unearned love over labels",
+    "talks": 21,
+    "units": 75
+   },
+   {
+    "id": "TH07",
+    "name": "Truth with love: peacemaking, unity, and boundaries",
+    "talks": 15,
+    "units": 100
+   },
+   {
+    "id": "TH08",
+    "name": "Small consistent practices and guarded attention",
+    "talks": 24,
+    "units": 65
+   },
+   {
+    "id": "TH09",
+    "name": "A giving economy: sacrificial laws vs something for nothing",
+    "talks": 11,
+    "units": 89
+   },
+   {
+    "id": "TH10",
+    "name": "Witness and invitation",
+    "talks": 25,
+    "units": 155
+   }
+  ],
+  "category_share": {
+   "C26 rhetorical moves": 0.3748,
+   "C04 temple": 0.02,
+   "C14 divine identity": 0.0328,
+   "C02 covenant mechanics": 0.0167,
+   "C01 covenant keeping": 0.0333,
+   "C17 truth boundaries": 0.0278,
+   "C16 peacemaking": 0.0311,
+   "C11 drift and return": 0.0111,
+   "C24 prophets and restoration": 0.0211,
+   "C03 covenant reach": 0.0111,
+   "C10 effort over perfection": 0.0289,
+   "C21 recognizing blessings": 0.0161,
+   "C07 grief and comfort": 0.0172,
+   "C05 adversity reframed": 0.0183,
+   "C06 trust amid uncertainty": 0.0366,
+   "C15 personal divine love": 0.0211,
+   "C08 christ as agent": 0.0444,
+   "C09 receiving help": 0.0211,
+   "C23 witness": 0.0444,
+   "C18 devotional practices": 0.0316,
+   "C25 gathering": 0.0283,
+   "C20 sacrificial laws": 0.0261,
+   "C19 guarding attention": 0.0061,
+   "C22 case against gambling": 0.0155,
+   "C12 seeing the one": 0.03,
+   "C13 god works through people": 0.0344
+  },
+  "scripture_volumes": {
+   "Pearl of Great Price": 20,
+   "Old Testament": 59,
+   "Doctrine and Covenants": 90,
+   "Book of Mormon": 188,
+   "New Testament": 166
+  },
+  "leaders_mentioned": {
+   "Boyd K. Packer": 1,
+   "D. Todd Christofferson": 1,
+   "Dallin H. Oaks": 21,
+   "David A. Bednar": 1,
+   "David O. McKay": 3,
+   "Dieter F. Uchtdorf": 5,
+   "Gordon B. Hinckley": 1,
+   "Henry B. Eyring": 1,
+   "Jeffrey R. Holland": 3,
+   "Joseph Smith": 14,
+   "Marion G. Romney": 1,
+   "Neil L. Andersen": 1,
+   "Patrick Kearon": 3,
+   "Russell M. Nelson": 7,
+   "Spencer W. Kimball": 4,
+   "Tamara W. Runia": 2,
+   "Thomas S. Monson": 3,
+   "Ulisses Soares": 1
+  },
+  "new_codes": 0
+ }
+]

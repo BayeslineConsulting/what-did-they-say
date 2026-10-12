@@ -1,0 +1,1377 @@
+{
+ "version": "2026-10",
+ "codes": {
+  "HON": {
+   "code": "honoring covenants",
+   "method": "initial",
+   "definition": "Speaker urges or describes keeping covenants already made as the condition for blessing or protection.",
+   "include": "Keeping, being true to, clinging to, or renewing covenants; baptism as covenant entry.",
+   "exclude": "Explanation of how a covenant is ratified (-> holy spirit of promise); ancestral covenants (-> generational covenant reach).",
+   "category": "C01 covenant keeping",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NAM": {
+   "code": "taking christ's name",
+   "method": "initial",
+   "definition": "Covenant to take upon oneself the name of Christ, framed as becoming rather than labeling.",
+   "include": "Name-of-Christ language tied to identity or service.",
+   "exclude": "Generic discipleship without the name motif.",
+   "category": "C01 covenant keeping",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SAC": {
+   "code": "sacrament renewal",
+   "method": "initial",
+   "definition": "The weekly sacrament as covenant renewal, protection, or reset.",
+   "include": "Any substantive treatment of the sacrament ordinance.",
+   "exclude": "Passing mention of Sunday attendance.",
+   "category": "C01 covenant keeping",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "HSP": {
+   "code": "holy spirit of promise",
+   "method": "initial",
+   "definition": "The Holy Ghost ratifying ordinances and covenants as binding.",
+   "include": "Explicit Holy Spirit of Promise doctrine.",
+   "exclude": "Holy Ghost as comforter or guide (-> comfort of holy ghost / discerning the spirit).",
+   "category": "C02 covenant mechanics",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CRD": {
+   "code": "ordinances as credentials",
+   "method": "initial",
+   "definition": "Ordinances and covenants framed as required credentials whose validity depends on ongoing faithfulness.",
+   "include": "Credential, passport, or validity framing.",
+   "exclude": "Ratification by the Spirit (-> holy spirit of promise).",
+   "category": "C02 covenant mechanics",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "MAR": {
+   "code": "covenant marriage",
+   "method": "initial",
+   "definition": "Eternal marriage and sealing as covenant commitment.",
+   "include": "Temple marriage, sealing, lateral/vertical sealing.",
+   "exclude": "Family as a teaching pattern (-> family as divine pattern).",
+   "category": "C02 covenant mechanics",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GEN": {
+   "code": "generational covenant reach",
+   "method": "initial",
+   "definition": "Covenants made by earlier generations continue to act on posterity, or a person's faith becomes a legacy for descendants.",
+   "include": "Ancestors' covenants reaching descendants; faith legacy across generations.",
+   "exclude": "Family history research as an activity (-> family history work).",
+   "category": "C03 covenant reach",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FHW": {
+   "code": "family history work",
+   "method": "initial",
+   "definition": "Gathering names and performing ordinances for deceased family.",
+   "include": "Genealogy, temple work for ancestors.",
+   "exclude": "Ancestral faith stories without ordinance work (-> generational covenant reach).",
+   "category": "C03 covenant reach",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FND": {
+   "code": "faithful not deprived",
+   "method": "initial",
+   "definition": "Assurance that another person's choices cannot strip a faithful covenant keeper of promised blessings.",
+   "include": "Explicit no-loss assurance for the faithful party.",
+   "exclude": "General hope for wayward loved ones (-> loving the wayward).",
+   "category": "C03 covenant reach",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TMP": {
+   "code": "temple worship",
+   "method": "initial",
+   "definition": "Temple attendance, service, dedication, or culture as worship.",
+   "include": "Temple as place, practice, or announcement.",
+   "exclude": "Temple as a priority test in scripture (-> temple as priority).",
+   "category": "C04 temple",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TPR": {
+   "code": "temple as priority",
+   "method": "initial",
+   "definition": "Neglect or prioritization of the Lord's house as the hinge of blessing (Haggai pattern).",
+   "include": "Priority framing of the temple.",
+   "exclude": "Ordinary temple attendance counsel (-> temple worship).",
+   "category": "C04 temple",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "AGR": {
+   "code": "adversity as growth",
+   "method": "process",
+   "definition": "Trials framed as refining, shaping, or purposeful for the sufferer.",
+   "include": "Suffering that 'gives purpose', 'for thy good', sculpting.",
+   "exclude": "Statements that trials will come without purpose framing (-> trials not removed).",
+   "category": "C05 adversity reframed",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TNR": {
+   "code": "trials not removed",
+   "method": "initial",
+   "definition": "Explicit correction of the expectation that faithfulness prevents hardship.",
+   "include": "Umbrella vs rock; promises are not removal of challenges; obedience does not exempt from trial.",
+   "exclude": "Purpose of trial (-> adversity as growth).",
+   "category": "C05 adversity reframed",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TST": {
+   "code": "life as a test",
+   "method": "initial",
+   "definition": "Mortality designed as a test of faith or obedience.",
+   "include": "Explicit test framing; catalogues of mortal trials.",
+   "exclude": "Purposive refinement language (-> adversity as growth).",
+   "category": "C05 adversity reframed",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "WHY": {
+   "code": "reframing why questions",
+   "method": "process",
+   "definition": "Speaker models replacing 'why me' with a purpose- or learning-oriented question.",
+   "include": "'Why' to 'what is supposed to be happening' or 'what can I learn'.",
+   "exclude": "Normalizing the asking of questions (-> questions are not sin).",
+   "category": "C05 adversity reframed",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TWU": {
+   "code": "trusting without understanding",
+   "method": "process",
+   "definition": "Holding belief while explicitly lacking explanation.",
+   "include": "'Not understanding is not the same as not believing'; 'I do not know the meaning of all things'.",
+   "exclude": "Trust in specific promises (-> trusting god's promises).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TGP": {
+   "code": "trusting god's promises",
+   "method": "process",
+   "definition": "Invitation or modeling of reliance on God's promises.",
+   "include": "Promises as reliable; standing on the promises.",
+   "exclude": "Promise extended by the speaker (-> apostolic promise).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DGT": {
+   "code": "deliverance in god's time",
+   "method": "initial",
+   "definition": "Help arrives in the Lord's own time and way, sometimes delayed or postponed to the resurrection.",
+   "include": "Timing and manner of deliverance; waiting upon the Lord.",
+   "exclude": "Christ as deliverer without timing (-> christ as deliverer).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "QNS": {
+   "code": "questions are not sin",
+   "method": "initial",
+   "definition": "Normalizing heartrending questions and emotions in trial.",
+   "include": "Explicit statement that questions or emotions are not weakness.",
+   "exclude": "Doubt about doctrine (-> navigating doubt).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "HND": {
+   "code": "hindsight reveals god's hand",
+   "method": "initial",
+   "definition": "God's purposes become visible later or in eternity.",
+   "include": "Looking back from the mountains; 'someday we will realize'.",
+   "exclude": "Present comfort (-> comfort of holy ghost).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PWO": {
+   "code": "peace without desired outcome",
+   "method": "initial",
+   "definition": "Peace promised even when the hoped-for result does not come.",
+   "include": "Explicit decoupling of peace from outcome.",
+   "exclude": "Peace through deliverance (-> deliverance in god's time).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "REM": {
+   "code": "remembering god's goodness",
+   "method": "process",
+   "definition": "Recalling past mercies as the basis for present trust.",
+   "include": "Remembrance of miracles, 'cold oatmeal' forgetting.",
+   "exclude": "Gratitude as virtue (-> gratitude over entitlement).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DBT": {
+   "code": "navigating doubt",
+   "method": "process",
+   "definition": "Addressing uncertainty or weakened testimony with counsel to persist.",
+   "include": "Doubt, uncertain testimony, diminishing faith counsel.",
+   "exclude": "Grief questions (-> questions are not sin).",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SCI": {
+   "code": "two ways of knowing",
+   "method": "initial",
+   "definition": "Scientific and spiritual methods of knowledge framed as ultimately non-conflicting.",
+   "include": "Science/religion reconciliation; secular learning vs spiritual horizon.",
+   "exclude": "Generic study counsel.",
+   "category": "C06 trust amid uncertainty",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "LOS": {
+   "code": "personal loss narrative",
+   "method": "initial",
+   "definition": "Story of death, loss, or catastrophic trial told by or about a named person.",
+   "include": "Death of child or parent, loss of baby, disaster.",
+   "exclude": "Non-loss personal anecdote (-> personal narrative).",
+   "category": "C07 grief and comfort",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CFX": {
+   "code": "\"i can't fix this\"",
+   "method": "in vivo",
+   "definition": "The limit-of-control moment named in the speaker's own words.",
+   "include": "Explicit 'I can't fix this' or equivalent.",
+   "exclude": "General self-reliance limits (-> limits of self-reliance).",
+   "category": "C07 grief and comfort",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "RES": {
+   "code": "resurrection perspective",
+   "method": "initial",
+   "definition": "Literal resurrection reframing death and mortal limitation.",
+   "include": "Resurrection as perspective-giver.",
+   "exclude": "Spirit world and plan (-> plan of salvation).",
+   "category": "C07 grief and comfort",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CMF": {
+   "code": "comfort of holy ghost",
+   "method": "initial",
+   "definition": "Holy Ghost as Comforter in loss.",
+   "include": "Comforter language; priesthood blessing of peace.",
+   "exclude": "Holy Ghost as guide or feeling to follow (-> discerning the spirit).",
+   "category": "C07 grief and comfort",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CRB": {
+   "code": "christ carries burdens",
+   "method": "initial",
+   "definition": "Christ bears griefs, sorrows, sins, or loads on our behalf.",
+   "include": "Carrying, yoke, bearing griefs, 'I've got this'.",
+   "exclude": "Lifting upward (-> christ lifts).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "LFT": {
+   "code": "christ lifts",
+   "method": "initial",
+   "definition": "Christ raises people out of despair or sin; light that rescues.",
+   "include": "Lift, raise up, light in darkness.",
+   "exclude": "Carrying (-> christ carries burdens).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CCS": {
+   "code": "christ comprehends suffering",
+   "method": "initial",
+   "definition": "Christ knows our pains by experience and therefore can succor.",
+   "include": "Succor, 'knows how we feel', descended below all.",
+   "exclude": "Christ acting to rescue (-> christ as deliverer).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DEL": {
+   "code": "christ as deliverer",
+   "method": "initial",
+   "definition": "Christ delivers from affliction, death, and hell.",
+   "include": "Deliverance language, impossible made possible.",
+   "exclude": "Timing of deliverance (-> deliverance in god's time).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "RCR": {
+   "code": "redeemed by christ's righteousness",
+   "method": "initial",
+   "definition": "Redemption rests on Christ's merit, not our own.",
+   "include": "Explicit contrast of our righteousness and His.",
+   "exclude": "Grace as enabling power (-> enabling grace).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GRC": {
+   "code": "enabling grace",
+   "method": "initial",
+   "definition": "Grace as divine strength that enables endurance and growth beyond our own capacity.",
+   "include": "Enabling power, strength beyond own, lengthening stride.",
+   "exclude": "Forgiveness-focused atonement statements (-> atonement and resurrection).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "ATN": {
+   "code": "atonement and resurrection",
+   "method": "initial",
+   "definition": "Doctrinal witness of the Atonement and Resurrection as facts.",
+   "include": "Gethsemane, cross, empty tomb as declared truth.",
+   "exclude": "Experiential grace (-> enabling grace).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CHA": {
+   "code": "christ is the answer",
+   "method": "in vivo",
+   "definition": "Christ named as the single answer to varied problems.",
+   "include": "'The answer is always Jesus Christ' and close variants.",
+   "exclude": "General testimony (-> closing testimony).",
+   "category": "C08 christ as agent",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "IDH": {
+   "code": "inviting divine help",
+   "method": "process",
+   "definition": "Choosing to ask, invite, or surrender to divine intervention.",
+   "include": "Asking for help, turning despair over to Christ.",
+   "exclude": "Turning direction of life (-> turning toward god).",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRD": {
+   "code": "pride resisting help",
+   "method": "initial",
+   "definition": "Pride or self-sufficiency blocking help.",
+   "include": "'I didn't want help'; pride gets in the way.",
+   "exclude": "Self-reliance as cultural training (-> limits of self-reliance).",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SRL": {
+   "code": "limits of self-reliance",
+   "method": "initial",
+   "definition": "Recognition that self-reliance eventually fails.",
+   "include": "Burdens we cannot carry ourselves.",
+   "exclude": "Specific 'I can't fix this' (-> \"i can't fix this\").",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "WMS": {
+   "code": "weakness made strong",
+   "method": "initial",
+   "definition": "Inadequacy as the condition God works through.",
+   "include": "Weak and simple, 'do I have the right person', Ether 12:27.",
+   "exclude": "Identity labels (-> labels vs eternal identity).",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TRN": {
+   "code": "turning toward god",
+   "method": "process",
+   "definition": "Agency exercised to turn toward rather than away from God in trial.",
+   "include": "Turn to Him, choose Christ, any time we turn.",
+   "exclude": "Request for help (-> inviting divine help).",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TCH": {
+   "code": "humility as teachableness",
+   "method": "initial",
+   "definition": "Humility defined as receptivity, a broken heart, or teachableness.",
+   "include": "Humility, broken heart, receptive to God's will.",
+   "exclude": "Pride as obstacle (-> pride resisting help).",
+   "category": "C09 receiving help",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "BST": {
+   "code": "doing one's best",
+   "method": "in vivo",
+   "definition": "Effort, not perfection, is what is asked; daily trying.",
+   "include": "'Do the very best he can', 'daily trying', 'every step matters'.",
+   "exclude": "Perseverance against quitting (-> never give up).",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CAY": {
+   "code": "come as you are",
+   "method": "initial",
+   "definition": "One comes to Christ to be perfected, not after; unworthiness is the adversary's sign.",
+   "include": "Perfection is pending; trespassers sign removed.",
+   "exclude": "Repentance as daily practice (-> repenting).",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "WIP": {
+   "code": "work in progress",
+   "method": "in vivo",
+   "definition": "Patience with self and others as all are mid-path.",
+   "include": "'We are all a work in progress'.",
+   "exclude": "",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NGU": {
+   "code": "never give up",
+   "method": "in vivo",
+   "definition": "Explicit exhortation not to quit.",
+   "include": "'Don't ever give up', 'we fail only when we give up'.",
+   "exclude": "Doing one's best without quitting frame (-> doing one's best).",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "LLD": {
+   "code": "lifelong discipleship",
+   "method": "initial",
+   "definition": "Discipleship as a long arc beyond single milestones.",
+   "include": "Lifelong, gradual exponential growth.",
+   "exclude": "",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CRG": {
+   "code": "spiritual courage",
+   "method": "initial",
+   "definition": "Courage born of faith to act rightly under pressure.",
+   "include": "Courage language tied to choices.",
+   "exclude": "",
+   "category": "C10 effort over perfection",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DRF": {
+   "code": "gradual spiritual drift",
+   "method": "initial",
+   "definition": "Imperceptible decline through neglect of practices.",
+   "include": "Sink, slipping, diminishing faith.",
+   "exclude": "Return after drift (-> never too late).",
+   "category": "C11 drift and return",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NTL": {
+   "code": "never too late",
+   "method": "initial",
+   "definition": "Return is always possible; no one beyond reach.",
+   "include": "Prodigal, always a way back, today a new day.",
+   "exclude": "",
+   "category": "C11 drift and return",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "RPT": {
+   "code": "repenting",
+   "method": "process",
+   "definition": "Invitation to repent or description of repentance, including daily repentance.",
+   "include": "Repentance as practice or event.",
+   "exclude": "",
+   "category": "C11 drift and return",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SEE": {
+   "code": "seeing the individual",
+   "method": "process",
+   "definition": "Truly noticing a person, especially one others overlook.",
+   "include": "'I see you', eyes to see, seeing past labels.",
+   "exclude": "Scheduled ministering (-> ministering with compassion).",
+   "category": "C12 seeing the one",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "APT": {
+   "code": "divine appointments",
+   "method": "in vivo",
+   "definition": "Ordinary encounters reframed as God-arranged opportunities.",
+   "include": "'Divine appointments'.",
+   "exclude": "",
+   "category": "C12 seeing the one",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NME": {
+   "code": "learning names",
+   "method": "process",
+   "definition": "Knowing someone's name as an act of recognition.",
+   "include": "Name learning invitations and stories.",
+   "exclude": "Name of Christ (-> taking christ's name).",
+   "category": "C12 seeing the one",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "QHS": {
+   "code": "quick to help slow to judge",
+   "method": "in vivo",
+   "definition": "Help offered without judgment of the person's history.",
+   "include": "'Quick to help and slow to judge'; look to their possible.",
+   "exclude": "",
+   "category": "C12 seeing the one",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TAP": {
+   "code": "god works through people",
+   "method": "initial",
+   "definition": "God fulfills His promises to succor primarily through other people.",
+   "include": "Kimball 'through another person', disciples help Him keep promises, earthly 'Teds'.",
+   "exclude": "Human ministering without divine-agency framing (-> ministering with compassion).",
+   "category": "C13 god works through people",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "MIN": {
+   "code": "ministering with compassion",
+   "method": "process",
+   "definition": "Acts of compassionate care toward others.",
+   "include": "Service, kindness, compassion in action.",
+   "exclude": "",
+   "category": "C13 god works through people",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "MRN": {
+   "code": "mourning with mourners",
+   "method": "initial",
+   "definition": "Shared grief as ministry.",
+   "include": "Mourn with those that mourn.",
+   "exclude": "",
+   "category": "C13 god works through people",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SVC": {
+   "code": "service transforms the server",
+   "method": "initial",
+   "definition": "Serving others changes the one who serves.",
+   "include": "'Time did not change, the missionaries did'.",
+   "exclude": "",
+   "category": "C13 god works through people",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "WAY": {
+   "code": "loving the wayward",
+   "method": "process",
+   "definition": "Responding to loved ones who left with love, prayer, and patience rather than pressure.",
+   "include": "Wayward children/friends, guilt, parental grief.",
+   "exclude": "Doctrine that faithful are not deprived (-> faithful not deprived).",
+   "category": "C13 god works through people",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "COG": {
+   "code": "child of god identity",
+   "method": "initial",
+   "definition": "Eternal identity as a child of heavenly parents.",
+   "include": "Child of God statements.",
+   "exclude": "",
+   "category": "C14 divine identity",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "POT": {
+   "code": "divine potential",
+   "method": "initial",
+   "definition": "Who one can become; a work to do.",
+   "include": "Potential, destiny, gifts.",
+   "exclude": "",
+   "category": "C14 divine identity",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "LBL": {
+   "code": "labels vs eternal identity",
+   "method": "initial",
+   "definition": "Worldly labels contrasted with eternal identity.",
+   "include": "Labels, identifiers.",
+   "exclude": "",
+   "category": "C14 divine identity",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FAM": {
+   "code": "family as divine pattern",
+   "method": "initial",
+   "definition": "Family as the pattern through which God's love is taught.",
+   "include": "Family as divine pattern.",
+   "exclude": "Sealing ordinance (-> covenant marriage).",
+   "category": "C14 divine identity",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PLN": {
+   "code": "plan of salvation",
+   "method": "initial",
+   "definition": "God's plan of happiness as frame for mortality.",
+   "include": "Plan of happiness, premortal, spirit world.",
+   "exclude": "",
+   "category": "C14 divine identity",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "UNL": {
+   "code": "unearned divine love",
+   "method": "initial",
+   "definition": "God's love cannot be earned or lost; relentless pursuit.",
+   "include": "Unconditional love, beholding him loved him.",
+   "exclude": "Love that is not license (-> warning against deception).",
+   "category": "C15 personal divine love",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "AST": {
+   "code": "\"no asterisk\"",
+   "method": "in vivo",
+   "definition": "Promises apply to me too; no personal exception.",
+   "include": "'There is no asterisk excluding you'.",
+   "exclude": "",
+   "category": "C15 personal divine love",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GKY": {
+   "code": "god knows you personally",
+   "method": "initial",
+   "definition": "God knows the individual's location, name, story.",
+   "include": "'He has your exact location', knows your story.",
+   "exclude": "",
+   "category": "C15 personal divine love",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PCL": {
+   "code": "peacemaker language",
+   "method": "process",
+   "definition": "Choosing words that build peace; forgoing contention in speech.",
+   "include": "Language of peacemakers, phrase lists.",
+   "exclude": "",
+   "category": "C16 peacemaking",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CTN": {
+   "code": "rejecting contention",
+   "method": "initial",
+   "definition": "Contention identified as not of Christ; avoiding contentious settings.",
+   "include": "Spirit of contention, arguments.",
+   "exclude": "",
+   "category": "C16 peacemaking",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "UNI": {
+   "code": "unity in christ",
+   "method": "initial",
+   "definition": "Unity across divisions as the fruit of coming to Christ.",
+   "include": "One in Christ, bridges not walls.",
+   "exclude": "",
+   "category": "C16 peacemaking",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "COA": {
+   "code": "coarse discourse critique",
+   "method": "initial",
+   "definition": "Critique of crude, bullying public and online discourse.",
+   "include": "Coarse, crude, online bullying.",
+   "exclude": "Device harms generally (-> digital technology risks).",
+   "category": "C16 peacemaking",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FRG": {
+   "code": "forgiving others",
+   "method": "process",
+   "definition": "Forgiving people who have wronged us.",
+   "include": "Forgiveness of others.",
+   "exclude": "Being forgiven by God (-> repenting).",
+   "category": "C16 peacemaking",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TWL": {
+   "code": "truth with love",
+   "method": "in vivo",
+   "definition": "Holding truth and love together in engagement with others.",
+   "include": "'Stand for truth with love'.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "LNC": {
+   "code": "love not condoning",
+   "method": "initial",
+   "definition": "Love does not exempt from commandments or sanction choices.",
+   "include": "Love is not sanctioning; forgive vs condone.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DEC": {
+   "code": "warning against deception",
+   "method": "initial",
+   "definition": "Naming adversarial lies (love as license, unworthiness, division, low self-worth).",
+   "include": "Explicit 'lie', 'deceive', 'Satan wants'.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CND": {
+   "code": "conditions of salvation",
+   "method": "initial",
+   "definition": "Grace or salvation tied to stated conditions.",
+   "include": "Comply with conditions; covenants as only way.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "AGY": {
+   "code": "moral agency",
+   "method": "initial",
+   "definition": "Agency as each person's right and responsibility to choose.",
+   "include": "Agency, choose for themselves.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "INT": {
+   "code": "integrity and virtue",
+   "method": "initial",
+   "definition": "Integrity and virtue as foundations of happiness.",
+   "include": "Integrity, virtue, doing not only saying.",
+   "exclude": "",
+   "category": "C17 truth boundaries",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SSP": {
+   "code": "small and simple practices",
+   "method": "in vivo",
+   "definition": "Ordinary practices as the source of great outcomes.",
+   "include": "'Small and simple things'.",
+   "exclude": "",
+   "category": "C18 devotional practices",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SCS": {
+   "code": "scripture study",
+   "method": "process",
+   "definition": "Scripture study counsel or story.",
+   "include": "",
+   "exclude": "Book of Mormon as unique witness (-> book of mormon power).",
+   "category": "C18 devotional practices",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRY": {
+   "code": "prayer",
+   "method": "process",
+   "definition": "Prayer as practice or turning point.",
+   "include": "",
+   "exclude": "Fasting with prayer (-> law of the fast).",
+   "category": "C18 devotional practices",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CON": {
+   "code": "consistency over method",
+   "method": "initial",
+   "definition": "Consistency and sincerity matter more than technique.",
+   "include": "",
+   "exclude": "",
+   "category": "C18 devotional practices",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SPR": {
+   "code": "discerning the spirit",
+   "method": "process",
+   "definition": "Attending to the Holy Ghost's influence as guidance.",
+   "include": "Feel lift, constant companionship as priority.",
+   "exclude": "Comfort in grief (-> comfort of holy ghost).",
+   "category": "C18 devotional practices",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "STL": {
+   "code": "guarding attention and rest",
+   "method": "process",
+   "definition": "Protecting stillness, sleep, and undistracted attention.",
+   "include": "Stillness, sleep, alone with thoughts.",
+   "exclude": "",
+   "category": "C19 guarding attention",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DIG": {
+   "code": "digital technology risks",
+   "method": "initial",
+   "definition": "Smartphones, social media, online platforms as spiritual or social risks.",
+   "include": "Phones, social media, artificial information, mobile gambling.",
+   "exclude": "",
+   "category": "C19 guarding attention",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRI": {
+   "code": "prioritizing the spiritual",
+   "method": "process",
+   "definition": "Not letting good or lesser things crowd out the essential.",
+   "include": "Avoid distraction; act well thy part; good things crowd out.",
+   "exclude": "",
+   "category": "C19 guarding attention",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TTH": {
+   "code": "law of tithing",
+   "method": "initial",
+   "definition": "Tithing as commandment, test, or source of blessing.",
+   "include": "",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FST": {
+   "code": "law of the fast",
+   "method": "initial",
+   "definition": "Fasting as worship and devotion.",
+   "include": "",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "POR": {
+   "code": "caring for the poor",
+   "method": "initial",
+   "definition": "Fast offerings and relief of the poor.",
+   "include": "",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "CNS": {
+   "code": "consecration",
+   "method": "initial",
+   "definition": "Giving self and means wholly to God's kingdom.",
+   "include": "Consecration, law of sacrifice.",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NOX": {
+   "code": "no exceptions to commandments",
+   "method": "in vivo",
+   "definition": "The law applies even to the poorest.",
+   "include": "'There are no exceptions'.",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "ALN": {
+   "code": "aligning with god's will",
+   "method": "process",
+   "definition": "Aligning desires, priorities, or ways with God's will.",
+   "include": "Consider your ways; align desires.",
+   "exclude": "",
+   "category": "C20 sacrificial laws",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SUB": {
+   "code": "subtle blessings",
+   "method": "initial",
+   "definition": "Blessings that are real but easily overlooked.",
+   "include": "Significant but subtle blessings; lists of blessings.",
+   "exclude": "",
+   "category": "C21 recognizing blessings",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRE": {
+   "code": "blessings predicated on obedience",
+   "method": "initial",
+   "definition": "Blessings follow obedience to the law on which they are predicated.",
+   "include": "D&C 130 framing.",
+   "exclude": "",
+   "category": "C21 recognizing blessings",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "OLV": {
+   "code": "obedience from love",
+   "method": "initial",
+   "definition": "Keep commandments because we love God, not only for reward.",
+   "include": "",
+   "exclude": "",
+   "category": "C21 recognizing blessings",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GRT": {
+   "code": "gratitude over entitlement",
+   "method": "initial",
+   "definition": "Gratitude as a corrective to entitlement and a way to see blessings.",
+   "include": "",
+   "exclude": "",
+   "category": "C21 recognizing blessings",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GMB": {
+   "code": "gambling warning",
+   "method": "initial",
+   "definition": "Gambling named as harmful and morally wrong.",
+   "include": "",
+   "exclude": "",
+   "category": "C22 case against gambling",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "OPP": {
+   "code": "opportunity cost",
+   "method": "initial",
+   "definition": "Choices evaluated by what they displace.",
+   "include": "'Where will this lead?'",
+   "exclude": "",
+   "category": "C22 case against gambling",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "STW": {
+   "code": "stewardship of resources",
+   "method": "initial",
+   "definition": "Resources as stewardships to be used productively.",
+   "include": "Work vs idle pursuits; giving vs taking path.",
+   "exclude": "",
+   "category": "C22 case against gambling",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "EXM": {
+   "code": "example to others",
+   "method": "initial",
+   "definition": "Concern for how one's example affects weaker others.",
+   "include": "",
+   "exclude": "",
+   "category": "C22 case against gambling",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TSM": {
+   "code": "bearing testimony",
+   "method": "process",
+   "definition": "Bearing, sharing, or nurturing personal testimony.",
+   "include": "",
+   "exclude": "Formal closing testimony (-> closing testimony).",
+   "category": "C23 witness",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "APW": {
+   "code": "apostolic witness",
+   "method": "initial",
+   "definition": "Special witness of apostles as foundation.",
+   "include": "",
+   "exclude": "",
+   "category": "C23 witness",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "BOM": {
+   "code": "book of mormon power",
+   "method": "initial",
+   "definition": "Book of Mormon as converting or universal witness.",
+   "include": "",
+   "exclude": "",
+   "category": "C23 witness",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TLV": {
+   "code": "teaching through love",
+   "method": "in vivo",
+   "definition": "Gospel teaching rooted in love for learners and the Master.",
+   "include": "'To teach like the Savior, we must love like the Savior'.",
+   "exclude": "",
+   "category": "C23 witness",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRO": {
+   "code": "living prophets valued",
+   "method": "initial",
+   "definition": "Prophets and keys valued; not taken lightly.",
+   "include": "",
+   "exclude": "Following a specific prophetic invitation (-> following prophetic counsel).",
+   "category": "C24 prophets and restoration",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "RST": {
+   "code": "restoration narrative",
+   "method": "initial",
+   "definition": "First Vision and restoration of keys and truths.",
+   "include": "",
+   "exclude": "",
+   "category": "C24 prophets and restoration",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "FPC": {
+   "code": "following prophetic counsel",
+   "method": "process",
+   "definition": "Acting on a specific invitation from the living prophet.",
+   "include": "",
+   "exclude": "",
+   "category": "C24 prophets and restoration",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "DOC": {
+   "code": "core doctrine declaration",
+   "method": "initial",
+   "definition": "Formal declaration of the Godhead and the Church's identity.",
+   "include": "",
+   "exclude": "",
+   "category": "C24 prophets and restoration",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "MSN": {
+   "code": "missionary service",
+   "method": "initial",
+   "definition": "Full-time missionary service and missionaries.",
+   "include": "",
+   "exclude": "",
+   "category": "C25 gathering",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "ICH": {
+   "code": "inviting others to christ",
+   "method": "process",
+   "definition": "Inviting others to come unto Christ.",
+   "include": "Love, share, invite; find one person.",
+   "exclude": "",
+   "category": "C25 gathering",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "UNV": {
+   "code": "universal reach of grace",
+   "method": "initial",
+   "definition": "God's grace and invitation extend to all people everywhere.",
+   "include": "",
+   "exclude": "",
+   "category": "C25 gathering",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "GRW": {
+   "code": "church growth evidence",
+   "method": "initial",
+   "definition": "Reports of record growth or worldwide hunger.",
+   "include": "",
+   "exclude": "",
+   "category": "C25 gathering",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "HUM": {
+   "code": "humor as rapport",
+   "method": "process",
+   "definition": "Speaker uses humor.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "ANA": {
+   "code": "extended analogy",
+   "method": "process",
+   "definition": "A sustained secular analogy carries the doctrine.",
+   "include": "Cold oatmeal, gliding, passport, buttons, ultramarathon, immunity, GPS.",
+   "exclude": "Scriptural story (-> scriptural exemplar).",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "NAR": {
+   "code": "personal narrative",
+   "method": "process",
+   "definition": "First-hand or family story.",
+   "include": "",
+   "exclude": "Loss stories (-> personal loss narrative).",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "SCR": {
+   "code": "scriptural exemplar",
+   "method": "process",
+   "definition": "Scripture story or text used as model.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "QLD": {
+   "code": "quoting church leaders",
+   "method": "process",
+   "definition": "Quotes or attributes teaching to a named Church leader.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "INV": {
+   "code": "explicit invitation",
+   "method": "process",
+   "definition": "Speaker issues a direct invitation to act.",
+   "include": "'I invite you', 'please', 'let us'.",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "PRM": {
+   "code": "apostolic promise",
+   "method": "process",
+   "definition": "Speaker extends a promise of blessing.",
+   "include": "'I promise'.",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "TES": {
+   "code": "closing testimony",
+   "method": "process",
+   "definition": "Formal witness and close.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "QST": {
+   "code": "reflective question",
+   "method": "process",
+   "definition": "Question posed for listener self-reflection.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "EMP": {
+   "code": "empirical evidence",
+   "method": "process",
+   "definition": "Survey statistics or market data cited.",
+   "include": "",
+   "exclude": "",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  },
+  "XRF": {
+   "code": "cross-talk reference",
+   "method": "process",
+   "definition": "Explicit reference to another talk given this same conference weekend.",
+   "include": "",
+   "exclude": "Quotes of earlier conferences (-> quoting church leaders).",
+   "category": "C26 rhetorical moves",
+   "added_run": "2026-10",
+   "last_seen_run": "2026-10"
+  }
+ },
+ "categories": {
+  "C01 covenant keeping": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "No adoption construct names a two-party binding promise renewed over time."
+  },
+  "C02 covenant mechanics": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Doctrinal mechanics (ratification, validity) have no analogue in the dictionary."
+  },
+  "C03 covenant reach": {
+   "theory_construct": "novel - candidate contribution",
+   "theory_source": "",
+   "justification": "Intergenerational effects of a commitment on non-parties are absent from UTAUT, Theory of Trying, and Effective Use."
+  },
+  "C04 temple": {
+   "theory_construct": "Facilitating conditions (UTAUT)",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "'As temples come closer... we can come to the temple more often' (T01.15): infrastructure enabling use."
+  },
+  "C05 adversity reframed": {
+   "theory_construct": "Attitude toward process (Theory of Trying)",
+   "theory_source": "Bagozzi, Davis & Warshaw (1992)",
+   "justification": "Affect about the striving itself: 'the only way to get it is to go through it' (T02.04)."
+  },
+  "C06 trust amid uncertainty": {
+   "theory_construct": "novel (partial: attitude toward success)",
+   "theory_source": "Bagozzi, Davis & Warshaw (1992)",
+   "justification": "Trust under non-explanation exceeds anticipated-success affect; flagged as a partial fit."
+  },
+  "C07 grief and comfort": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Bereavement and comfort fall outside all three frameworks."
+  },
+  "C08 christ as agent": {
+   "theory_construct": "Facilitating conditions (UTAUT), analogical",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Belief that support exists for the attempt; cross-context transfer, flagged as analogy."
+  },
+  "C09 receiving help": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Pride as a barrier to help-seeking is not named in the dictionary."
+  },
+  "C10 effort over perfection": {
+   "theory_construct": "Trying; reducing attitude toward failure (Theory of Trying)",
+   "theory_source": "Bagozzi, Davis & Warshaw (1992)",
+   "justification": "Goal framed as trying; 'We fail only when we give up' (T18.21) relocates failure from outcome to quitting."
+  },
+  "C11 drift and return": {
+   "theory_construct": "Habit (UTAUT2), partial",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Automaticity decays through neglect: 'We rarely intend to sink' (T15.17)."
+  },
+  "C12 seeing the one": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Noticing the individual is a helper-side behavior with no dictionary construct."
+  },
+  "C13 god works through people": {
+   "theory_construct": "novel - candidate contribution",
+   "theory_source": "",
+   "justification": "Mediated divine agency: promised help delivered through third parties; two speakers independently cite the same Kimball line."
+  },
+  "C14 divine identity": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Identity claims are outside adoption theory."
+  },
+  "C15 personal divine love": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Unearned love is not modeled in the dictionary."
+  },
+  "C16 peacemaking": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Speech norms and unity have no adoption construct."
+  },
+  "C17 truth boundaries": {
+   "theory_construct": "novel",
+   "theory_source": "",
+   "justification": "Balancing truth and love is outside the dictionary."
+  },
+  "C18 devotional practices": {
+   "theory_construct": "Learning actions; effective vs mere use (Effective Use)",
+   "theory_source": "Burton-Jones & Grange",
+   "justification": "'Consistency and sincerity' over method (T32.13); adding vs taking Christ's name (T22.05) parallels use vs effective use."
+  },
+  "C19 guarding attention": {
+   "theory_construct": "Transparent interaction (Effective Use), analogical",
+   "theory_source": "Burton-Jones & Grange",
+   "justification": "Phones and noise impede access to what matters; stillness restores it (T21.09)."
+  },
+  "C20 sacrificial laws": {
+   "theory_construct": "Price value (UTAUT2)",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Explicit cost-benefit trade-off: the widow's objection 'made sense from a worldly perspective' (T12.04)."
+  },
+  "C21 recognizing blessings": {
+   "theory_construct": "Performance expectancy (UTAUT)",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Recalibrating expected gains toward 'significant but subtle' blessings (T30.07)."
+  },
+  "C22 case against gambling": {
+   "theory_construct": "Price value + hedonic motivation (UTAUT2)",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Speaker counters hedonic appeal ('even for fun') with opportunity cost."
+  },
+  "C23 witness": {
+   "theory_construct": "Social influence (UTAUT)",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Others' testimony as a driver of belief adoption."
+  },
+  "C24 prophets and restoration": {
+   "theory_construct": "Social influence (UTAUT), partial",
+   "theory_source": "Venkatesh, Thong & Xu (2016)",
+   "justification": "Authority source rather than peers; partial fit."
+  },
+  "C25 gathering": {
+   "theory_construct": "novel (partial: social influence)",
+   "theory_source": "",
+   "justification": "Invitation and universal reach extend beyond peer influence."
+  },
+  "C26 rhetorical moves": {
+   "theory_construct": "Speaker-side moves (seller-side analogue)",
+   "theory_source": "Theory dictionary section B",
+   "justification": "Promises and invitations parallel 'reducing anticipated failure' and eliciting intention to try."
+  }
+ }
+}

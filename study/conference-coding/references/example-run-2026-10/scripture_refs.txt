@@ -1,0 +1,37 @@
+T01|Job 38:7;D&C 76;D&C 132:7
+T02|D&C 122:7;1 Nephi 11:16-17;Helaman 5:12;1 John 3:2
+T03|D&C 68:6;Acts 1:8;Mosiah 18:9;D&C 1:23;D&C 100:8;Alma 36:17
+T04|Amos 8:11-12;Amos 3:7;Acts 20:29;D&C 90:5;Joseph Smith—History 1:17;D&C 1:38
+T05|Alma 7:11-12;D&C 122:8;D&C 121:1;Alma 56;Mosiah 24;Daniel 6;D&C 123:17;Mark 5:36;Ezekiel 34:16
+T06|Isaiah 58:6-9;Matthew 4:1-2;Alma 7:12
+T07|Mosiah 28:3;Alma 10:6;D&C 31:1-6
+T08|Jacob 2:7;1 Corinthians 8:9-11;D&C 58:27;3 Nephi 12:6;Jacob 6:12
+T09|Numbers 14:2;Numbers 14:11;Judges 2:1;John 16:33;2 Nephi 2:3;Moroni 10:3;Mormon 8:22;2 Peter 1:4
+T10|Luke 10:25-37;Moroni 4:3
+T11|Alma 37:6;Mosiah 1:6-7;D&C 88:63;Ephesians 6:11
+T12|Malachi 3:8-10;Mark 12:41-44
+T13|D&C 2:2;Enos 1:13-16;Joseph Smith—History 1:25;D&C 123:17
+T14|John 3:16;Luke 15:4;Luke 15:11-32;Matthew 6:9;Matthew 7:11
+T15|Matthew 14:31;Mark 5:41;Mark 9:27;Alma 26:13-16;1 Nephi 13:37;3 Nephi 27:14
+T16|Isaiah 53:4;Matthew 6:8;D&C 84:88;Hebrews 12:1
+T17|D&C 88:63;John 14:16-18;2 Nephi 9:10;1 Corinthians 2:9;Philippians 4:7
+T18|Ephesians 4:14;2 Corinthians 1:8;1 Nephi 8;Matthew 22:37-39;Proverbs 3:5-6;Mosiah 27:14;Alma 36:18;Matthew 11:28-30;John 15:13;Luke 15:20;Helaman 5:12
+T19|Isaiah 41:10;Abraham 3:25;Isaiah 53:4;Mosiah 18:8-9
+T20|John 4:7;Mark 10:21;John 5:5-9;Luke 10:33;Romans 4:17
+T21|Moroni 1:1-3;Ephesians 6:12;John 14:23;Luke 24:39;Acts 4:10;2 Corinthians 4:8
+T22|Mosiah 3:17;Isaiah 29:13;3 Nephi 27:5;Moroni 6:3;Mosiah 2:17;Alma 5:14;Mosiah 5:13
+T23|Luke 22:44;Moroni 10:32-33;John 15:11;Matthew 16:25
+T24|D&C 124:20;D&C 121:45;2 Nephi 2:25;John 3:16-17;Luke 6:46;Matthew 7:21;Philippians 4:8
+T25|Proverbs 6:16-19;Matthew 12:36-37;Ephesians 4:29;Colossians 4:6;Alma 24;Luke 6:45;John 14:27
+T26|Ether 12:27;Matthew 11:28-30;Haggai 1:5-9;Haggai 2:19;Mosiah 2:41
+T27|Articles of Faith 1:1;Mosiah 3:18;2 Nephi 9:21;3 Nephi 15:21;3 Nephi 16:1;2 Nephi 29:7;2 Nephi 26:33;Moses 7:62
+T28|2 Nephi 31:17;Mosiah 18:8-9;Ephesians 2:14;4 Nephi 1;Matthew 19:26;Matthew 18:20
+T29|Articles of Faith 1:13;Mark 10:21
+T30|Malachi 3:10;D&C 130:20-21;D&C 58:31;Deuteronomy 29:5;1 Kings 17:9-16
+T31|D&C 132:7;Mosiah 2:41
+T32|3 Nephi 11:29-30;3 Nephi 11:11;3 Nephi 18:16;D&C 6:36;Matthew 11:28
+T33|Isaiah 11:6;John 4:7-29
+T34|1 Nephi 8:10-12;Alma 40:11-12;Alma 42:8;Romans 8:16;1 Nephi 8:12
+T35|Matthew 4:19;Alma 17:11;Matthew 22:37-39;3 Nephi 17:21
+T36|1 John 4:19;John 8:11;Moroni 7:45
+T37|2 Nephi 28:30

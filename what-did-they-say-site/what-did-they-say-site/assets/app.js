@@ -8,7 +8,7 @@
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
 
   /* ---------- storage (plan) ---------- */
-  var KEY = 'wdts-plan-' + (S.conf || '');
+  var KEY = 'wdts-plan-' + (S.conf || '') + '-v2';
   function load() { try { return JSON.parse(localStorage.getItem(KEY) || '') || { items: {}, notes: {} }; } catch (e) { return { items: {}, notes: {} }; } }
   function save(st) { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} }
   var state = load();

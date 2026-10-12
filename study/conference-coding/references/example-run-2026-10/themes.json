@@ -1,0 +1,110 @@
+{
+ "themes": [
+  {
+   "id": "TH01",
+   "name": "Covenants as living, protective, generational power",
+   "claim": "Covenants are presented as active power that binds the keeper to Christ, reaches across generations, and cannot be voided by another person's choices.",
+   "anchor": "Morgan: 'It was covenants!' (T13.10)",
+   "categories": [
+    "C01 covenant keeping",
+    "C02 covenant mechanics",
+    "C03 covenant reach",
+    "C04 temple"
+   ]
+  },
+  {
+   "id": "TH02",
+   "name": "Adversity reframed: purposeful, not prevented",
+   "claim": "Speakers corrected a prosperity reading of obedience: faithfulness does not prevent trial, trial is purposeful, and deliverance comes in God's time and way.",
+   "anchor": "Runia: 'The gospel isn't the umbrella' (T02.06)",
+   "categories": [
+    "C05 adversity reframed",
+    "C06 trust amid uncertainty",
+    "C07 grief and comfort"
+   ]
+  },
+  {
+   "id": "TH03",
+   "name": "Christ as the active agent: grace that lifts and carries",
+   "claim": "Christ, not the self, is cast as the agent of change (carrying, lifting, sculpting), and receiving that help requires setting aside pride and self-reliance.",
+   "anchor": "Dunn: 'not by shortening our course' (T16.13)",
+   "categories": [
+    "C08 christ as agent",
+    "C09 receiving help"
+   ]
+  },
+  {
+   "id": "TH04",
+   "name": "Discipleship as striving, not prior perfection",
+   "claim": "Discipleship is framed as sustained trying rather than a perfection threshold, which lowers the felt cost of failing.",
+   "anchor": "Dube: 'We do not need to perfect ourselves to come to Christ' (T23.06)",
+   "categories": [
+    "C10 effort over perfection",
+    "C11 drift and return"
+   ]
+  },
+  {
+   "id": "TH05",
+   "name": "Seeing and ministering to the one",
+   "claim": "God's promise to succor is described as fulfilled mainly through ordinary people who first notice the individual, so ministry starts with seeing.",
+   "anchor": "Kimball via H. Eyring and Chibota: 'usually through another person' (T19.12, T20.09)",
+   "categories": [
+    "C12 seeing the one",
+    "C13 god works through people"
+   ]
+  },
+  {
+   "id": "TH06",
+   "name": "Divine identity and unearned love over labels",
+   "claim": "Identity as a child of God, and a love that cannot be earned or lost, is offered as the antidote to worldly labels, paired with a warning that love is not license.",
+   "anchor": "Folley: 'You did not earn it' (T14.07)",
+   "categories": [
+    "C14 divine identity",
+    "C15 personal divine love"
+   ]
+  },
+  {
+   "id": "TH07",
+   "name": "Truth with love: peacemaking, unity, and boundaries",
+   "claim": "Sunday's speakers converged on a two-part ethic: forgo contention and seek unity, while not trading truth for approval.",
+   "anchor": "Gilbert: 'truth and love always walk together' (T36.26)",
+   "categories": [
+    "C16 peacemaking",
+    "C17 truth boundaries"
+   ]
+  },
+  {
+   "id": "TH08",
+   "name": "Small consistent practices and guarded attention",
+   "claim": "Small, consistent practices are framed as protective, and their neglect, often through digital distraction, as the mechanism of gradual drift.",
+   "anchor": "Kearon: 'the quiet cost of neglecting' (T15.18)",
+   "categories": [
+    "C18 devotional practices",
+    "C19 guarding attention"
+   ]
+  },
+  {
+   "id": "TH09",
+   "name": "A giving economy: sacrificial laws vs something for nothing",
+   "claim": "Saturday set sacrificial giving laws (fasting, offerings, tithing) against gambling's take-without-giving logic, recasting money as a test of trust and neighbor-love.",
+   "anchor": "Christofferson: 'something for nothing' (T08.24)",
+   "categories": [
+    "C20 sacrificial laws",
+    "C21 recognizing blessings",
+    "C22 case against gambling"
+   ]
+  },
+  {
+   "id": "TH10",
+   "name": "Witness and invitation",
+   "claim": "Testimony is democratized: every member is cast as a witness whose simple words carry power, anchored to apostolic witness and an invitation extended to all people.",
+   "anchor": "Causse: 'It only needs to be true' (T03.17)",
+   "categories": [
+    "C23 witness",
+    "C24 prophets and restoration",
+    "C25 gathering"
+   ]
+  }
+ ],
+ "rhetoric_category": "C26 rhetorical moves"
+}

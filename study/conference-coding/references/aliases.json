@@ -1,0 +1,60 @@
+{
+ "Dallin H. Oaks": [
+  "\\b(?:Dall?[ai]n|Darling|Darren|Dallan|Alan|Allen|Dali)\\b.{0,6}\\b(?:Oaks?|Oakes|Ox|Ocks|Okes|Jokes|Neshok)\\b",
+  "President (?:Oaks?|Oakes|Ox|Ocks|Oak)\\b"
+ ],
+ "Russell M. Nelson": [
+  "\\bNelson\\b"
+ ],
+ "Henry B. Eyring": [
+  "Heribea Irene|President (?:Henry B\\.? )?(?:Eyring|Iring)"
+ ],
+ "D. Todd Christofferson": [
+  "Christ?offerson|Kristofferson|Christopherson"
+ ],
+ "Dieter F. Uchtdorf": [
+  "Oakdorf|Dugdorf|Oekdorf|Urdoff|Uhtov|Uchdorf|Uchtdorf"
+ ],
+ "Jeffrey R. Holland": [
+  "\\bHolland\\b"
+ ],
+ "Patrick Kearon": [
+  "Kearon|Kieran"
+ ],
+ "Neil L. Andersen": [
+  "Neil L\\. And[ae]rs[eo]n"
+ ],
+ "Spencer W. Kimball": [
+  "Kimball"
+ ],
+ "Thomas S. Monson": [
+  "(?:Mon|Man)son\\b"
+ ],
+ "Gordon B. Hinckley": [
+  "Hinc?kley"
+ ],
+ "David O. McKay": [
+  "McKay|O'MaK"
+ ],
+ "Boyd K. Packer": [
+  "Packer"
+ ],
+ "Joseph Smith": [
+  "Joseph Smith"
+ ],
+ "Marion G. Romney": [
+  "Romney"
+ ],
+ "Tamara W. Runia": [
+  "Runia|Roonya|Rinia|Tamarunia"
+ ],
+ "David A. Bednar": [
+  "Bednar|Bebnar"
+ ],
+ "Ulisses Soares": [
+  "Soares|Suarez"
+ ],
+ "J. Anette Dennis": [
+  "Annette Dennis"
+ ]
+}

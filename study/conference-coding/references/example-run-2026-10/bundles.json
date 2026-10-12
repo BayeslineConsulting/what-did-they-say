@@ -1,0 +1,597 @@
+{
+ "president": "President Dallin H. Oaks",
+ "oaks_own": [
+  {
+   "title": "Focus on developing your faith in God and in Jesus Christ",
+   "area": "TH04",
+   "items": [
+    [
+     "T27.08",
+     "Focus on developing Your faith in God and the mission of His Son Jesus Christ",
+     "lead"
+    ],
+    [
+     "T32.09",
+     "First, increase faith in our faith in the Lord Jesus Christ",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Hold on to the first article of faith, and wait upon the Lord",
+   "area": "TH02",
+   "items": [
+    [
+     "T27.11",
+     "Hold on to the first article of faith. even if something else is uncertain. And while you wait, wait upon the Lord",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "title": "Keep the commandments and be true to your covenants",
+   "area": "TH01",
+   "items": [
+    [
+     "T27.16",
+     "I urge you to keep the commandments and be true to the covenants",
+     "lead"
+    ],
+    [
+     "T13.18",
+     "Keep your covenants, strive to be faithful, and cheerfully do all things that lie in your power",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Never let your secular learning limit your spiritual horizon",
+   "area": "TH04",
+   "items": [
+    [
+     "T27.16",
+     "Never let your secular learning limit your spiritual horizon",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "title": "Protect yourself by renewing your covenants through the sacrament each week",
+   "area": "TH01",
+   "items": [
+    [
+     "T27.21",
+     "Protect yourself with the weekly renewal of your covenants by partaking of the sacrament",
+     "lead"
+    ],
+    [
+     "T28.23",
+     "let us not miss the unifying power of the segment [sacrament]",
+     "echo"
+    ],
+    [
+     "T29.12",
+     "partake of the sacrament with a humble heart",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Believe the Book of Mormon's promises that God's grace is for all",
+   "area": "TH10",
+   "items": [
+    [
+     "T27.33",
+     "I invite all to believe them.",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "title": "Act on these truths and share them with others",
+   "area": "TH10",
+   "items": [
+    [
+     "T27.38",
+     "I call upon all to act on these truths and to share them with others",
+     "lead"
+    ],
+    [
+     "T34.22",
+     "Love, share, and invite.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Study and ponder this conference's talks, and act on them",
+   "area": "TH08",
+   "items": [
+    [
+     "T37.02",
+     "we invite all to study and ponder them prayerfully and to act in faith on the principles they explain",
+     "lead"
+    ],
+    [
+     "T04.18",
+     "let us not be guilty of holding the oracles of God as a light thing",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Learn about the Salt Lake Temple celebration",
+   "area": "TH01",
+   "items": [
+    [
+     "T37.04",
+     "Join us at templesquare.org or through the Temple Square app to learn more.",
+     "lead"
+    ]
+   ]
+  }
+ ],
+ "oaks_repeated": [
+  {
+   "title": "Forgo contention and use the language of peacemakers",
+   "area": "TH07",
+   "items": [
+    [
+     "T25.01",
+     "let us follow him by foregoing contention and by using the language and method of peacemakers",
+     "lead"
+    ],
+    [
+     "T25.13",
+     "Let us repent for the harsh language",
+     "echo"
+    ],
+    [
+     "T25.14",
+     "Let us pray for peaceful communication among us, regardless of the difference in our opinions.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Avoid what is harsh and hateful; seek to be holy like the Savior",
+   "area": "TH07",
+   "items": [
+    [
+     "T18.13",
+     "Let us avoid what is harsh and hateful. Let us seek to be holy like our Savior.",
+     "lead"
+    ],
+    [
+     "T25.01",
+     "Let us avoid what is harsh and hateful.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Seek friends who are striving to follow the Lord",
+   "area": "TH08",
+   "items": [
+    [
+     "T29.15",
+     "an invitation from our prophet, President Dallin H. Oaks. Seek friends who are",
+     "lead"
+    ]
+   ],
+   "audience": "repeated to young women"
+  }
+ ],
+ "others": [
+  {
+   "title": "Look each day for chances to bear witness of Jesus Christ",
+   "area": "TH10",
+   "items": [
+    [
+     "T03.23",
+     "I invite you to look each day for opportunities as prompted by the Holy Ghost to bear witness of Jesus Christ",
+     "echo"
+    ],
+    [
+     "T03.11",
+     "Please trust it, nurture it, and bear it, because it is uniquely yours.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Come unto Christ as you are, and invite one person to come too",
+   "area": "TH10",
+   "items": [
+    [
+     "T23.17",
+     "I invite you, please come unto Christ and embrace his promise",
+     "echo"
+    ],
+    [
+     "T23.18",
+     "Will you find one person and invite him or her to come unto Christ",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "When life doesn't make sense, choose Christ and trust Him",
+   "area": "TH02",
+   "items": [
+    [
+     "T02.16",
+     "Let's choose Christ, who can heal the wounds of this world",
+     "echo"
+    ],
+    [
+     "T05.16",
+     "I echo the Savior's words Be not afraid, only believe.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Remember God's mercies, and erase the \"asterisk\" that excludes you",
+   "area": "TH03",
+   "items": [
+    [
+     "T09.20",
+     "Strive to remember all the times He has inclined His ear to you",
+     "echo"
+    ],
+    [
+     "T09.18",
+     "take out a big eraser and obliterate that asterisk",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Never give up on loved ones who have wandered; give your despair to Christ",
+   "area": "TH03",
+   "items": [
+    [
+     "T18.07",
+     "I ask you to turn over to Jesus Christ your despair for those wayward souls.",
+     "echo"
+    ],
+    [
+     "T18.21",
+     "First, let go of any guilt.",
+     "echo"
+    ],
+    [
+     "T18.21",
+     "So never, never give up on those you love.",
+     "echo"
+    ],
+    [
+     "T13.19",
+     "Don't ever give up.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "See the person in front of you, and minister to them",
+   "area": "TH05",
+   "items": [
+    [
+     "T10.21",
+     "let us pray every day for eyes to see the divine appointments God places before us",
+     "echo"
+    ],
+    [
+     "T10.21",
+     "Let us put compassion into action and minister to the person in front of us.",
+     "echo"
+    ],
+    [
+     "T20.08",
+     "I plead with you, as disciples of Jesus Christ, to pray to see others as he sees them and to treat them accordingly.",
+     "echo"
+    ],
+    [
+     "T20.17",
+     "This week I invite you to learn the name of someone who may feel unseen.",
+     "echo"
+    ],
+    [
+     "T18.22",
+     "Never let a problem to be solved become more important than a person to be loved.",
+     "echo"
+    ],
+    [
+     "T19.13",
+     "encourage others to join him in keeping his promise today",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Help friends and new members in more Christlike ways: quick to help, slow to judge",
+   "area": "TH05",
+   "items": [
+    [
+     "T33.20",
+     "we are invited to reorient our souls so we may help friends and new members in more Christlike ways",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Replace worldly labels with eternal truths about who people are",
+   "area": "TH06",
+   "items": [
+    [
+     "T20.17",
+     "Replace worldly labels with these eternal truths.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Join the Christ-centered unity: come and see, come and help, come and belong",
+   "area": "TH07",
+   "items": [
+    [
+     "T28.27",
+     "I invite you to join the Christ-centered unity we are trying to build.",
+     "echo"
+    ],
+    [
+     "T28.27",
+     "Please come and see.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Stand for truth with love",
+   "area": "TH07",
+   "items": [
+    [
+     "T36.04",
+     "To see if there are shards of pride or jealousy that prevent you from becoming a peacemaker, I extend that same invitation to all of us today.",
+     "echo"
+    ],
+    [
+     "T36.07",
+     "First, avoid overly contentious settings.",
+     "echo"
+    ],
+    [
+     "T36.25",
+     "Ask yourself if you carry these Christlike attributes when you are striving to stand for truth with love.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Study the scriptures every day, especially the Book of Mormon",
+   "area": "TH08",
+   "items": [
+    [
+     "T11.09",
+     "I invite you to start the scripture diligently, that you may know the word of God.",
+     "echo"
+    ],
+    [
+     "T32.11",
+     "Second, study the scriptures daily, especially the Book of Mormon.",
+     "echo"
+    ],
+    [
+     "T29.13",
+     "study the scriptures with a desire to know God's character",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Remember the small and simple things: scriptures, prayer, sacrament, and covenants",
+   "area": "TH08",
+   "items": [
+    [
+     "T11.16",
+     "I invite you to always remember scriptures, prayers.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Begin each day seeking the companionship of the Holy Ghost",
+   "area": "TH08",
+   "items": [
+    [
+     "T29.12",
+     "Begin each day by asking the Father for that companionship.",
+     "echo"
+    ],
+    [
+     "T15.27",
+     "Actively tune in to the sweet feelings of the Holy Spirit",
+     "echo"
+    ],
+    [
+     "T15.22",
+     "Pay close attention to the sweet, peaceful feelings that come.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Repent daily, and don't put it off",
+   "area": "TH04",
+   "items": [
+    [
+     "T01.10",
+     "Please do not procrastinate the day of your repentance until the end.",
+     "echo"
+    ],
+    [
+     "T29.12",
+     "Two, repent daily",
+     "echo"
+    ],
+    [
+     "T32.14",
+     "Third, practice repentance daily.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Climb toward spiritual \"lift\": find a guide, join the climbers, turn away from sinking",
+   "area": "TH04",
+   "items": [
+    [
+     "T15.26",
+     "Find a faithful guide and learn from them where lift is found.",
+     "echo"
+    ],
+    [
+     "T15.28",
+     "Join those who are climbing.",
+     "echo"
+    ],
+    [
+     "T15.28",
+     "Watch closely for the subtle signs of sync [sink] in your own life and turn away decisively.",
+     "echo"
+    ],
+    [
+     "T15.28",
+     "And when you find lift yourself, show someone else where and how to rise.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Honor the temple: speak of it with gratitude and treasure its blessings",
+   "area": "TH01",
+   "items": [
+    [
+     "T01.20",
+     "Let us never speak of a temple as big or small, elaborate or plain.",
+     "echo"
+    ],
+    [
+     "T01.13",
+     "Let us celebrate and treasure even more the spiritual blessings temples bring.",
+     "echo"
+    ],
+    [
+     "T01.23",
+     "Please consider saving for and buying your own ceremonial temple clothes",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Be a strong link in your family's eternal chain",
+   "area": "TH01",
+   "items": [
+    [
+     "T01.22",
+     "Please be a strong link.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Live the law of the fast in a higher, holier way",
+   "area": "TH09",
+   "items": [
+    [
+     "T06.19",
+     "I invite you to prayerfully ponder Isaiah's teachings and more intentionally embrace the divine purpose of the law of the fast in a higher and holier way",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Refrain from gambling, and use the time and money for good",
+   "area": "TH09",
+   "items": [
+    [
+     "T08.29",
+     "not only to refrain from gambling, but to use the time and resources saved thereby for doing good",
+     "echo"
+    ],
+    [
+     "T08.30",
+     "I pray. That you will not treat gambling lightly.",
+     "echo"
+    ],
+    [
+     "T08.28",
+     "Today I am pleading with all of us to live life on a higher plane.",
+     "echo"
+    ]
+   ]
+  },
+  {
+   "title": "Teachers: come unto the Master Teacher, learn of Him, and love Him",
+   "area": "TH10",
+   "items": [
+    [
+     "T35.18",
+     "Come unto the master teacher, learn of him, love him",
+     "echo"
+    ]
+   ],
+   "audience": "for teachers"
+  },
+  {
+   "title": "Rising generation: place a full-time mission high on your list",
+   "area": "TH10",
+   "items": [
+    [
+     "T07.12",
+     "I invite you to place serving a full-time mission high on your list.",
+     "echo"
+    ],
+    [
+     "T07.13",
+     "Pray to know if the Lord would have you serve a mission.",
+     "echo"
+    ],
+    [
+     "T07.14",
+     "Come join the ranks.",
+     "echo"
+    ]
+   ],
+   "audience": "for the rising generation"
+  },
+  {
+   "title": "Young women: choose one way to grow, protect your sleep, limit phone use, and write your list of aspirations",
+   "area": "TH08",
+   "items": [
+    [
+     "T29.12",
+     "I invite you to listen to the Spirit to choose one to focus on over the next few weeks.",
+     "echo"
+    ],
+    [
+     "T29.14",
+     "Five, protect your sleep. Go to bed early.",
+     "echo"
+    ],
+    [
+     "T29.15",
+     "Six, limit cell phone use.",
+     "echo"
+    ],
+    [
+     "T29.21",
+     "I invite you to study the thirteenth article of faith and to create your own list of aspirations.",
+     "echo"
+    ]
+   ],
+   "audience": "for young women"
+  }
+ ]
+}

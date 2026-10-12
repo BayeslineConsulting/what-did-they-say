@@ -1,0 +1,357 @@
+[
+{
+"name": "Genesis",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Exodus",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Leviticus",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Numbers",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Deuteronomy",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Joshua",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Judges",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Ruth",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Samuel",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Kings",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Chronicles",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Ezra",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Nehemiah",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Esther",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Job",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Psalms",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Psalm",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Proverbs",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Ecclesiastes",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Isaiah",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Jeremiah",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Lamentations",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Ezekiel",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Daniel",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Hosea",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Joel",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Amos",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Obadiah",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Jonah",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Micah",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Nahum",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Habakkuk",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Zephaniah",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Haggai",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Zechariah",
+"volume": "Old Testament",
+"person_name": false
+},
+{
+"name": "Malachi",
+"volume": "Old Testament",
+"person_name": true
+},
+{
+"name": "Matthew",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Mark",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Luke",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "John",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Acts",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Romans",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Corinthians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Galatians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Ephesians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Philippians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Colossians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Thessalonians",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Timothy",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Titus",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Philemon",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Hebrews",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "James",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Peter",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Jude",
+"volume": "New Testament",
+"person_name": true
+},
+{
+"name": "Revelation",
+"volume": "New Testament",
+"person_name": false
+},
+{
+"name": "Nephi",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Jacob",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Enos",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Jarom",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Omni",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Mosiah",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Alma",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Helaman",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Mormon",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Ether",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Moroni",
+"volume": "Book of Mormon",
+"person_name": true
+},
+{
+"name": "Moses",
+"volume": "Pearl of Great Price",
+"person_name": true
+},
+{
+"name": "Abraham",
+"volume": "Pearl of Great Price",
+"person_name": true
+},
+{
+"name": "Article of Faith",
+"volume": "Pearl of Great Price",
+"person_name": false
+},
+{
+"name": "Articles of Faith",
+"volume": "Pearl of Great Price",
+"person_name": false
+}
+]

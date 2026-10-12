@@ -1,0 +1,252 @@
+{
+ "conference": "2026-10",
+ "label": "October 2026 (196th Semiannual)",
+ "sessions": [
+  {
+   "label": "Sat AM",
+   "file": "/mnt/user-data/uploads/2026-10-1000-saturday-morning-session-128k-eng.txt",
+   "talks": [
+    {
+     "start": "12:28.526",
+     "speaker": "Elder Gerrit W. Gong",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "23:46.366",
+     "speaker": "Sister Tamara W. Runia",
+     "role": "Young Women General Presidency",
+     "name_confidence": "high"
+    },
+    {
+     "start": "36:27.766",
+     "speaker": "Elder Gérald Caussé",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high (ASR: 'Joaquet'; identity from talk content)"
+    },
+    {
+     "start": "48:07.766",
+     "speaker": "Elder 'Bahaniya Sekahama' (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "low"
+    },
+    {
+     "start": "56:58.274",
+     "speaker": "Elder Kevin J. Hathaway",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:08:26.464",
+     "speaker": "Elder Ulisses Soares",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:19:02.72",
+     "speaker": "Bishop Sean Douglas",
+     "role": "Presiding Bishopric",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:33:50.342",
+     "speaker": "President D. Todd Christofferson",
+     "role": "First Presidency",
+     "name_confidence": "high"
+    }
+   ]
+  },
+  {
+   "label": "Sat PM",
+   "file": "/mnt/user-data/uploads/2026-10-2000-saturday-afternoon-session-128k-eng.txt",
+   "talks": [
+    {
+     "start": "07:50.86",
+     "speaker": "Elder Dale G. Renlund",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "18:10.766",
+     "speaker": "President Timothy L. Farnes",
+     "role": "Young Men General President",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "27:15.862",
+     "speaker": "Elder Christian C. Chimundo (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "low"
+    },
+    {
+     "start": "38:55.948",
+     "speaker": "Elder Patricio Jufra (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "low"
+    },
+    {
+     "start": "46:30.016",
+     "speaker": "Elder Jeremiah J. Morgan",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "54:33.506",
+     "speaker": "Elder Hutch U. Folley (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "low"
+    },
+    {
+     "start": "01:06:19.19",
+     "speaker": "Elder Patrick Kearon",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:17:31.79",
+     "speaker": "Elder Michael A. Dunn",
+     "role": "Seventy",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:25:58.85",
+     "speaker": "Elder Matthew J. Eyring",
+     "role": "Seventy",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:38:53.42",
+     "speaker": "Elder Ronald A. Rasband",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    }
+   ]
+  },
+  {
+   "label": "Sun AM",
+   "file": "/mnt/user-data/uploads/2026-10-4000-sunday-morning-session-128k-eng.txt",
+   "talks": [
+    {
+     "start": "09:33.452",
+     "speaker": "President Henry B. Eyring",
+     "role": "First Presidency",
+     "name_confidence": "high"
+    },
+    {
+     "start": "20:54.346",
+     "speaker": "President Rosemary K. Chibota",
+     "role": "Primary General President",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "31:20.854",
+     "speaker": "Elder Neil L. Andersen",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "42:27.33",
+     "speaker": "Elder James Fantone (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "50:48.152",
+     "speaker": "Elder Edward Dube",
+     "role": "Presidency of the Seventy",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:03:20.234",
+     "speaker": "Elder Quentin L. Cook",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:15:03.808",
+     "speaker": "Elder Alfred Kungu (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:22:44.792",
+     "speaker": "Elder Cyril Schmeil (as transcribed)",
+     "role": "Seventy",
+     "name_confidence": "low"
+    },
+    {
+     "start": "01:35:01.986",
+     "speaker": "President Dallin H. Oaks",
+     "role": "President of the Church",
+     "name_confidence": "high"
+    }
+   ]
+  },
+  {
+   "label": "Sun PM",
+   "file": "/mnt/user-data/uploads/2026-10-5000-sunday-afternoon-session-128k-eng.txt",
+   "talks": [
+    {
+     "start": "06:42.806",
+     "speaker": "President Dieter F. Uchtdorf",
+     "role": "Acting President, Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "19:03.65",
+     "speaker": "Sister Andrea Muñoz Spannaus",
+     "role": "Young Women General Presidency",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "27:10.37",
+     "speaker": "Elder Moisés Villanueva",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "39:41.162",
+     "speaker": "Elder David A. Bednar",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "51:56.982",
+     "speaker": "Elder Thabo Lebethoa",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:00:03.49",
+     "speaker": "Elder Paul H. Sinclair",
+     "role": "Seventy",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:12:19.234",
+     "speaker": "Elder Gary E. Stevenson",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:23:29.528",
+     "speaker": "Brother Gabriel W. Reed (as transcribed)",
+     "role": "Sunday School General Presidency",
+     "name_confidence": "medium"
+    },
+    {
+     "start": "01:32:03.766",
+     "speaker": "Elder Clark G. Gilbert",
+     "role": "Quorum of the Twelve",
+     "name_confidence": "high"
+    },
+    {
+     "start": "01:48:39.404",
+     "speaker": "President Dallin H. Oaks",
+     "role": "President of the Church",
+     "name_confidence": "high"
+    }
+   ]
+  }
+ ]
+}
