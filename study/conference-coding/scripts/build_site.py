@@ -38,14 +38,14 @@ TABS = [('overview', 'Overview', '', '<path d="M3 11l9-7 9 7"/><path d="M5 10v10
         ('plan', 'Your Plan', 'plan/', '<path d="M9 11l2 2 4-4"/><rect x="4" y="4" width="16" height="16" rx="3"/>'),
         ('lessons', 'Lessons', 'lessons/', '<path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M9 8h7M9 12h5"/>'),
         ('quiz', 'Quizzes', 'quiz/', '<circle cx="12" cy="12" r="9"/><path d="M9.6 9.3a2.5 2.5 0 1 1 3.6 2.3c-.8.4-1.2 1-1.2 1.9"/><path d="M12 16.9v.1"/>'),
-        ('numbers', 'By the Numbers', 'numbers/', ''),
+        ('numbers', 'Fun with Numbers', 'numbers/', '<path d="M4 20h16"/><path d="M7 16v-5"/><path d="M12 16V7"/><path d="M17 16v-8"/>'),
         ('how', 'How It Works', 'how-it-works/', '')]
 def jsdump(o): return json.dumps(o, ensure_ascii=False).replace('</', '<\\/')
 def layout(title, desc, body, path, tab='', page_js=None, kind='article'):
     url = (URL + path) if URL else path
     on = lambda k: ' class="on" aria-current="page"' if k == tab else ''
     links = ''.join(f'<a href="{B}{u}"{on(k)}>{lab}</a>' for k, lab, u, _ in TABS)
-    short = {'Quizzes': 'Quiz', 'By the Numbers': 'Numbers', 'Your Plan': 'Plan', 'How It Works': 'How', 'Overview': 'Home'}
+    short = {'Quizzes': 'Quiz', 'Fun with Numbers': 'Numbers', 'Your Plan': 'Plan', 'How It Works': 'How', 'Overview': 'Home'}
     bar = ''.join(f'<a href="{B}{u}"{on(k)}><svg viewBox="0 0 24 24" aria-hidden="true">{svg}</svg>{short.get(lab, lab)}</a>' for k, lab, u, svg in TABS if svg)
     pj = f'<script>window.PAGE={jsdump(page_js)}</script>' if page_js else ''
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -322,13 +322,13 @@ vol = ''.join(f'<div class="bar"><span>{e(v)}</span><i><b style="width:{100 * n 
 lead = ''.join(f'<div class="bar"><span>{e(n)}</span><i><b style="width:{100 * m / lmax:.0f}%"></b></i><span class="v">{m} ({q})</span></div>' for n, m, q in D['leaders'])
 grp = '<tr><th>Group</th><th style="text-align:right">Talks</th><th style="text-align:right">Average words</th><th style="text-align:right">References to Christ per 1,000 words</th></tr>' + ''.join(f'<tr><td>{e(g[0])}</td><td style="text-align:right">{g[1]}</td><td style="text-align:right">{g[2]:,}</td><td style="text-align:right">{g[3]}</td></tr>' for g in D['groups'])
 scrip = ''.join(f'<li>{e(s)}</li>' for s in D['scrip'])
-num_body = crumb(conf_c, 'By the numbers') + head(e(LABEL), 'By the numbers', 'Counts from the official talk texts: who said what, how often, and which words carried the weekend.') + f'''<div class="wrap" style="padding-bottom:70px"><div class="stats">{"".join(stat(b, s) for b, s in STATS)}</div>
+num_body = crumb(conf_c, 'Fun with numbers') + head(e(LABEL), 'Fun with numbers', 'Counts from the official talk texts: who said what, how often, and which words carried the weekend.') + f'''<div class="wrap" style="padding-bottom:70px"><div class="stats">{"".join(stat(b, s) for b, s in STATS)}</div>
 <div class="quiz qpromo"><div><h3>How well do you remember?</h3><p class="qq" style="margin:10px 0 18px">Take the conference quiz: 25 questions at each of three levels, plus a quiz for every talk.</p><a class="btn" href="{B}quiz/">Go to the quizzes</a></div><div class="qart">{COMPASS}</div></div>
 <h3 class="sub">Guess the number</h3><p class="note">Tap a card to reveal the answer.</p><div class="guess">{guess}</div>
 <h3 class="sub">The words that carried the weekend</h3><p class="note">The 60 most-used content words. Bigger means said more often.</p><div class="cloud" id="cloud"></div>
 <div class="two"><div class="panel"><h3>Scripture, by volume</h3>{vol}<ul class="plain">{scrip}</ul></div><div class="panel"><h3>Leaders most mentioned</h3>{lead}<p class="note" style="font-size:14px;margin:12px 0 0">Bar = talks mentioning the leader; parentheses = talks quoting them.</p></div></div>
 <h3 class="sub">Who spoke, and for how long</h3><div class="panel scroll"><table>{grp}</table></div><p class="note" style="margin-top:12px">{e(D["groupnote"])}</p></div>'''
-write(f'{B}numbers/', layout(f'By the numbers · {LABEL} · {NAME}', f'Word counts, the scriptures quoted, leaders cited, and a word cloud from the {LABEL}.', num_body, f'{B}numbers/', 'numbers', {'words': D['words']}))
+write(f'{B}numbers/', layout(f'Fun with numbers · {LABEL} · {NAME}', f'Word counts, the scriptures quoted, leaders cited, and a word cloud from the {LABEL}.', num_body, f'{B}numbers/', 'numbers', {'words': D['words']}))
 # ================= QUIZZES =================
 if QZ.get('conf'):
     rows_q = ''
