@@ -1,0 +1,665 @@
+{
+ "litner": "https://litner-bayesline.vercel.app",
+ "search": "https://litner-bayesline.vercel.app/search",
+ "talks": {
+  "bishop-sean-douglas": [
+   {
+    "episode": "S6E35",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 5 (FINAL)",
+    "ref": "2 Nephi 2",
+    "at": "11:06",
+    "url": "https://litner-bayesline.vercel.app/s6e35?t=666"
+   },
+   {
+    "episode": "S6E29",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 1",
+    "ref": "D&C 121",
+    "at": "5:19",
+    "url": "https://litner-bayesline.vercel.app/s6e29?t=319"
+   },
+   {
+    "episode": "S6E26",
+    "title": "The Great Apostate Hall of Shame - OLI Joseph Wakefield",
+    "ref": "2 Nephi 2",
+    "at": "49:21",
+    "url": "https://litner-bayesline.vercel.app/s6e26?t=2961"
+   }
+  ],
+  "elder-gerrit-w-gong": [
+   {
+    "episode": "S6E44",
+    "title": "An Angel from Heaven Preaching Another Gospel (Galatians 1-8) Part 3",
+    "ref": "D&C 76",
+    "at": "43:48",
+    "url": "https://litner-bayesline.vercel.app/s6e44?t=2628"
+   },
+   {
+    "episode": "S6E39",
+    "title": "Saved By Grace After All You Can Do",
+    "ref": "D&C 76",
+    "at": "11:55",
+    "url": "https://litner-bayesline.vercel.app/s6e39?t=715"
+   },
+   {
+    "episode": "S6E33",
+    "title": "Did Brigham Revise Joseph's Journal?",
+    "ref": "D&C 132",
+    "at": "18:41",
+    "url": "https://litner-bayesline.vercel.app/s6e33?t=1121"
+   }
+  ],
+  "brother-gabriel-w-reid": [
+   {
+    "episode": "S6E33",
+    "title": "Did Brigham Revise Joseph's Journal?",
+    "ref": "D&C 19",
+    "at": "58:01",
+    "url": "https://litner-bayesline.vercel.app/s6e33?t=3481"
+   },
+   {
+    "episode": "S6E7",
+    "title": "The Book of Enoch Part 1",
+    "ref": "Moses 6",
+    "at": "47:55",
+    "url": "https://litner-bayesline.vercel.app/s6e7?t=2875"
+   },
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 19",
+    "at": "26:28",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=1588"
+   }
+  ],
+  "elder-hutch-u-fale": [
+   {
+    "episode": "S6E43",
+    "title": "The Lord's Prayer",
+    "ref": "Matthew 6:9–13",
+    "at": "25:17",
+    "url": "https://litner-bayesline.vercel.app/s6e43?t=1517"
+   },
+   {
+    "episode": "S6E22",
+    "title": "King Follett Sermon Part 1",
+    "ref": "D&C 93",
+    "at": "6:16",
+    "url": "https://litner-bayesline.vercel.app/s6e22?t=376"
+   },
+   {
+    "episode": "S6E7",
+    "title": "The Book of Enoch Part 1",
+    "ref": "Moses 6",
+    "at": "47:55",
+    "url": "https://litner-bayesline.vercel.app/s6e7?t=2875"
+   }
+  ],
+  "sister-tamara-w-runia": [
+   {
+    "episode": "S5E44",
+    "title": "Letters from Liberty",
+    "ref": "D&C 122:7–9",
+    "at": "14:59",
+    "url": "https://litner-bayesline.vercel.app/s5e44?t=899"
+   },
+   {
+    "episode": "S2E50",
+    "title": "Are \"Mormons\" Christian? Part 1",
+    "ref": "1 Nephi 11:16–17",
+    "at": "17:00",
+    "url": "https://litner-bayesline.vercel.app/s2e50?t=1020"
+   },
+   {
+    "episode": "S1E16",
+    "title": "D&C 93 and the Nature of God Part 2",
+    "ref": "1 Nephi 11:13–21",
+    "at": "45:41",
+    "url": "https://litner-bayesline.vercel.app/s1e16?t=2741"
+   }
+  ],
+  "president-dallin-h-oaks-sunday-morning": [
+   {
+    "episode": "S6E14",
+    "title": "The Book of Enoch Part 4 (Joseph Smith's Teachings)",
+    "ref": "Moses 7:62–63",
+    "at": "1:03:02",
+    "url": "https://litner-bayesline.vercel.app/s6e14?t=3782"
+   },
+   {
+    "episode": "S6E7",
+    "title": "The Book of Enoch Part 1",
+    "ref": "Moses 6",
+    "at": "47:55",
+    "url": "https://litner-bayesline.vercel.app/s6e7?t=2875"
+   },
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   }
+  ],
+  "sister-andrea-munoz-spannaus": [
+   {
+    "episode": "S6E22",
+    "title": "King Follett Sermon Part 1",
+    "ref": "Moses 1:39",
+    "at": "27:35",
+    "url": "https://litner-bayesline.vercel.app/s6e22?t=1655"
+   },
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   },
+   {
+    "episode": "S5E45",
+    "title": "Changes to the Section Headings and Polygamy",
+    "ref": "D&C 112",
+    "at": "45:30",
+    "url": "https://litner-bayesline.vercel.app/s5e45?t=2730"
+   }
+  ],
+  "elder-gary-e-stevenson": [
+   {
+    "episode": "S6E28",
+    "title": "Nauvoo Lyceum Part 2 and the Trinity",
+    "ref": "Moroni 8",
+    "at": "41:20",
+    "url": "https://litner-bayesline.vercel.app/s6e28?t=2480"
+   },
+   {
+    "episode": "S5E13",
+    "title": "Calvinism vs The Standard of Truth Podcast",
+    "ref": "John 3:16",
+    "at": "49:30",
+    "url": "https://litner-bayesline.vercel.app/s5e13?t=2970"
+   },
+   {
+    "episode": "S4E30",
+    "title": "Lectures on Faith and Joseph Smith Removed as Prophet Part 1",
+    "ref": "D&C 130:22",
+    "at": "22:52",
+    "url": "https://litner-bayesline.vercel.app/s4e30?t=1372"
+   }
+  ],
+  "elder-gerald-causse": [
+   {
+    "episode": "S6E27",
+    "title": "As Far As It Is Translated Correctly",
+    "ref": "2 Corinthians 13:1",
+    "at": "36:49",
+    "url": "https://litner-bayesline.vercel.app/s6e27?t=2209"
+   },
+   {
+    "episode": "S5E48",
+    "title": "Dead and in Hell Part 6",
+    "ref": "D&C 1",
+    "at": "15:09",
+    "url": "https://litner-bayesline.vercel.app/s5e48?t=909"
+   },
+   {
+    "episode": "S5E45",
+    "title": "Changes to the Section Headings and Polygamy",
+    "ref": "D&C 107",
+    "at": "41:03",
+    "url": "https://litner-bayesline.vercel.app/s5e45?t=2463"
+   }
+  ],
+  "elder-quentin-l-cook": [
+   {
+    "episode": "S6E37",
+    "title": "Exceptions Are God's to Make",
+    "ref": "D&C 124",
+    "at": "16:34",
+    "url": "https://litner-bayesline.vercel.app/s6e37?t=994"
+   },
+   {
+    "episode": "S6E35",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 5 (FINAL)",
+    "ref": "2 Nephi 2",
+    "at": "11:06",
+    "url": "https://litner-bayesline.vercel.app/s6e35?t=666"
+   },
+   {
+    "episode": "S6E29",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 1",
+    "ref": "D&C 121",
+    "at": "5:19",
+    "url": "https://litner-bayesline.vercel.app/s6e29?t=319"
+   }
+  ],
+  "elder-paul-h-sinclair": [
+   {
+    "episode": "S6E27",
+    "title": "As Far As It Is Translated Correctly",
+    "ref": "Luke 23:43",
+    "at": "55:34",
+    "url": "https://litner-bayesline.vercel.app/s6e27?t=3334"
+   },
+   {
+    "episode": "S6E4",
+    "title": "Gadianton Robbers Part 2 (the Spirit World)",
+    "ref": "Luke 23:43",
+    "at": "19:43",
+    "url": "https://litner-bayesline.vercel.app/s6e4?t=1183"
+   },
+   {
+    "episode": "S5E38",
+    "title": "Orson Hyde and the Prophecy of the Civil War Part 2",
+    "ref": "Matthew 19",
+    "at": "11:36",
+    "url": "https://litner-bayesline.vercel.app/s5e38?t=696"
+   }
+  ],
+  "elder-james-fantone": [
+   {
+    "episode": "S5E43",
+    "title": "Dead and in Hell Part 3",
+    "ref": "3 Nephi 27:5–8",
+    "at": "14:14",
+    "url": "https://litner-bayesline.vercel.app/s5e43?t=854"
+   },
+   {
+    "episode": "S3E50",
+    "title": "Testimony of the Prophet Joseph Smith",
+    "ref": "Alma 5",
+    "at": "34:27",
+    "url": "https://litner-bayesline.vercel.app/s3e50?t=2067"
+   },
+   {
+    "episode": "S3E12",
+    "title": "The Changing Name of the Church",
+    "ref": "3 Nephi 27:2–8",
+    "at": "15:10",
+    "url": "https://litner-bayesline.vercel.app/s3e12?t=910"
+   }
+  ],
+  "president-timothy-l-farnes": [
+   {
+    "episode": "S6E27",
+    "title": "As Far As It Is Translated Correctly",
+    "ref": "James 2",
+    "at": "59:34",
+    "url": "https://litner-bayesline.vercel.app/s6e27?t=3574"
+   },
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   },
+   {
+    "episode": "S5E43",
+    "title": "Dead and in Hell Part 3",
+    "ref": "D&C 20",
+    "at": "16:19",
+    "url": "https://litner-bayesline.vercel.app/s5e43?t=979"
+   }
+  ],
+  "elder-christian-c-chigbundu": [
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   },
+   {
+    "episode": "S5E43",
+    "title": "Dead and in Hell Part 3",
+    "ref": "D&C 20",
+    "at": "16:19",
+    "url": "https://litner-bayesline.vercel.app/s5e43?t=979"
+   },
+   {
+    "episode": "S5E40",
+    "title": "Dead and in Hell Part 2",
+    "ref": "D&C 20",
+    "at": "13:18",
+    "url": "https://litner-bayesline.vercel.app/s5e40?t=798"
+   }
+  ],
+  "elder-neil-l-andersen": [
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   },
+   {
+    "episode": "S5E48",
+    "title": "Dead and in Hell Part 6",
+    "ref": "D&C 1",
+    "at": "15:09",
+    "url": "https://litner-bayesline.vercel.app/s5e48?t=909"
+   },
+   {
+    "episode": "S5E43",
+    "title": "Dead and in Hell Part 3",
+    "ref": "D&C 20",
+    "at": "16:19",
+    "url": "https://litner-bayesline.vercel.app/s5e43?t=979"
+   }
+  ],
+  "president-dieter-f-uchtdorf": [
+   {
+    "episode": "S6E5",
+    "title": "Gadianton Robbers Part 3 (Brigham Young Sermon)",
+    "ref": "Matthew 8:8",
+    "at": "46:27",
+    "url": "https://litner-bayesline.vercel.app/s6e5?t=2787"
+   },
+   {
+    "episode": "S6E1",
+    "title": "Book of Moses and D&C 24",
+    "ref": "D&C 20",
+    "at": "11:15",
+    "url": "https://litner-bayesline.vercel.app/s6e1?t=675"
+   },
+   {
+    "episode": "S5E43",
+    "title": "Dead and in Hell Part 3",
+    "ref": "D&C 20",
+    "at": "16:19",
+    "url": "https://litner-bayesline.vercel.app/s5e43?t=979"
+   }
+  ],
+  "elder-vaiangina-sikahema": [
+   {
+    "episode": "S5E48",
+    "title": "Dead and in Hell Part 6",
+    "ref": "D&C 1",
+    "at": "15:09",
+    "url": "https://litner-bayesline.vercel.app/s5e48?t=909"
+   },
+   {
+    "episode": "S5E13",
+    "title": "Calvinism vs The Standard of Truth Podcast",
+    "ref": "Matthew 7:22–23",
+    "at": "1:00:40",
+    "url": "https://litner-bayesline.vercel.app/s5e13?t=3640"
+   },
+   {
+    "episode": "S5 Bonus 1",
+    "title": "Search These Commandments and a New Theme Song",
+    "ref": "D&C 1",
+    "at": "7:17",
+    "url": "https://litner-bayesline.vercel.app/s5b1?t=437"
+   }
+  ],
+  "elder-kevin-j-hathaway": [
+   {
+    "episode": "S6E39",
+    "title": "Saved By Grace After All You Can Do",
+    "ref": "2 Nephi 25:23",
+    "at": "32:05",
+    "url": "https://litner-bayesline.vercel.app/s6e39?t=1925"
+   },
+   {
+    "episode": "S6E35",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 5 (FINAL)",
+    "ref": "2 Nephi 2",
+    "at": "11:06",
+    "url": "https://litner-bayesline.vercel.app/s6e35?t=666"
+   },
+   {
+    "episode": "S6E29",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 1",
+    "ref": "D&C 121",
+    "at": "5:19",
+    "url": "https://litner-bayesline.vercel.app/s6e29?t=319"
+   }
+  ],
+  "elder-jeremiah-j-morgan": [
+   {
+    "episode": "S6E29",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 1",
+    "ref": "D&C 121",
+    "at": "5:19",
+    "url": "https://litner-bayesline.vercel.app/s6e29?t=319"
+   },
+   {
+    "episode": "S6E20",
+    "title": "Declaration of Independence Part 1 (rerelease of premium CTRI)",
+    "ref": "D&C 2",
+    "at": "40:43",
+    "url": "https://litner-bayesline.vercel.app/s6e20?t=2443"
+   },
+   {
+    "episode": "S5E45",
+    "title": "Changes to the Section Headings and Polygamy",
+    "ref": "D&C 121",
+    "at": "41:03",
+    "url": "https://litner-bayesline.vercel.app/s5e45?t=2463"
+   }
+  ],
+  "elder-david-a-bednar": [
+   {
+    "episode": "S6E33",
+    "title": "Did Brigham Revise Joseph's Journal?",
+    "ref": "D&C 132",
+    "at": "18:41",
+    "url": "https://litner-bayesline.vercel.app/s6e33?t=1121"
+   },
+   {
+    "episode": "S6E22",
+    "title": "King Follett Sermon Part 1",
+    "ref": "D&C 132",
+    "at": "9:27",
+    "url": "https://litner-bayesline.vercel.app/s6e22?t=567"
+   },
+   {
+    "episode": "S6E13",
+    "title": "The CES Letter and Polygamy",
+    "ref": "D&C 132",
+    "at": "21:52",
+    "url": "https://litner-bayesline.vercel.app/s6e13?t=1312"
+   }
+  ],
+  "elder-michael-a-dunn": [
+   {
+    "episode": "S6E11",
+    "title": "The Day Bernie Came Inside",
+    "ref": "James 1:5",
+    "at": "1:02:20",
+    "url": "https://litner-bayesline.vercel.app/s6e11?t=3740"
+   },
+   {
+    "episode": "S5E38",
+    "title": "Orson Hyde and the Prophecy of the Civil War Part 2",
+    "ref": "Matthew 19",
+    "at": "11:36",
+    "url": "https://litner-bayesline.vercel.app/s5e38?t=696"
+   },
+   {
+    "episode": "S5E32",
+    "title": "Atheism Part 1",
+    "ref": "D&C 84",
+    "at": "2:27",
+    "url": "https://litner-bayesline.vercel.app/s5e32?t=147"
+   }
+  ],
+  "elder-moises-villanueva": [
+   {
+    "episode": "S6E43",
+    "title": "The Lord's Prayer",
+    "ref": "Matthew 6:6–8",
+    "at": "23:12",
+    "url": "https://litner-bayesline.vercel.app/s6e43?t=1392"
+   },
+   {
+    "episode": "S6E16",
+    "title": "Gathering in Missouri to Move Irrigation Pipe",
+    "ref": "D&C 58",
+    "at": "49:42",
+    "url": "https://litner-bayesline.vercel.app/s6e16?t=2982"
+   },
+   {
+    "episode": "S3E16",
+    "title": "Missionary Extravaganza",
+    "ref": "D&C 58",
+    "at": "28:11",
+    "url": "https://litner-bayesline.vercel.app/s3e16?t=1691"
+   }
+  ],
+  "elder-patricio-m-giuffra": [
+   {
+    "episode": "S1E9",
+    "title": "Revelation to a Radical Christian Group",
+    "ref": "Mark 12",
+    "at": "35:50",
+    "url": "https://litner-bayesline.vercel.app/s1e9?t=2150"
+   }
+  ],
+  "president-d-todd-christofferson": [
+   {
+    "episode": "S6E16",
+    "title": "Gathering in Missouri to Move Irrigation Pipe",
+    "ref": "D&C 58",
+    "at": "49:42",
+    "url": "https://litner-bayesline.vercel.app/s6e16?t=2982"
+   },
+   {
+    "episode": "S3E16",
+    "title": "Missionary Extravaganza",
+    "ref": "D&C 58",
+    "at": "28:11",
+    "url": "https://litner-bayesline.vercel.app/s3e16?t=1691"
+   },
+   {
+    "episode": "S2E34",
+    "title": "After Much Tribulation Come the Blessings (D&C 58)",
+    "ref": "D&C 58:26–27",
+    "at": "0:39",
+    "url": "https://litner-bayesline.vercel.app/s2e34?t=39"
+   }
+  ],
+  "elder-ronald-a-rasband": [
+   {
+    "episode": "S5E7",
+    "title": "D&C 10 Part 1",
+    "ref": "1 Nephi 8:36–9",
+    "at": "25:17",
+    "url": "https://litner-bayesline.vercel.app/s5e7?t=1517"
+   },
+   {
+    "episode": "S4E33",
+    "title": "Theory for the Origin of the Book of Mormon",
+    "ref": "1 Nephi 8:2",
+    "at": "20:18",
+    "url": "https://litner-bayesline.vercel.app/s4e33?t=1218"
+   },
+   {
+    "episode": "S2E49",
+    "title": "The Problem with Punctuation",
+    "ref": "Luke 15:11–32",
+    "at": "22:32",
+    "url": "https://litner-bayesline.vercel.app/s2e49?t=1352"
+   }
+  ],
+  "elder-patrick-kearon": [
+   {
+    "episode": "S2E46",
+    "title": "Mormon Battalion Part 2",
+    "ref": "Alma 36",
+    "at": "6:02",
+    "url": "https://litner-bayesline.vercel.app/s2e46?t=362"
+   }
+  ],
+  "elder-dale-g-renlund": [
+   {
+    "episode": "S6E35",
+    "title": "The Great Apostate Hall of Shame - #8 Ezra Booth Part 5 (FINAL)",
+    "ref": "2 Nephi 2",
+    "at": "11:06",
+    "url": "https://litner-bayesline.vercel.app/s6e35?t=666"
+   },
+   {
+    "episode": "S6E26",
+    "title": "The Great Apostate Hall of Shame - OLI Joseph Wakefield",
+    "ref": "2 Nephi 2",
+    "at": "49:21",
+    "url": "https://litner-bayesline.vercel.app/s6e26?t=2961"
+   },
+   {
+    "episode": "S4E12",
+    "title": "Live Studio Audience Part 1 (Phebe Draper Palmer Brown Mail Bag)",
+    "ref": "2 Nephi 2",
+    "at": "10:11",
+    "url": "https://litner-bayesline.vercel.app/s4e12?t=611"
+   }
+  ],
+  "elder-clark-g-gilbert": [
+   {
+    "episode": "S4E32",
+    "title": "Questions About Joseph Smith",
+    "ref": "John 8:10–11",
+    "at": "1:10:07",
+    "url": "https://litner-bayesline.vercel.app/s4e32?t=4207"
+   }
+  ],
+  "elder-matthew-j-eyring": [
+   {
+    "episode": "S6E36",
+    "title": "Joseph Smith on the Second Coming (Churchy McChurch Church)",
+    "ref": "D&C 45",
+    "at": "29:23",
+    "url": "https://litner-bayesline.vercel.app/s6e36?t=1763"
+   },
+   {
+    "episode": "S5E34",
+    "title": "Atheism Part 3",
+    "ref": "D&C 88",
+    "at": "1:51",
+    "url": "https://litner-bayesline.vercel.app/s5e34?t=111"
+   },
+   {
+    "episode": "S4E36",
+    "title": "George Albert Smith's Apocalyptic Vision",
+    "ref": "D&C 45",
+    "at": "36:37",
+    "url": "https://litner-bayesline.vercel.app/s4e36?t=2197"
+   }
+  ],
+  "elder-edward-dube": [
+   {
+    "episode": "S5E19",
+    "title": "Saved by Grace",
+    "ref": "Moroni 10:32–33",
+    "at": "57:02",
+    "url": "https://litner-bayesline.vercel.app/s5e19?t=3422"
+   },
+   {
+    "episode": "S5E17",
+    "title": "Easter Special – D&C 19",
+    "ref": "Luke 22:39–44",
+    "at": "40:07",
+    "url": "https://litner-bayesline.vercel.app/s5e17?t=2407"
+   }
+  ],
+  "elder-thabo-lebethoa": [
+   {
+    "episode": "S5E19",
+    "title": "Saved by Grace",
+    "ref": "3 Nephi 11",
+    "at": "39:49",
+    "url": "https://litner-bayesline.vercel.app/s5e19?t=2389"
+   }
+  ],
+  "elder-alfred-kyungu": [
+   {
+    "episode": "S5E31",
+    "title": "Crosses and Purgatory",
+    "ref": "Matthew 12",
+    "at": "20:52",
+    "url": "https://litner-bayesline.vercel.app/s5e31?t=1252"
+   }
+  ]
+ }
+}
